@@ -1,0 +1,16 @@
+{
+  "name": "hiloymapa-web",
+  "version": "1.0.0",
+  "description": "Web oficial del canal Hilo y Mapa: se genera sola a partir del RSS de YouTube y del contenido que envía el estudio.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "actualizar": "node generador/actualizar.mjs",
+    "construir": "node generador/construir.mjs",
+    "servir": "node generador/servir.mjs",
+    "dev": "node generador/actualizar.mjs && node generador/construir.mjs && node generador/servir.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

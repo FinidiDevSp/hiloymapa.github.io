@@ -1,0 +1,130 @@
+{
+ "nota": "Lo genera «node estudio.mjs web <episodio>» en el estudio. No lo edites a mano: se sobrescribe.",
+ "videoId": "se0uOxYclgU",
+ "episodio": "van-gogh-castanos-en-flor",
+ "titulo": "Van Gogh: la disputa por el cuadro de 190 millones",
+ "duracion": 194,
+ "lugares": [
+  {
+   "id": "amsterdam",
+   "texto": "Ámsterdam",
+   "lon": 4.9,
+   "lat": 52.37
+  },
+  {
+   "id": "berlin",
+   "texto": "Berlín",
+   "lon": 13.4,
+   "lat": 52.52
+  },
+  {
+   "id": "viena",
+   "texto": "Viena",
+   "lon": 16.37,
+   "lat": 48.21
+  }
+ ],
+ "shorts": [
+  "_tO64WlRtvA",
+  "QBW9u-c_8V4",
+  "GHnPJ3yrdjY"
+ ],
+ "datosVerificados": 45,
+ "fuentes": [
+  "https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/vincent-van-gogh-chataigner-en-fleurs-roses-et?locale=en",
+  "https://www.sothebys.com/articles/van-goghs-chataigniers-en-fleurs-agreement-reached-ahead-of-18-november-sale",
+  "https://www.sothebys.com/articles/190m-record-breaking-van-gogh-leads-historic-777m-night-at-sothebys",
+  "https://www.state.gov/washington-conference-principles-on-nazi-confiscated-art",
+  "https://www.state.gov/office-of-the-special-envoy-for-holocaust-issues/best-practices-for-the-washington-conference-principles-on-nazi-confiscated-art",
+  "https://www.dnb.de/EN/Ueber-uns/Provenienzforschung/_content/geklaerteFaelleBermann_akk.html",
+  "https://www.lbi.org/german-exile-publishers/bermann-fischer-verlag/",
+  "https://www.webexhibits.org/vangogh/letter/21/637.htm",
+  "https://www.bbc.com/news/articles/cmwy05gg75lvo",
+  "https://www.bbc.com/news/articles/c5dj1dkwzvzwo",
+  "https://www.bbc.com/mundo/articles/cm3wg162e36wo",
+  "https://www.artnews.com/art-news/news/sothebys-van-gogh-180-million-restitution-claim-1936-sale-1234806093/",
+  "https://www.artnews.com/art-news/market/sothebys-van-gogh-restitution-settlement-fischer-heirs-1234806294/",
+  "https://www.theartnewspaper.com/2026/11/17/sothebys-makes-last-minute-deal-with-jewish-heirs-to-sell-180m-van-gogh-painting",
+  "https://theartnewspaper.com/2026/11/20/deeper-look-van-goghs-record-breaking-blossoming-chestnut-trees-190m-sale-restitution-claim",
+  "https://efe.com/cultura/2026-11-19/subasta-cuadro-chataigniers-en-fleurs-van-gogh"
+ ],
+ "transcripcion": [
+  {
+   "t": 0.6,
+   "texto": "¿Por qué menciona Sotheby’s a los herederos de una familia judía que vendió este Van Gogh noventa años antes?"
+  },
+  {
+   "t": 30.5,
+   "texto": "Van Gogh lo pintó en Auvers-sur-Oise, en mayo de mil ochocientos noventa: es el estudio de castaños de flor rosa que menciona en una carta."
+  },
+  {
+   "t": 43.7,
+   "texto": "Lo compró Samuel Fischer, editor judío establecido en Berlín."
+  },
+  {
+   "t": 50.3,
+   "texto": "Al morir Fischer, quedó en la familia."
+  },
+  {
+   "t": 54.7,
+   "texto": "Huyendo de los nazis, la hija y el yerno de Fischer se llevaron parte de la editorial a Viena."
+  },
+  {
+   "t": 64,
+   "texto": "El cuadro, en cambio, estaba en Ámsterdam."
+  },
+  {
+   "t": 68.1,
+   "texto": "Allí lo vendió la familia, en mil novecientos treinta y seis."
+  },
+  {
+   "t": 74.7,
+   "texto": "Según Sotheby’s, que cita los archivos de la galería, por sesenta y ocho mil francos suizos."
+  },
+  {
+   "t": 83.9,
+   "texto": "Casi cuarenta años después lo compraron los Blaquier-Arrieta: la familia que lo ha vendido ahora."
+  },
+  {
+   "t": 94.3,
+   "texto": "En dos mil veintiséis, los herederos Fischer pidieron a Sotheby’s que no subastara este cuadro."
+  },
+  {
+   "t": 103.3,
+   "texto": "Alegaban que la persecución había puesto a la familia bajo presión económica."
+  },
+  {
+   "t": 110.4,
+   "texto": "Por eso, decían, habían tenido que vender."
+  },
+  {
+   "t": 116.3,
+   "texto": "Para Sotheby’s, no constaba coacción y el precio fue de mercado."
+  },
+  {
+   "t": 123.1,
+   "texto": "Ninguna postura quedó probada."
+  },
+  {
+   "t": 127.2,
+   "texto": "La víspera de la subasta, Sotheby’s anunció un acuerdo entre las dos familias."
+  },
+  {
+   "t": 135.8,
+   "texto": "Por eso la ficha nombra a los herederos. No se publicaron las condiciones."
+  },
+  {
+   "t": 144.3,
+   "texto": "Al día siguiente del anuncio, en Nueva York, el cuadro batió el récord de Van Gogh en subasta."
+  },
+  {
+   "t": 153.2,
+   "texto": "Precio final: ciento noventa coma cuatro millones de dólares, comisiones incluidas."
+  },
+  {
+   "t": 162.8,
+   "texto": "Noventa años después de que los Fischer lo vendieran, se subastó conforme a un acuerdo con sus herederos."
+  }
+ ],
+ "actualizado": "2026-11-20T21:43:47.298Z"
+}

@@ -1,0 +1,203 @@
+{
+ "nota": "Lo genera «node estudio.mjs web <episodio>» en el estudio. No lo edites a mano: se sobrescribe.",
+ "videoId": "-nRCs5mqEd0",
+ "episodio": "mona-lisa-robo",
+ "titulo": "Mona Lisa: las cartas del hombre que la robó",
+ "duracion": 497,
+ "lugares": [
+  {
+   "id": "paris",
+   "texto": "París",
+   "lon": 2.352,
+   "lat": 48.857
+  },
+  {
+   "id": "londres",
+   "texto": "Londres",
+   "lon": -0.128,
+   "lat": 51.507
+  },
+  {
+   "id": "florencia",
+   "texto": "Florencia",
+   "lon": 11.256,
+   "lat": 43.77
+  },
+  {
+   "id": "roma",
+   "texto": "Roma",
+   "lon": 12.496,
+   "lat": 41.903
+  },
+  {
+   "id": "milan",
+   "texto": "Milán",
+   "lon": 9.19,
+   "lat": 45.464
+  },
+  {
+   "id": "modane",
+   "texto": "Modane",
+   "lon": 6.667,
+   "lat": 45.2
+  },
+  {
+   "id": "dumenza",
+   "texto": "Dumenza",
+   "lon": 8.786,
+   "lat": 46.023
+  }
+ ],
+ "shorts": [
+  "q-Fewnuj4nI",
+  "9HvijVagl4w",
+  "3yey6duduHM"
+ ],
+ "datosVerificados": 60,
+ "fuentes": [
+  "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia-3",
+  "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia-1",
+  "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/il-processo",
+  "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/le-indagini",
+  "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/i-tentativi-di-vendita-del-dipinto",
+  "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia",
+  "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/monna-lisa-in-italia",
+  "https://collections.louvre.fr/en/ark:/53355/cl010062370",
+  "https://www.smithsonianmag.com/arts-culture/stolen-how-the-mona-lisa-became-the-worlds-most-famous-painting-16406234/",
+  "https://slate.com/human-interest/2011/08/who-stole-the-mona-lisa-the-world-s-most-famous-art-heist-100-years-on.html",
+  "https://www.vanityfair.com/culture/2009/05/mona-lisa-excerpt200905",
+  "https://www.theguardian.com/artanddesign/2011/aug/05/mona-lisa-theft-louvre-leonardo",
+  "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/"
+ ],
+ "transcripcion": [
+  {
+   "t": 0.6,
+   "texto": "Florencia, noviembre de mil novecientos trece. Un anticuario recibe una carta firmada «Leonard uve». Le ofrece devolver a Italia la Mona Lisa, desaparecida del Louvre hace más de dos años."
+  },
+  {
+   "t": 19.6,
+   "texto": "Quiere que acabe en los Uffizi, pero no renuncia a una compensación. Según el anticuario, pide quinientas mil liras."
+  },
+  {
+   "t": 51.9,
+   "texto": "Dos años antes, en París. El remitente se llamaba Vincenzo Peruggia: un pintor de brocha gorda nacido en Dumenza, cerca de Varese."
+  },
+  {
+   "t": 66,
+   "texto": "La policía ya lo conocía: en mil novecientos nueve lo había fichado y fotografiado."
+  },
+  {
+   "t": 75.3,
+   "texto": "Y había trabajado en el Louvre, para una empresa que, según muchas fuentes, puso bajo cristal varios cuadros. Quizá también la Mona Lisa."
+  },
+  {
+   "t": 87.9,
+   "texto": "Colgaba en el Salón Carré: una tabla de menos de ochenta centímetros de alto, sujeta solo por cuatro ganchos de hierro."
+  },
+  {
+   "t": 100.2,
+   "texto": "Lunes, veintiuno de agosto de mil novecientos once, día de cierre del Louvre. Lo que sigue lo contó él mismo. Peruggia entra como un obrero más, con la blusa blanca de los empleados."
+  },
+  {
+   "t": 117.6,
+   "texto": "Descuelga el cuadro y, en una escalera de servicio, le quita el marco y la caja de cristal. Los deja allí."
+  },
+  {
+   "t": 129.3,
+   "texto": "La puerta de abajo está cerrada. Desatornilla el pomo. Un fontanero del museo lo toma por un compañero y le abre."
+  },
+  {
+   "t": 141.5,
+   "texto": "Sale con el cuadro envuelto en su blusa. Junto al Sena tira el pomo a una zanja."
+  },
+  {
+   "t": 149.4,
+   "texto": "Nadie da la alarma en más de un día. El martes, el pintor Louis Béroud llega a copiar el cuadro y solo encuentra cuatro ganchos."
+  },
+  {
+   "t": 164.7,
+   "texto": "El museo cierra una semana. Al reabrir, miles de personas hacen cola para ver un hueco en la pared. Entre ellas, Franz Kafka."
+  },
+  {
+   "t": 179.4,
+   "texto": "En el cristal, Alphonse Bertillon encuentra la huella de un pulgar. La compara con las de los empleados del museo: ninguna coincide. Peruggia, que había trabajado allí para una contrata, no estaba en esa lista."
+  },
+  {
+   "t": 195.7,
+   "texto": "Tampoco sirvió su ficha de mil novecientos nueve. Se suele contar que guardaba solo la mano derecha, y la huella era de la izquierda."
+  },
+  {
+   "t": 208.8,
+   "texto": "En noviembre, la policía pasa por su cuarto, en el distrito diez, como por el de otros obreros del Louvre. Se va sin el cuadro."
+  },
+  {
+   "t": 220.2,
+   "texto": "Y el cuadro lo tenía él. Según declaró, primero en un cuartucho junto a su habitación. Al final, en una caja de madera que hizo él mismo."
+  },
+  {
+   "t": 235.3,
+   "texto": "Pasan casi dos años. Antes que a Italia, llama a otra puerta: en julio de mil novecientos trece cuenta su historia a los anticuarios Duveen, en Londres. Él diría que fue a pedir consejo; el tribunal, que intentó venderlo. En otoño escribe a un político para que le consiga un pago."
+  },
+  {
+   "t": 258.7,
+   "texto": "Entonces ve un anuncio del anticuario florentino Alfredo Geri en el Corriere della Sera. Le escribe: es la carta firmada «Leonard uve»."
+  },
+  {
+   "t": 274.2,
+   "texto": "Geri contesta. El diez de diciembre, Peruggia llega a Florencia, se aloja en el Hotel Trípoli y esa tarde va a ver al anticuario."
+  },
+  {
+   "t": 287.2,
+   "texto": "Al día siguiente, Geri y Giovanni Poggi, director de los Uffizi, van a su hotel. Peruggia saca el cuadro de una caja de madera de doble fondo."
+  },
+  {
+   "t": 302.2,
+   "texto": "Con la excusa de la poca luz, se lo llevan a los Uffizi. Poggi lo autentifica por el sello y el número del Louvre en el reverso, y por las grietas de la pintura."
+  },
+  {
+   "t": 317.2,
+   "texto": "El doce de diciembre lo detienen en su hotel. Confiesa desde el primer interrogatorio."
+  },
+  {
+   "t": 327.9,
+   "texto": "Antes de volver a París, Italia la pasea por Florencia, Roma y Milán. El último día del año cruza la frontera."
+  },
+  {
+   "t": 341.8,
+   "texto": "El cuatro de enero de mil novecientos catorce vuelve al Salón Carré. En dos días pasan a verla más de cien mil personas."
+  },
+  {
+   "t": 353.7,
+   "texto": "Mientras faltaba, la buscaron con su propia cara: la policía imprimió miles de copias de su foto, y los Amigos del Louvre ofrecieron una recompensa de veinticinco mil. Ya era célebre, sobre todo entre entendidos; la cobertura del robo la hizo famosa en todo el mundo."
+  },
+  {
+   "t": 375.4,
+   "texto": "Peruggia dijo que la robó para devolver a Italia lo que Napoleón se había llevado."
+  },
+  {
+   "t": 382.7,
+   "texto": "Pero la Mona Lisa no salió de Italia con Napoleón. La llevó a Francia el propio Leonardo, y probablemente la compró el rey Francisco primero."
+  },
+  {
+   "t": 397.7,
+   "texto": "Y el propio Peruggia declaró que la eligió porque era el cuadro más pequeño y el más fácil de llevar."
+  },
+  {
+   "t": 408,
+   "texto": "En junio de mil novecientos catorce, el tribunal de Florencia lee las cartas que escribió a su padre. En ellas le prometía una fortuna. Las toma como prueba de que buscaba dinero."
+  },
+  {
+   "t": 423.6,
+   "texto": "Lo condenan a un año y quince días. En apelación, se queda en unos siete meses, ya cumplidos. Sale libre."
+  },
+  {
+   "t": 434.9,
+   "texto": "¿Patriota o vendedor? Quería que acabara en Italia, sí. Pero antes buscó a unos anticuarios en Londres, pidió a un político que le consiguiera dinero y a su padre le prometía una fortuna. Sus cartas dicen las dos cosas: un patriota que quería cobrar."
+  },
+  {
+   "t": 457.1,
+   "texto": "Y quien cobró fue el hombre que abrió aquella carta: Alfredo Geri recibió las veinticinco mil de la recompensa. Peruggia se llevó unos meses de cárcel. Y la Mona Lisa, la fama."
+  }
+ ],
+ "actualizado": "2026-11-20T21:43:47.213Z"
+}

@@ -1,0 +1,77 @@
+name: Web
+
+# Lee el RSS del canal cada 30 minutos y, si hay vídeos nuevos o cambiados, los guarda en datos/videos.json y
+# publica la web. También se publica con cada push (por ejemplo, cuando el estudio envía contenido/<id>.json).
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: web
+  cancel-in-progress: false
+
+jobs:
+  construir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    outputs:
+      publicar: ${{ steps.cambios.outputs.publicar }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+
+      - name: Leer el RSS del canal
+        run: node generador/actualizar.mjs
+
+      - name: Guardar los vídeos nuevos
+        id: cambios
+        run: |
+          if git diff --quiet -- datos/videos.json; then
+            echo "Sin vídeos nuevos"
+            # Sin cambios, una ejecución programada no vuelve a publicar lo mismo.
+            if [ "${{ github.event_name }}" = "schedule" ]; then echo "publicar=no" >> "$GITHUB_OUTPUT"; else echo "publicar=si" >> "$GITHUB_OUTPUT"; fi
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add datos/videos.json
+            git commit -m "Vídeos nuevos del canal (RSS)"
+            git push
+            echo "publicar=si" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Configurar Pages
+        if: steps.cambios.outputs.publicar == 'si'
+        id: pages
+        uses: actions/configure-pages@v5
+
+      - name: Construir la web
+        if: steps.cambios.outputs.publicar == 'si'
+        run: node generador/construir.mjs --base="${{ steps.pages.outputs.base_url }}/"
+
+      - name: Subir la web
+        if: steps.cambios.outputs.publicar == 'si'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  publicar:
+    needs: construir
+    if: needs.construir.outputs.publicar == 'si'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.despliegue.outputs.page_url }}
+    steps:
+      - id: despliegue
+        uses: actions/deploy-pages@v4

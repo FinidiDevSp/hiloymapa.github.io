@@ -1,0 +1,256 @@
+{
+ "nota": "Lo genera «node estudio.mjs web <episodio>» en el estudio. No lo edites a mano: se sobrescribe.",
+ "videoId": "91PcDkJNMvI",
+ "episodio": "capone-auge-caida",
+ "titulo": "Al Capone: los tres papeles que acabaron con él | Chicago y la Ley Seca",
+ "duracion": 675,
+ "lugares": [
+  {
+   "id": "brooklyn",
+   "texto": "Nueva York",
+   "lon": -73.95,
+   "lat": 40.65
+  },
+  {
+   "id": "washington",
+   "texto": "Washington",
+   "lon": -77.04,
+   "lat": 38.9
+  },
+  {
+   "id": "chicago",
+   "texto": "Chicago",
+   "lon": -87.63,
+   "lat": 41.85
+  },
+  {
+   "id": "atlanta",
+   "texto": "Atlanta",
+   "lon": -84.39,
+   "lat": 33.75
+  },
+  {
+   "id": "palmIsland",
+   "texto": "Miami",
+   "lon": -80.15,
+   "lat": 25.78
+  },
+  {
+   "id": "alcatraz",
+   "texto": "San Francisco",
+   "lon": -122.42,
+   "lat": 37.83
+  }
+ ],
+ "shorts": [
+  "GnYP0MenlL4",
+  "6bhhNS85m28",
+  "Giz4tc5zU5A"
+ ],
+ "datosVerificados": 47,
+ "fuentes": [
+  "https://www.irs.gov/pub/foia/file-2-report-dated-12211933-in-re-alphonse-capone-by-sa-frank-wilson.pdf",
+  "https://www.fbi.gov/history/famous-cases/al-capone",
+  "https://famous-trials.com/alcapone/1474-home",
+  "https://famous-trials.com/alcapone/1473-mattinglyletter",
+  "https://famous-trials.com/alcapone/1495-wilsontranscript",
+  "https://www.archives.gov/chicago/highlights/capone",
+  "https://www.fjc.gov/history/exhibits/prohibition-in-federal-courts-timeline",
+  "https://encyclopedia.chicagohistory.org/pages/2214.html",
+  "https://themobmuseum.org/blog/geraldo-rivera-uncovered-the-mystery-of-al-capones-vaults-on-live-television-40-years-ago",
+  "https://themobmuseum.org/blog/capone-tax-evasion-trial-90-years-ago-the-t-men-had-the-goods-on-mob-chief/",
+  "https://www.wttw.com/chicago-stories/al-capones-bloody-business/beer-wars-and-al-capones-bloody-business",
+  "https://www.britannica.com/biography/Johnny-Torrio",
+  "https://www.pbs.org/newshour/health/infectious-disease-sprung-al-capone-alcatraz",
+  "https://en.wikipedia.org/wiki/Al_Capone",
+  "https://en.wikipedia.org/wiki/Frank_J._Wilson",
+  "https://www.mentalfloss.com/article/78842/oral-history-30-years-ago-geraldo-rivera-opened-al-capones-vault"
+ ],
+ "transcripcion": [
+  {
+   "t": 0.6,
+   "texto": "Veintiuno de abril de mil novecientos ochenta y seis. Chicago. En el sótano de un viejo hotel abandonado, unas cámaras de televisión apuntan a un muro."
+  },
+  {
+   "t": 17.5,
+   "texto": "Unos treinta millones de personas lo ven en directo. Junto a las cámaras espera un agente del Fisco, por si aparece dinero."
+  },
+  {
+   "t": 29.6,
+   "texto": "Aquel hotel había sido el cuartel general de Al Capone. Y, según se decía, el muro escondía su tesoro."
+  },
+  {
+   "t": 58.9,
+   "texto": "Alphonse Capone nació en Brooklyn en mil ochocientos noventa y nueve, hijo de un barbero y una costurera italianos."
+  },
+  {
+   "t": 73.1,
+   "texto": "A los catorce años lo expulsaron de la escuela por pegar a una maestra. En la calle encontró a su mentor: Johnny Torrio."
+  },
+  {
+   "t": 86,
+   "texto": "En un bar de Coney Island insultó a una joven, y el hermano de ella le rajó la cara. Le quedaron las cicatrices y un apodo que odiaría siempre: Scarface."
+  },
+  {
+   "t": 101.1,
+   "texto": "Hacia mil novecientos diecinueve, Torrio lo llamó a Chicago para trabajar en un burdel. Allí, probablemente, contrajo la enfermedad que acabaría con él."
+  },
+  {
+   "t": 116.1,
+   "texto": "El diecisiete de enero de mil novecientos veinte, el mismo día en que cumplía veintiún años, entró en vigor la Ley Seca."
+  },
+  {
+   "t": 129.2,
+   "texto": "Pero millones de personas querían seguir bebiendo. Y quien se lo sirviera iba a hacerse inmensamente rico."
+  },
+  {
+   "t": 140.8,
+   "texto": "Meses después, el jefe del hampa de Chicago, Big Jim Colosimo, cayó muerto a tiros en su restaurante. Torrio heredó el negocio, y Capone fue su mano derecha."
+  },
+  {
+   "t": 156.9,
+   "texto": "Las bandas se repartieron la ciudad a tiros. En el norte mandaba Dean O'Banion, hasta que en mil novecientos veinticuatro lo acribillaron en su floristería. El golpe se atribuyó a los hombres de Torrio."
+  },
+  {
+   "t": 173.8,
+   "texto": "Su banda respondió tiroteando a Torrio. Sobrevivió, pero se retiró y se lo dejó todo a Capone. Tenía veintiséis años."
+  },
+  {
+   "t": 187,
+   "texto": "En mil novecientos veintiséis, una caravana de coches acribilló su cuartel general en Cicero. Se habló de más de mil disparos. Capone salió ileso."
+  },
+  {
+   "t": 201.2,
+   "texto": "Lejos de esconderse, creció: compraba policías y políticos, y se calculaba que su organización ingresaba cerca de cien millones de dólares al año."
+  },
+  {
+   "t": 215.2,
+   "texto": "Pero le quedaba un rival: Bugs Moran, que ahora mandaba en la banda de O'Banion. El día de San Valentín de mil novecientos veintinueve, siete hombres del entorno de Moran esperaban en un garaje de Chicago."
+  },
+  {
+   "t": 232.5,
+   "texto": "Entraron varios hombres, algunos vestidos de policía. Los pusieron contra la pared. Y dispararon."
+  },
+  {
+   "t": 245.3,
+   "texto": "Moran llegaba tarde, vio el falso coche de policía y pasó de largo. Capone estaba en su casa de Florida. Nadie fue condenado jamás."
+  },
+  {
+   "t": 260.7,
+   "texto": "Pero las fotos llenaron los periódicos. Y para el país, el culpable tenía nombre, aunque nunca se pudo probar."
+  },
+  {
+   "t": 272.1,
+   "texto": "El presidente Herbert Hoover ordenó ir a por él. Según recordaría su secretario del Tesoro, cada mañana le preguntaba: ¿ya tienen a ese tal Capone?"
+  },
+  {
+   "t": 286.5,
+   "texto": "Lo atacaron por dos frentes. El ruidoso: Eliot Ness, reventando cervecerías. Y el silencioso: Frank Wilson, de Hacienda, que no buscaba alcohol. Buscaba dinero."
+  },
+  {
+   "t": 302.7,
+   "texto": "En mil novecientos veintisiete, el Tribunal Supremo había dejado claro que las ganancias ilegales también pagaban impuestos. Y Capone nunca había presentado una declaración de la renta."
+  },
+  {
+   "t": 319.2,
+   "texto": "Pero no tenía cuentas a su nombre, casi nunca usaba cheques y lo pagaba todo en efectivo."
+  },
+  {
+   "t": 327.2,
+   "texto": "Así que primero cayeron los suyos: su hermano Ralph, Jake Guzik, Frank Nitti. Todos por delitos fiscales."
+  },
+  {
+   "t": 340.2,
+   "texto": "Capone, mientras, cuidaba su imagen: portada de Time, comedor gratuito para los parados de la Depresión. No sabía que, en una oficina, alguien acababa de encontrar el primer papel."
+  },
+  {
+   "t": 356.1,
+   "texto": "Revisando papeles viejos de su oficina, Wilson dio con un libro de cuentas sin nombre, incautado cuatro años antes en un casino de Capone. Nadie se había dado cuenta de lo que valía."
+  },
+  {
+   "t": 372.1,
+   "texto": "Eran las cuentas del juego. Y en una línea, una anotación: Frank pagó diecisiete mil quinientos dólares por Al. Era la primera pista escrita que tenía Wilson para unir a Capone con el dinero del casino."
+  },
+  {
+   "t": 390.8,
+   "texto": "Wilson comparó caligrafías hasta dar con quien llevaba el libro: el cajero, Leslie Shumway."
+  },
+  {
+   "t": 400.1,
+   "texto": "Lo encontraron en Miami, donde trabajaba en un canódromo. Y firmó el segundo papel: una declaración jurada. Los investigadores lo mantuvieron oculto hasta el juicio."
+  },
+  {
+   "t": 414.7,
+   "texto": "El tercer papel había salido meses antes del propio bando de Capone. En mil novecientos treinta, su abogado, Lawrence Mattingly, quiso negociar con Hacienda y entregó una carta."
+  },
+  {
+   "t": 431.9,
+   "texto": "En ella reconocía que Capone tenía ingresos imponibles. Primero, veintiséis mil dólares un año y cuarenta mil el siguiente. Después, hasta cien mil al año."
+  },
+  {
+   "t": 447.9,
+   "texto": "Les habían advertido de que todo podría usarse en su contra. Y acababa de darle a Hacienda una prueba por escrito."
+  },
+  {
+   "t": 459.9,
+   "texto": "En junio de mil novecientos treinta y uno, Capone hizo algo que el público no esperaba: se declaró culpable."
+  },
+  {
+   "t": 471.1,
+   "texto": "No era una rendición. Era un trato: el fiscal pediría solo dos años y medio."
+  },
+  {
+   "t": 480.5,
+   "texto": "Pero el juez, James Wilkerson, dijo que con un tribunal federal no se negocia. Capone retiró su confesión. Habría juicio."
+  },
+  {
+   "t": 495.5,
+   "texto": "Sus hombres intentaron comprar a los candidatos a jurado. Pero el primer día del juicio, Wilkerson los cambió por los de otro juez."
+  },
+  {
+   "t": 508.9,
+   "texto": "Entonces apareció un testigo que la defensa no esperaba: el cajero, Leslie Shumway. Y la fiscalía leyó ante el jurado la carta del abogado."
+  },
+  {
+   "t": 523.8,
+   "texto": "El diecisiete de octubre de mil novecientos treinta y uno, el jurado lo declaró culpable. Días después, el juez lo condenó a once años de prisión."
+  },
+  {
+   "t": 538.9,
+   "texto": "El hombre al que no habían podido matar las balas había caído por no pagar sus impuestos."
+  },
+  {
+   "t": 548,
+   "texto": "En la cárcel de Atlanta, según se dijo, siguió comprando privilegios. En mil novecientos treinta y cuatro lo enviaron a una isla donde el dinero no servía de nada: Alcatraz. Preso número ochenta y cinco."
+  },
+  {
+   "t": 565.3,
+   "texto": "Pero su peor enemigo ya estaba dentro: la sífilis de su juventud, sin tratar, le estaba dañando el cerebro."
+  },
+  {
+   "t": 577.2,
+   "texto": "Salió libre en mil novecientos treinta y nueve. Años después recibió un fármaco nuevo, la penicilina. Llegó demasiado tarde."
+  },
+  {
+   "t": 592.9,
+   "texto": "Pasó sus últimos años en su villa de Florida, con la mente de un niño de doce años, según sus médicos. Murió en mil novecientos cuarenta y siete. Tenía cuarenta y ocho años."
+  },
+  {
+   "t": 608.7,
+   "texto": "Cuatro décadas después, en aquel sótano, las máquinas atravesaron por fin el muro."
+  },
+  {
+   "t": 617.1,
+   "texto": "Dentro había tierra. Escombros. Y unas botellas vacías."
+  },
+  {
+   "t": 626.1,
+   "texto": "Nunca se ha encontrado ningún tesoro escondido de Capone."
+  },
+  {
+   "t": 632,
+   "texto": "A Capone no lo derribaron las balas, ni las redadas. Lo derribaron, sobre todo, tres papeles: un libro olvidado, la declaración de un cajero y la carta de su propio abogado. El hombre que lo pagaba todo en efectivo para no dejar rastro cayó por el papeleo."
+  }
+ ],
+ "actualizado": "2026-11-20T21:43:47.126Z"
+}
