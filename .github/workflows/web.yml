@@ -25,9 +25,9 @@ jobs:
     outputs:
       publicar: ${{ steps.cambios.outputs.publicar }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version: 24
 
@@ -53,7 +53,7 @@ jobs:
       - name: Configurar Pages
         if: steps.cambios.outputs.publicar == 'si'
         id: pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Construir la web
         if: steps.cambios.outputs.publicar == 'si'
@@ -61,7 +61,7 @@ jobs:
 
       - name: Subir la web
         if: steps.cambios.outputs.publicar == 'si'
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: _site
 
@@ -74,9 +74,9 @@ jobs:
       url: ${{ steps.despliegue.outputs.page_url }}
     steps:
       - id: despliegue
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
 
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Avisar a los buscadores (IndexNow)
         continue-on-error: true
