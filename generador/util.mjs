@@ -14,10 +14,19 @@ export const h = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&l
 const MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"];
 const ZONA = "Europe/Madrid";
 const partes = (iso) => Object.fromEntries(new Intl.DateTimeFormat("en-CA", { timeZone: ZONA, year: "numeric", month: "numeric", day: "numeric" }).formatToParts(new Date(iso)).map((p) => [p.type, p.value]));
-/** «20 de noviembre de 2026» */
-export const fechaLarga = (iso) => { const p = partes(iso); return `${p.day} de ${MESES[p.month - 1]} de ${p.year}`; };
+const MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+/** «20 de noviembre de 2026» / «November 20, 2026» */
+export const fechaLarga = (iso, lang = "es") => { const p = partes(iso); return lang === "en" ? `${MONTHS[p.month - 1]} ${p.day}, ${p.year}` : `${p.day} de ${MESES[p.month - 1]} de ${p.year}`; };
 /** «20 NOV 2026» */
-export const fechaCorta = (iso) => { const p = partes(iso); return `${p.day} ${MESES[p.month - 1].slice(0, 3).toUpperCase()} ${p.year}`; };
+export const fechaCorta = (iso, lang = "es") => { const p = partes(iso); return `${p.day} ${(lang === "en" ? MONTHS : MESES)[p.month - 1].slice(0, 3).toUpperCase()} ${p.year}`; };
+/** Fecha parcial de la cronología («1913-11» → «noviembre de 1913» / «November 1913»). */
+export const fechaHito = (f, lang = "es") => {
+  const [a, m, d] = f.split("-").map(Number);
+  if (!m) return String(a);
+  const mes = (lang === "en" ? MONTHS : MESES)[m - 1];
+  if (!d) return lang === "en" ? `${mes} ${a}` : `${mes} de ${a}`;
+  return lang === "en" ? `${mes} ${d}, ${a}` : `${d} de ${mes} de ${a}`;
+};
 
 /** 675 → «11:15»; 3725 → «1:02:05» */
 export const reloj = (s) => {

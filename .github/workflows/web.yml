@@ -75,3 +75,9 @@ jobs:
     steps:
       - id: despliegue
         uses: actions/deploy-pages@v4
+
+      - uses: actions/checkout@v4
+
+      - name: Avisar a los buscadores (IndexNow)
+        continue-on-error: true
+        run: node generador/indexnow.mjs "${{ steps.despliegue.outputs.page_url }}"

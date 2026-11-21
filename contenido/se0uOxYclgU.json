@@ -29,7 +29,6 @@
   "QBW9u-c_8V4",
   "GHnPJ3yrdjY"
  ],
- "datosVerificados": 45,
  "fuentes": [
   "https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/vincent-van-gogh-chataigner-en-fleurs-roses-et?locale=en",
   "https://www.sothebys.com/articles/van-goghs-chataigniers-en-fleurs-agreement-reached-ahead-of-18-november-sale",
@@ -47,6 +46,716 @@
   "https://www.theartnewspaper.com/2026/11/17/sothebys-makes-last-minute-deal-with-jewish-heirs-to-sell-180m-van-gogh-painting",
   "https://theartnewspaper.com/2026/11/20/deeper-look-van-goghs-record-breaking-blossoming-chestnut-trees-190m-sale-restitution-claim",
   "https://efe.com/cultura/2026-11-19/subasta-cuadro-chataigniers-en-fleurs-van-gogh"
+ ],
+ "datosVerificados": 45,
+ "comprobaciones": [
+  {
+   "beat": "b01",
+   "t": 0.6,
+   "texto": "menciona Sotheby’s a los herederos",
+   "fuentes": [
+    {
+     "url": "https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/vincent-van-gogh-chataigner-en-fleurs-roses-et?locale=en",
+     "dice": "El aviso del lote nombra a los herederos de la familia de Hedwig y Samuel Fischer."
+    },
+    {
+     "url": "https://www.theartnewspaper.com/2026/11/17/sothebys-makes-last-minute-deal-with-jewish-heirs-to-sell-180m-van-gogh-painting",
+     "dice": "La crónica contemporánea identifica a esos descendientes como parte del pacto sobre la venta."
+    }
+   ]
+  },
+  {
+   "beat": "b01",
+   "t": 0.6,
+   "texto": "familia judía",
+   "fuentes": [
+    {
+     "url": "https://www.dnb.de/EN/Ueber-uns/Provenienzforschung/_content/geklaerteFaelleBermann_akk.html",
+     "dice": "Gottfried y Brigitte Bermann Fischer, hija de Samuel Fischer, eran ambos de origen judío."
+    },
+    {
+     "url": "http://nltimes.nl/2026/11/19/contested-van-gogh-painting-auctioned-record-eu173-million",
+     "dice": "Llama a Samuel y Hedwig Fischer «the Jewish couple»."
+    },
+    {
+     "url": "https://www.theartnewspaper.com/2026/11/17/sothebys-makes-last-minute-deal-with-jewish-heirs-to-sell-180m-van-gogh-painting",
+     "dice": "Habla de los herederos de los antiguos propietarios judíos del cuadro."
+    },
+    {
+     "url": "https://www.jta.org/2026/11/19/ny/van-gogh-painting-with-a-complex-jewish-history-sells-for-record-190-4-million-at-auction",
+     "dice": "Identifica a Samuel Fischer como editor judío alemán."
+    }
+   ]
+  },
+  {
+   "beat": "b01",
+   "t": 0.6,
+   "texto": "que vendió este Van Gogh noventa años antes",
+   "fuentes": [
+    {
+     "url": "https://www.artnews.com/art-news/news/sothebys-van-gogh-180-million-restitution-claim-1936-sale-1234806093/",
+     "dice": "Según Sotheby’s, los archivos de Paul Cassirer documentan la venta en junio de 1936; la crónica habla de una transacción de hace noventa años."
+    },
+    {
+     "url": "https://www.rtl.fr/culture/arts-spectacles/chataigniers-en-fleurs-un-tableau-de-van-gogh-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre-7900698035",
+     "dice": "AFP: la familia de Samuel Fischer vendió el cuadro en 1936; el nuevo remate fue el 18 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "beat": "b04",
+   "t": 30.5,
+   "texto": "Van Gogh lo pintó en Auvers-sur-Oise",
+   "fuentes": [
+    {
+     "url": "https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/vincent-van-gogh-chataigner-en-fleurs-roses-et?locale=en",
+     "dice": "«Executed in Auvers on 24 May 1890.»"
+    },
+    {
+     "url": "https://vangoghworldwide.org/artwork/F751",
+     "dice": "El registro F751 sitúa la ejecución en Auvers-sur-Oise."
+    }
+   ]
+  },
+  {
+   "beat": "b04",
+   "t": 30.5,
+   "texto": "en mayo de mil ochocientos noventa",
+   "fuentes": [
+    {
+     "url": "https://vangoghworldwide.org/artwork/F751",
+     "dice": "Data el cuadro en mayo de 1890."
+    },
+    {
+     "url": "https://www.theartnewspaper.com/2026/10/02/the-story-behind-the-180m-van-gogh-up-for-auction-this-november",
+     "dice": "Data la pintura en mayo de 1890 y remite a la carta del 25 de mayo."
+    }
+   ]
+  },
+  {
+   "beat": "b04",
+   "t": 30.5,
+   "texto": "es el estudio de castaños de flor rosa que menciona en una carta.",
+   "fuentes": [
+    {
+     "url": "https://vangoghletters.org/vg/letters/let875/letter.html",
+     "dice": "Carta 875, a Theo y Jo, 25 de mayo de 1890: «a study of pink chestnut trees and one of white chestnut trees»."
+    },
+    {
+     "url": "https://www.finestresullarte.info/en/modern-art/van-gogh-painted-these-chestnut-trees-two-months-before-his-death-they-are-now-worth-180-million?set_dark_mode=1",
+     "dice": "Recoge el análisis de Cornelia Homburg para Sotheby’s: los «castaños rosas» de esa carta son este cuadro y los blancos, el lienzo del Kröller-Müller (F752)."
+    },
+    {
+     "url": "https://vangoghworldwide.org/artwork/F752",
+     "dice": "Cataloga F752 como Chestnut tree in flower: white blossoms y lo vincula a la carta 875: es el estudio blanco, distinto del lote."
+    }
+   ]
+  },
+  {
+   "beat": "b07",
+   "t": 43.7,
+   "texto": "Lo compró Samuel Fischer",
+   "fuentes": [
+    {
+     "url": "https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/vincent-van-gogh-chataigner-en-fleurs-roses-et?locale=en",
+     "dice": "Lista a Samuel Fischer como adquirente de la Galerie Bernheim-Jeune."
+    },
+    {
+     "url": "https://www.theartnewspaper.com/2026/10/02/the-story-behind-the-180m-van-gogh-up-for-auction-this-november",
+     "dice": "La investigación de Martin Bailey identifica al editor Samuel Fischer como comprador."
+    }
+   ]
+  },
+  {
+   "beat": "b07",
+   "t": 43.7,
+   "texto": "editor judío",
+   "fuentes": [
+    {
+     "url": "https://www.jta.org/2026/11/19/ny/van-gogh-painting-with-a-complex-jewish-history-sells-for-record-190-4-million-at-auction",
+     "dice": "Identifica a Samuel Fischer como editor judío alemán."
+    },
+    {
+     "url": "https://id.oclc.org/worldcat/entity/E39PBJvtdXhMtfrGGjmrptFHYP",
+     "dice": "El registro de autoridad describe a Fischer como editor alemán judío nacido en Hungría."
+    },
+    {
+     "url": "https://www.lbi.org/griffinger/record/214933",
+     "dice": "Documenta que fundó la editorial S. Fischer Verlag en Berlín."
+    }
+   ]
+  },
+  {
+   "beat": "b07",
+   "t": 43.7,
+   "texto": "establecido en Berlín",
+   "fuentes": [
+    {
+     "url": "https://www.lbi.org/griffinger/record/214933",
+     "dice": "La nota biográfica documenta su traslado a Berlín y la fundación de su editorial allí."
+    },
+    {
+     "url": "https://www.jta.org/archive/samuel-fischer-publisher-dies-in-berlin-at-75",
+     "dice": "El obituario contemporáneo confirma que se instaló en Berlín y organizó allí la editorial."
+    }
+   ]
+  },
+  {
+   "beat": "b08",
+   "t": 50.3,
+   "texto": "Al morir Fischer, quedó en la familia.",
+   "fuentes": [
+    {
+     "url": "https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/vincent-van-gogh-chataigner-en-fleurs-roses-et?locale=en",
+     "dice": "Atribuye la herencia de 1934 a Hedwig Fischer, su viuda."
+    },
+    {
+     "url": "https://www.bbc.com/news/articles/cmwy05gg75lvo",
+     "dice": "Según la ficha de Sotheby’s, tras la muerte de Fischer en 1934 el cuadro pasó a su familia."
+    },
+    {
+     "url": "https://www.theartnewspaper.com/2026/10/02/the-story-behind-the-180m-van-gogh-up-for-auction-this-november",
+     "dice": "Atribuye el paso del cuadro tras la muerte de Samuel en 1934 a Brigitte, su hija."
+    }
+   ]
+  },
+  {
+   "beat": "b12",
+   "t": 54.7,
+   "texto": "Huyendo de los nazis",
+   "fuentes": [
+    {
+     "url": "https://www.dnb.de/EN/Ueber-uns/Provenienzforschung/_content/geklaerteFaelleBermann_akk.html",
+     "dice": "Gottfried y Brigitte Bermann Fischer, ambos de origen judío, se fueron a Viena «to escape persecution by the Nazis»."
+    },
+    {
+     "url": "https://taz.de/Rekordsumme-fuer-van-Gogh/!6231450/",
+     "dice": "La hija de Fischer y su marido pudieron huir («fliehen») en 1935 tras pagar el impuesto de huida del Reich."
+    },
+    {
+     "url": "https://www.deutsche-biographie.de/dbo011052.html",
+     "dice": "Perseguido en el Tercer Reich, Bermann Fischer trasladó en 1936 partes de la editorial a Viena."
+    }
+   ]
+  },
+  {
+   "beat": "b12",
+   "t": 54.7,
+   "texto": "la hija y el yerno de Fischer se llevaron parte de la editorial a Viena",
+   "fuentes": [
+    {
+     "url": "https://www.dnb.de/EN/Ueber-uns/Provenienzforschung/_content/geklaerteFaelleBermann_akk.html",
+     "dice": "Brigitte, hija de Samuel Fischer, y su marido Gottfried se trasladaron a Viena; él pactó dividir la editorial y refundó una parte allí como Bermann-Fischer Verlag."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Gottfried_Bermann_Fischer",
+     "dice": "En marzo de 1936 Bermann emigró a Austria con su mujer y sus tres hijas; la parte de la editorial con los autores críticos se trasladó a Viena."
+    },
+    {
+     "url": "http://verlagsgeschichte.murrayhall.com/?page_id=218",
+     "dice": "Cronología del registro mercantil de Viena: compra de la sociedad ante notario el 1 de abril de 1936; inscripción del Bermann-Fischer Verlag el 9 de junio de 1936."
+    },
+    {
+     "url": "https://www.theartnewspaper.com/2026/11/17/sothebys-makes-last-minute-deal-with-jewish-heirs-to-sell-180m-van-gogh-painting",
+     "dice": "Según el representante de los herederos, la venta de 1936 fue tres meses después de que la familia se fuera de Berlín a Viena."
+    }
+   ]
+  },
+  {
+   "beat": "b11",
+   "t": 64,
+   "texto": "El cuadro, en cambio, estaba en Ámsterdam.",
+   "fuentes": [
+    {
+     "url": "https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/vincent-van-gogh-chataigner-en-fleurs-roses-et?locale=en",
+     "dice": "Estaba en depósito en Paul Cassirer, Ámsterdam, desde 1932/33, cuando lo dejó allí Gottfried Bermann Fischer."
+    },
+    {
+     "url": "https://www.artnews.com/art-news/market/sothebys-van-gogh-restitution-settlement-fischer-heirs-1234806294/",
+     "dice": "Según Sotheby’s, el cuadro llevaba casi tres años en Ámsterdam cuando se vendió."
+    },
+    {
+     "url": "https://www.artnews.com/art-news/news/sothebys-van-gogh-180-million-restitution-claim-1936-sale-1234806093/",
+     "dice": "Estuvo casi tres años en consigna en la galería de Ámsterdam; viajó a Rotterdam y Berna para exposiciones antes de venderse."
+    }
+   ]
+  },
+  {
+   "beat": "b09",
+   "t": 68.1,
+   "texto": "Allí lo vendió la familia, en mil novecientos treinta y seis.",
+   "fuentes": [
+    {
+     "url": "https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/vincent-van-gogh-chataigner-en-fleurs-roses-et?locale=en",
+     "dice": "Henriette y Marcel Kapferer lo adquirieron de Hedwig Fischer en 1936 a través de Paul Cassirer, Ámsterdam."
+    },
+    {
+     "url": "https://www.artnews.com/art-news/market/sothebys-van-gogh-restitution-settlement-fischer-heirs-1234806294/",
+     "dice": "Los herederos sostienen que la familia fue obligada a vender el cuadro en Ámsterdam en 1936; Sotheby’s fecha la venta en junio de 1936."
+    },
+    {
+     "url": "https://www.rtl.fr/culture/arts-spectacles/chataigniers-en-fleurs-un-tableau-de-van-gogh-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre-7900698035",
+     "dice": "AFP: la familia de Samuel Fischer vendió el cuadro en 1936."
+    }
+   ]
+  },
+  {
+   "beat": "b10",
+   "t": 74.7,
+   "texto": "Según Sotheby’s, que cita los archivos de la galería, por sesenta y ocho mil francos suizos.",
+   "fuentes": [
+    {
+     "url": "https://www.artnews.com/art-news/news/sothebys-van-gogh-180-million-restitution-claim-1936-sale-1234806093/",
+     "dice": "«The auction house told ARTnews that the archives of the art dealer Paul Cassirer confirm that […] sold for 68,000 Swiss francs, or about $22,000, in June 1936.»"
+    },
+    {
+     "url": "https://www.spiegel.de/kultur/fischer-erben-wollen-van-gogh-auktion-bei-sothebys-stoppen-a-1669ba84-8247-40b4-9056-f9428c5b44cc",
+     "dice": "La casa de subastas señala que ha recibido información de los archivos del marchante Cassirer, según la cual el cuadro se vendió en junio de 1936 por 68.000 francos suizos."
+    },
+    {
+     "url": "https://novanews.co.za/sothebys-to-sell-180-million-van-gogh-despite-claim-by-heirs-of-jewish-owner",
+     "dice": "AFP: en un comunicado, Sotheby’s dijo que se vendió por 68.000 francos suizos en junio de 1936."
+    },
+    {
+     "url": "https://www.dutchnews.nl/2026/11/heirs-seek-to-stop-180m-van-gogh-sale-citing-nazi-era-duress/",
+     "dice": "Sotheby’s dijo a ARTnews que el cuadro se vendió por 68.000 francos suizos en junio de 1936."
+    }
+   ]
+  },
+  {
+   "beat": "b13",
+   "t": 83.9,
+   "texto": "Casi cuarenta años después lo compraron los Blaquier-Arrieta",
+   "fuentes": [
+    {
+     "url": "https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/vincent-van-gogh-chataigner-en-fleurs-roses-et?locale=en",
+     "dice": "«Acquired from the above by the present owners in 1975», por medio de Wildenstein & Co., Nueva York."
+    },
+    {
+     "url": "https://www.artnews.com/art-news/market/sothebys-van-gogh-restitution-settlement-fischer-heirs-1234806294/",
+     "dice": "La familia Blaquier-Arrieta es dueña del cuadro desde 1975."
+    }
+   ]
+  },
+  {
+   "beat": "b13",
+   "t": 83.9,
+   "texto": "la familia que lo ha vendido ahora",
+   "fuentes": [
+    {
+     "url": "https://www.theartnewspaper.com/2026/10/02/the-story-behind-the-180m-van-gogh-up-for-auction-this-november",
+     "dice": "Los Blaquier-Arrieta son la familia vendedora; la colección pasó a los hijos de los compradores de 1975."
+    },
+    {
+     "url": "https://www.artnews.com/art-news/market/van-gogh-auction-record-sothebys-chataigniers-en-fleurs-2026-1234806413/",
+     "dice": "El cuadro ya se vendió el 18 de noviembre de 2026."
+    }
+   ]
+  },
+  {
+   "beat": "b14",
+   "t": 94.3,
+   "texto": "En dos mil veintiséis, los herederos Fischer pidieron a Sotheby’s que no subastara este cuadro.",
+   "fuentes": [
+    {
+     "url": "https://www.nytimes.com/2026/11/13/arts/design/van-gogh-sale-sothebys.html",
+     "dice": "El Times vio el correo del 12 de noviembre de Gunnar Schnabel, abogado de los herederos, al jefe de restituciones de Sotheby’s: si no se probaba que el precio fue de mercado y que la familia habría vendido igualmente sin los nazis, «no auction may take place»."
+    },
+    {
+     "url": "https://www.nytimes.com/2026/11/17/arts/design/van-gogh-jewish-heirs-nazi-chestnut-trees-sothebys.html?eafs_enabled=false",
+     "dice": "«The heirs had asked last week to stop the sale.»"
+    },
+    {
+     "url": "https://apollo-magazine.com/sothebys-van-gogh-chataigniers-en-fleurs-restitution-claim/",
+     "dice": "Los herederos pidieron a Sotheby’s que retirara el cuadro de la subasta."
+    },
+    {
+     "url": "https://www.artnews.com/art-news/market/sothebys-van-gogh-restitution-settlement-fischer-heirs-1234806294/",
+     "dice": "Schnabel exigió a Sotheby’s retirar la obra de la venta salvo que pudiera establecer que la transacción de 1936 fue voluntaria."
+    },
+    {
+     "url": "https://www.theartnewspaper.com/2026/11/17/sothebys-makes-last-minute-deal-with-jewish-heirs-to-sell-180m-van-gogh-painting",
+     "dice": "Los herederos pidieron retirar la obra de la subasta del 18 de noviembre; la misma crónica dice que, entretanto, Schnabel pidió aplazar la venta de esa semana."
+    }
+   ]
+  },
+  {
+   "beat": "b15",
+   "t": 103.3,
+   "texto": "Alegaban que la persecución había puesto a la familia bajo presión económica.",
+   "fuentes": [
+    {
+     "url": "https://www.artnews.com/art-news/market/sothebys-van-gogh-restitution-settlement-fischer-heirs-1234806294/",
+     "dice": "Los herederos sostenían que la familia fue obligada a vender por las presiones económicas causadas por la persecución nazi."
+    },
+    {
+     "url": "https://www.dutchnews.nl/2026/11/heirs-seek-to-stop-180m-van-gogh-sale-citing-nazi-era-duress/",
+     "dice": "Los herederos dicen que la editorial familiar sufrió grandes pérdidas bajo el nazismo."
+    },
+    {
+     "url": "https://www.enca.com/lifestyle/van-gogh-painting-sells-record-1904m-after-dispute",
+     "dice": "AFP atribuye a los herederos la explicación de que hubo pérdidas económicas causadas por los nazis."
+    }
+   ]
+  },
+  {
+   "beat": "b16",
+   "t": 110.4,
+   "texto": "Por eso, decían, habían tenido que vender.",
+   "fuentes": [
+    {
+     "url": "https://www.artnews.com/art-news/market/sothebys-van-gogh-restitution-settlement-fischer-heirs-1234806294/",
+     "dice": "Explica que los Fischer alegaron que la presión económica por la persecución los había obligado a vender en Ámsterdam en 1936."
+    },
+    {
+     "url": "https://www.enca.com/lifestyle/van-gogh-painting-sells-record-1904m-after-dispute",
+     "dice": "AFP recoge que, según los herederos, la familia solo se desprendió de la pintura debido a sus pérdidas económicas bajo el nazismo."
+    }
+   ]
+  },
+  {
+   "beat": "b17",
+   "t": 116.3,
+   "texto": "Para Sotheby’s, no constaba coacción",
+   "fuentes": [
+    {
+     "url": "https://www.bbc.com/news/articles/cmwy05gg75lvo",
+     "dice": "Declaración de Sotheby’s a la BBC: «While our research to date has not established that the painting was sold under duress…»."
+    },
+    {
+     "url": "https://news.artnet.com/market/with-time-running-out-sothebys-announces-agreement-on-180m-van-gogh-2836477",
+     "dice": "Sotheby’s dice que su investigación no ha encontrado pruebas de que la familia fuera obligada a vender el Van Gogh."
+    },
+    {
+     "url": "https://www.cnn.com/2026/11/17/style/van-gogh-nazi-auction-sothebys",
+     "dice": "Sotheby’s considera que no hay pruebas de que la venta se hiciera bajo coacción."
+    }
+   ]
+  },
+  {
+   "beat": "b17",
+   "t": 116.3,
+   "texto": "el precio fue de mercado",
+   "fuentes": [
+    {
+     "url": "https://www.artnews.com/art-news/news/sothebys-van-gogh-180-million-restitution-claim-1936-sale-1234806093/",
+     "dice": "Sotheby’s considera los 68.000 francos suizos un precio fuerte para un Van Gogh entonces; su abogado, Nikas, dice que se vendió a un comprador independiente «at fair market value»."
+    },
+    {
+     "url": "https://www.artnews.com/art-news/market/sothebys-van-gogh-restitution-settlement-fischer-heirs-1234806294/",
+     "dice": "«Sotheby’s maintained that this was a fair price for a van Gogh at the time»."
+    },
+    {
+     "url": "https://novanews.co.za/sothebys-to-sell-180-million-van-gogh-despite-claim-by-heirs-of-jewish-owner",
+     "dice": "AFP: Sotheby’s dijo que su investigación no había mostrado que la venta fuera por debajo del valor de mercado."
+    }
+   ]
+  },
+  {
+   "beat": "b18",
+   "t": 123.1,
+   "texto": "Ninguna postura quedó probada.",
+   "fuentes": [
+    {
+     "url": "https://www.artnews.com/art-news/market/sothebys-van-gogh-restitution-settlement-fischer-heirs-1234806294/",
+     "dice": "«Nor does the settlement establish whether the painting was sold under duress in 1936.» Las condiciones del acuerdo no se publicaron."
+    },
+    {
+     "url": "https://www.artnews.com/art-news/news/sothebys-van-gogh-180-million-restitution-claim-1936-sale-1234806093/",
+     "dice": "Plantea como cuestión abierta si una venta así puede considerarse forzada, y dice que la prueba que pedían los herederos puede ser difícil de aportar noventa años después."
+    },
+    {
+     "url": "https://www.theartnewspaper.com/2026/11/17/sothebys-makes-last-minute-deal-with-jewish-heirs-to-sell-180m-van-gogh-painting",
+     "dice": "El acuerdo se cerró sin publicar su naturaleza; el comunicado reconoce la «complex Nazi-era history» sin calificar la venta de 1936."
+    }
+   ]
+  },
+  {
+   "beat": "b19",
+   "t": 127.2,
+   "texto": "La víspera de la subasta, Sotheby’s anunció un acuerdo",
+   "fuentes": [
+    {
+     "url": "https://www.sothebys.com/articles/van-goghs-chataigniers-en-fleurs-agreement-reached-ahead-of-18-november-sale",
+     "dice": "El anuncio oficial está fechado el 17 de noviembre de 2026 y su encabezado indica que la venta era el 18."
+    },
+    {
+     "url": "https://www.theartnewspaper.com/2026/11/19/van-gogh-painting-sells-for-record-7778m-after-nazi-loot-claims",
+     "dice": "La crónica del remate sitúa el anuncio un día antes de celebrarse la venta."
+    }
+   ]
+  },
+  {
+   "beat": "b19",
+   "t": 127.2,
+   "texto": "un acuerdo entre las dos familias.",
+   "fuentes": [
+    {
+     "url": "https://www.theartnewspaper.com/2026/11/17/sothebys-makes-last-minute-deal-with-jewish-heirs-to-sell-180m-van-gogh-painting",
+     "dice": "Comunicado de Sotheby’s: acuerdo «between the Blaquier-Arrieta family and all of the legal descendants of Hedwig and Samuel Fischer»; «the two families have reached a mutually satisfactory resolution»."
+    },
+    {
+     "url": "https://www.rtl.fr/culture/arts-spectacles/chataigniers-en-fleurs-un-tableau-de-van-gogh-vendu-190-4-millions-de-dollars-un-record-pour-le-peintre-7900698035",
+     "dice": "AFP: acuerdo entre los últimos propietarios y el conjunto de los derechohabientes legales de Samuel Fischer."
+    }
+   ]
+  },
+  {
+   "beat": "b20",
+   "t": 135.8,
+   "texto": "Por eso la ficha nombra a los herederos.",
+   "fuentes": [
+    {
+     "url": "https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/vincent-van-gogh-chataigner-en-fleurs-roses-et?locale=en",
+     "dice": "Saleroom notice: «Please note this work is being offered for sale pursuant to an agreement between the seller and the heirs of the Hedwig and Samuel Fischer family.»"
+    },
+    {
+     "url": "https://www.theartnewspaper.com/2026/11/17/sothebys-makes-last-minute-deal-with-jewish-heirs-to-sell-180m-van-gogh-painting",
+     "dice": "El comunicado del 17 de noviembre usa la misma fórmula: «the work will be sold pursuant to their agreement»."
+    }
+   ]
+  },
+  {
+   "beat": "b20",
+   "t": 135.8,
+   "texto": "No se publicaron las condiciones.",
+   "fuentes": [
+    {
+     "url": "https://www.theartnewspaper.com/2026/11/17/sothebys-makes-last-minute-deal-with-jewish-heirs-to-sell-180m-van-gogh-painting",
+     "dice": "Indica que no se divulgaron detalles sobre la naturaleza del pacto ni sobre una posible compensación."
+    },
+    {
+     "url": "https://www.artnews.com/art-news/market/sothebys-van-gogh-restitution-settlement-fischer-heirs-1234806294/",
+     "dice": "Dice que no se divulgaron las condiciones, aunque Sotheby’s le indicó el efecto del acuerdo sobre la titularidad del comprador."
+    }
+   ]
+  },
+  {
+   "beat": "b22",
+   "t": 144.3,
+   "texto": "Al día siguiente del anuncio, en Nueva York, el cuadro batió el récord de Van Gogh en subasta.",
+   "fuentes": [
+    {
+     "url": "https://www.artnews.com/art-news/market/van-gogh-auction-record-sothebys-chataigniers-en-fleurs-2026-1234806413/",
+     "dice": "Se vendió por 190,4 millones de dólares con comisiones, nuevo récord en subasta del pintor."
+    },
+    {
+     "url": "https://www.bbc.com/news/articles/c5dj1dkwzvzwo",
+     "dice": "Sotheby’s lo vendió por un récord de 190,4 millones, que supera los 117,2 millones de 2022."
+    },
+    {
+     "url": "http://nltimes.nl/2026/11/19/contested-van-gogh-painting-auctioned-record-eu173-million",
+     "dice": "El anterior récord de un Van Gogh en subasta era Verger avec cyprès, 117,2 millones en Christie’s Nueva York en 2022."
+    },
+    {
+     "url": "https://www.theartnewspaper.com/2026/11/19/van-gogh-painting-sells-for-record-7778m-after-nazi-loot-claims",
+     "dice": "El remate fue el miércoles 18 de noviembre en Sotheby’s Nueva York, un día después del anuncio del acuerdo."
+    }
+   ]
+  },
+  {
+   "beat": "b02",
+   "t": 153.2,
+   "texto": "Precio final: ciento noventa coma cuatro millones de dólares, comisiones incluidas.",
+   "fuentes": [
+    {
+     "url": "https://www.theartnewspaper.com/2026/11/19/van-gogh-painting-sells-for-record-7778m-after-nazi-loot-claims",
+     "dice": "Documenta 190,4 millones de dólares con comisiones, frente a 165 millones al martillo."
+    },
+    {
+     "url": "https://www.bbc.com/news/videos/cmvg25ewnyndo",
+     "dice": "La ficha del vídeo del remate identifica el precio publicado como 190,4 millones de dólares después de comisiones."
+    },
+    {
+     "url": "https://www.artnews.com/art-news/market/van-gogh-auction-record-sothebys-chataigniers-en-fleurs-2026-1234806413/",
+     "dice": "Distingue el golpe de martillo del total con comisiones para este lote."
+    }
+   ]
+  },
+  {
+   "beat": "b25",
+   "t": 162.8,
+   "texto": "Noventa años después de que los Fischer lo vendieran, se subastó conforme a un acuerdo con sus herederos.",
+   "fuentes": [
+    {
+     "url": "https://www.sothebys.com/en/buy/auction/2026/legendary-the-blaquier-arrieta-collection-evening-auction/vincent-van-gogh-chataigner-en-fleurs-roses-et?locale=en",
+     "dice": "En 1936 el cuadro lo vendió la familia Fischer (de Hedwig Fischer a los Kapferer); en 2026 se ofreció conforme a un acuerdo entre el vendedor y los herederos de Hedwig y Samuel Fischer. Entre medias hubo otros dueños: DeSylva (1945), Harris-Jonas (hacia 1953) y los Blaquier-Arrieta (1975)."
+    },
+    {
+     "url": "https://www.theartnewspaper.com/2026/11/17/sothebys-makes-last-minute-deal-with-jewish-heirs-to-sell-180m-van-gogh-painting",
+     "dice": "El acuerdo de 2026 lo firmaron la familia Blaquier-Arrieta y todos los descendientes legales de Hedwig y Samuel Fischer."
+    }
+   ]
+  }
+ ],
+ "cronologia": [
+  {
+   "fecha": "1890-05",
+   "texto": "Van Gogh pinta en Auvers-sur-Oise un estudio de castaños de flor rosa, el que menciona en una carta a su hermano Theo.",
+   "hechos": [
+    "h02",
+    "h03"
+   ]
+  },
+  {
+   "fecha": "1909",
+   "texto": "Samuel Fischer, editor judío establecido en Berlín, compra el cuadro.",
+   "hechos": [
+    "h05"
+   ]
+  },
+  {
+   "fecha": "1934",
+   "texto": "Muere Samuel Fischer y el cuadro sigue en su familia.",
+   "hechos": [
+    "h07"
+   ]
+  },
+  {
+   "fecha": "1936",
+   "texto": "Con los nazis en el poder en Alemania, Gottfried Bermann Fischer, el yerno de Samuel, se lleva parte de la editorial a Viena, donde funda el Bermann-Fischer Verlag.",
+   "hechos": [
+    "h27",
+    "h29"
+   ]
+  },
+  {
+   "fecha": "1936-06",
+   "texto": "La familia vende el cuadro en Ámsterdam, por medio de la galería Paul Cassirer, a Henriette y Marcel Kapferer, de París.",
+   "hechos": [
+    "h08",
+    "h26"
+   ]
+  },
+  {
+   "fecha": "1975",
+   "texto": "Los coleccionistas argentinos Carlos Pedro Blaquier y Nelly Arrieta de Blaquier lo compran por medio de Wildenstein & Co., en Nueva York.",
+   "hechos": [
+    "h11"
+   ]
+  },
+  {
+   "fecha": "1998-12-03",
+   "texto": "Cuarenta y cuatro gobiernos aprueban en Washington unos principios, no vinculantes, sobre el arte confiscado por los nazis.",
+   "hechos": [
+    "h38"
+   ]
+  },
+  {
+   "fecha": "2026-11-12",
+   "texto": "El representante de los herederos Fischer pide a Sotheby’s que aplace la subasta mientras se aclaran las condiciones de la venta de 1936.",
+   "hechos": [
+    "h14"
+   ]
+  },
+  {
+   "fecha": "2026-11-17",
+   "texto": "Sotheby’s anuncia un acuerdo entre los Blaquier-Arrieta y los herederos Fischer para subastar el cuadro; sus condiciones no se publican.",
+   "hechos": [
+    "h18",
+    "h20"
+   ]
+  },
+  {
+   "fecha": "2026-11-18",
+   "texto": "En Nueva York, el cuadro se vende por 190,4 millones de dólares con comisiones: récord de Van Gogh en subasta.",
+   "hechos": [
+    "h21",
+    "h22",
+    "h24"
+   ]
+  }
+ ],
+ "preguntas": [
+  {
+   "pregunta": "¿Por qué reclamaban los herederos Fischer el Van Gogh Castaños en flor?",
+   "respuesta": "Los herederos de Samuel Fischer sostenían que la persecución nazi había puesto a la familia bajo presión económica y que por eso tuvo que vender el cuadro en 1936. El 12 de noviembre de 2026, su representante pidió a Sotheby’s que aplazara la subasta mientras se aclaraban las condiciones de aquella venta.",
+   "hechos": [
+    "h15",
+    "h14"
+   ]
+  },
+  {
+   "pregunta": "¿Qué respondió Sotheby’s a los herederos Fischer?",
+   "respuesta": "Sotheby’s dijo que su investigación no había establecido que el cuadro se vendiera bajo coacción. Según la casa, que cita los archivos de la galería Cassirer, la venta se hizo por 68.000 francos suizos, un precio que consideraba de mercado.",
+   "hechos": [
+    "h16",
+    "h17"
+   ]
+  },
+  {
+   "pregunta": "¿Fue una venta forzada la de Castaños en flor en 1936?",
+   "respuesta": "No está probado ni descartado. Los herederos Fischer alegaban una venta bajo la presión de la persecución nazi; Sotheby’s, que no constaba coacción. El acuerdo de 2026 permitió subastar el cuadro, pero no acredita ni descarta que la venta de 1936 fuera forzada.",
+   "hechos": [
+    "h15",
+    "h16",
+    "h20"
+   ]
+  },
+  {
+   "pregunta": "¿Por qué se vendió el cuadro en Ámsterdam si los Fischer eran de Berlín?",
+   "respuesta": "Según la procedencia publicada por Sotheby’s, el cuadro estaba depositado en la galería Paul Cassirer de Ámsterdam desde 1932 o 1933, y allí se vendió en junio de 1936. Los Países Bajos no estaban entonces bajo ocupación nazi; según la CNN, por eso los herederos directos tenían poca base legal para reclamar después de la guerra.",
+   "hechos": [
+    "h06",
+    "h08",
+    "h26",
+    "h36"
+   ]
+  },
+  {
+   "pregunta": "¿Qué acordaron los Blaquier-Arrieta y los herederos Fischer?",
+   "respuesta": "El 17 de noviembre de 2026, Sotheby’s anunció un acuerdo entre la familia vendedora y los descendientes legales de Hedwig y Samuel Fischer para que el cuadro se subastara conforme a él. La ficha del lote lo hace constar, pero las condiciones no se hicieron públicas.",
+   "hechos": [
+    "h18",
+    "h19",
+    "h20"
+   ]
+  },
+  {
+   "pregunta": "¿Cuánto se pagó por Castaños en flor de Van Gogh?",
+   "respuesta": "190,4 millones de dólares con comisiones, en la subasta de Sotheby’s del 18 de noviembre de 2026 en Nueva York; la puja de adjudicación fue de 165 millones. Es el récord de una obra de Van Gogh en subasta.",
+   "hechos": [
+    "h21",
+    "h22",
+    "h23",
+    "h24"
+   ]
+  }
+ ],
+ "temas": [
+  "Vincent van Gogh",
+  "Samuel Fischer",
+  "Sotheby’s",
+  "Restitución de arte",
+  "Subastas de arte"
+ ],
+ "imagenes": [
+  {
+   "id": "castanos_f751",
+   "archivo": "imagenes/se0uOxYclgU/castanos_f751.jpg",
+   "ancho": 991,
+   "alto": 1200,
+   "pie": "Castaños en flor (Châtaigniers en fleurs), óleo de Vincent van Gogh pintado en Auvers-sur-Oise en mayo de 1890.",
+   "titulo": "Vincent van Gogh - Châtaigniers en fleurs",
+   "autor": "Vincent van Gogh",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Ch%C3%A2taigniers_en_fleurs.jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "carta_875_brieven1914_pasaje",
+   "archivo": "imagenes/se0uOxYclgU/carta_875_brieven1914_pasaje.jpg",
+   "ancho": 800,
+   "alto": 1200,
+   "pie": "Carta de Van Gogh a Theo (edición de Ámsterdam, 1914) que menciona «une étude de maronniers roses et une de maronniers blancs».",
+   "titulo": "Brieven aan zijn broeder; uitgegeven en toegelicht door zijn schoonzuster, J. van Gogh-Bonger",
+   "autor": "Vincent van Gogh (1853-1890); edición de Johana van Gogh-Bonger (1862-1925)",
+   "licencia": "Dominio público",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://archive.org/details/brievenaanzijnbr03gogh",
+   "institucion": "Internet Archive (ejemplar del Getty Research Institute)"
+  }
  ],
  "transcripcion": [
   {
@@ -126,5 +835,88 @@
    "texto": "Noventa años después de que los Fischer lo vendieran, se subastó conforme a un acuerdo con sus herederos."
   }
  ],
- "actualizado": "2026-11-20T21:49:50.053Z"
+ "en": {
+  "titulo": "Van Gogh: the fight over the $190 million painting",
+  "resumen": "In November 2026, the heirs of the Jewish publisher Samuel Fischer asked Sotheby’s not to auction in New York Blossoming Chestnut Trees, the Van Gogh their family sold in Amsterdam in 1936. They argued that Nazi persecution had put the family under financial pressure and that this was why it had to sell; for Sotheby’s, there was no evidence of duress and the price was a market price. We follow the painting from Auvers-sur-Oise to New York, where, on the eve of the auction, an agreement between the two families was announced; its terms were not made public.",
+  "capitulos": [
+   "A notice in the lot entry",
+   "Auvers-sur-Oise, May 1890",
+   "The Berlin publisher",
+   "Flight to Vienna",
+   "The Amsterdam sale",
+   "The request to Sotheby’s",
+   "The eve of the auction",
+   "New York, 18 November"
+  ],
+  "transcripcion": [
+   "Why does Sotheby’s mention the heirs of a Jewish family that sold this Van Gogh ninety years earlier?",
+   "Van Gogh painted it in Auvers-sur-Oise in May 1890: it is the study of pink-blossomed chestnut trees he mentions in a letter.",
+   "It was bought by Samuel Fischer, a Jewish publisher based in Berlin.",
+   "When Fischer died, it stayed in the family.",
+   "Fleeing the Nazis, Fischer’s daughter and son-in-law took part of the publishing house to Vienna.",
+   "The painting, however, was in Amsterdam.",
+   "That is where the family sold it, in 1936.",
+   "According to Sotheby’s, citing the gallery’s archives, for 68,000 Swiss francs.",
+   "Almost forty years later it was bought by the Blaquier-Arrietas: the family that has now sold it.",
+   "In 2026, the Fischer heirs asked Sotheby’s not to auction this painting.",
+   "They argued that persecution had put the family under financial pressure.",
+   "That, they said, was why they had been forced to sell.",
+   "For Sotheby’s, there was no evidence of duress and the price was a market price.",
+   "Neither position was proven.",
+   "On the eve of the auction, Sotheby’s announced an agreement between the two families.",
+   "That is why the lot entry names the heirs. The terms were not made public.",
+   "The day after the announcement, in New York, the painting broke the auction record for Van Gogh.",
+   "Final price: 190.4 million dollars, fees included.",
+   "Ninety years after the Fischers sold it, it was auctioned under an agreement with their heirs."
+  ],
+  "cronologia": [
+   "In Auvers-sur-Oise, Van Gogh paints a study of pink-blossomed chestnut trees, the one he mentions in a letter to his brother Theo.",
+   "Samuel Fischer, a Jewish publisher based in Berlin, buys the painting.",
+   "Samuel Fischer dies and the painting stays in his family.",
+   "With the Nazis in power in Germany, Gottfried Bermann Fischer, Samuel’s son-in-law, takes part of the publishing house to Vienna, where he founds the Bermann-Fischer Verlag.",
+   "The family sells the painting in Amsterdam, through the Paul Cassirer gallery, to Henriette and Marcel Kapferer of Paris.",
+   "The Argentine collectors Carlos Pedro Blaquier and Nelly Arrieta de Blaquier buy it through Wildenstein & Co. in New York.",
+   "In Washington, 44 governments adopt non-binding principles on Nazi-confiscated art.",
+   "The Fischer heirs’ representative asks Sotheby’s to postpone the auction while the circumstances of the 1936 sale are clarified.",
+   "Sotheby’s announces an agreement between the Blaquier-Arrietas and the Fischer heirs to auction the painting; its terms are not made public.",
+   "In New York, the painting sells for 190.4 million dollars with fees: an auction record for Van Gogh."
+  ],
+  "preguntas": [
+   {
+    "pregunta": "Why did the Fischer heirs make a claim on Van Gogh’s Blossoming Chestnut Trees?",
+    "respuesta": "Samuel Fischer’s heirs argued that Nazi persecution had put the family under financial pressure and that this was why it had to sell the painting in 1936. On 12 November 2026, their representative asked Sotheby’s to postpone the auction while the circumstances of that sale were clarified."
+   },
+   {
+    "pregunta": "How did Sotheby’s respond to the Fischer heirs?",
+    "respuesta": "Sotheby’s said its research had not established that the painting was sold under duress. According to the auction house, citing the Cassirer gallery’s archives, the sale was for 68,000 Swiss francs, a price it considered in line with the market."
+   },
+   {
+    "pregunta": "Was the 1936 sale of Blossoming Chestnut Trees a forced sale?",
+    "respuesta": "It has been neither proven nor ruled out. The Fischer heirs claimed a sale under the pressure of Nazi persecution; Sotheby’s said there was no evidence of duress. The 2026 agreement allowed the painting to be auctioned, but it neither confirms nor rules out that the 1936 sale was forced."
+   },
+   {
+    "pregunta": "Why was the painting sold in Amsterdam if the Fischers were from Berlin?",
+    "respuesta": "According to the provenance published by Sotheby’s, the painting had been on deposit at the Paul Cassirer gallery in Amsterdam since 1932 or 1933, and it was sold there in June 1936. The Netherlands was not under Nazi occupation at the time; according to CNN, this is why Fischer’s direct heirs had little legal basis to make a claim after the war."
+   },
+   {
+    "pregunta": "What did the Blaquier-Arrietas and the Fischer heirs agree?",
+    "respuesta": "On 17 November 2026, Sotheby’s announced an agreement between the selling family and the legal descendants of Hedwig and Samuel Fischer allowing the painting to be auctioned under its terms. The lot entry records it, but the terms were not made public."
+   },
+   {
+    "pregunta": "How much did Van Gogh’s Blossoming Chestnut Trees sell for?",
+    "respuesta": "190.4 million dollars with fees, at Sotheby’s auction in New York on 18 November 2026; the hammer price was 165 million. It is the auction record for a work by Van Gogh."
+   }
+  ],
+  "temas": [
+   "Vincent van Gogh",
+   "Samuel Fischer",
+   "Sotheby’s",
+   "Art restitution",
+   "Art auctions"
+  ],
+  "pies": [
+   "Blossoming Chestnut Trees (Châtaigniers en fleurs), oil painting by Vincent van Gogh, painted in Auvers-sur-Oise in May 1890.",
+   "Van Gogh’s letter to Theo (Amsterdam edition, 1914) mentioning «une étude de maronniers roses et une de maronniers blancs»."
+  ]
+ }
 }

@@ -47,7 +47,6 @@
   "6bhhNS85m28",
   "Giz4tc5zU5A"
  ],
- "datosVerificados": 47,
  "fuentes": [
   "https://www.irs.gov/pub/foia/file-2-report-dated-12211933-in-re-alphonse-capone-by-sa-frank-wilson.pdf",
   "https://www.fbi.gov/history/famous-cases/al-capone",
@@ -65,6 +64,1384 @@
   "https://en.wikipedia.org/wiki/Al_Capone",
   "https://en.wikipedia.org/wiki/Frank_J._Wilson",
   "https://www.mentalfloss.com/article/78842/oral-history-30-years-ago-geraldo-rivera-opened-al-capones-vault"
+ ],
+ "datosVerificados": 47,
+ "comprobaciones": [
+  {
+   "beat": "b01",
+   "t": 0.6,
+   "texto": "Veintiuno de abril de mil novecientos ochenta y seis. Chicago.",
+   "fuentes": [
+    {
+     "url": "https://www.britannica.com/today-in-history/April-21-Solved-Mysteries-Al-Capones-Vault-Is-Opened",
+     "dice": "El 21 de abril de 1986 se abrió en directo la cámara de Capone bajo el Lexington Hotel de Chicago."
+    },
+    {
+     "url": "https://www.latimes.com/archives/la-xpm-1986-04-22-mn-1421-story.html",
+     "dice": "Crónica del 22 de abril de 1986: la cámara se abrió el lunes por la noche en un programa en directo de dos horas."
+    }
+   ]
+  },
+  {
+   "beat": "b01",
+   "t": 0.6,
+   "texto": "En el sótano de un viejo hotel abandonado",
+   "fuentes": [
+    {
+     "url": "https://www.britannica.com/today-in-history/April-21-Solved-Mysteries-Al-Capones-Vault-Is-Opened",
+     "dice": "Los muros se volaron bajo el hotel Lexington, abandonado."
+    },
+    {
+     "url": "https://themobmuseum.org/blog/geraldo-rivera-uncovered-the-mystery-of-al-capones-vaults-on-live-television-40-years-ago/",
+     "dice": "Rivera recorrió el hotel vacío mientras el equipo excavaba en el sótano."
+    }
+   ]
+  },
+  {
+   "beat": "b02",
+   "t": 17.5,
+   "texto": "Unos treinta millones de personas lo ven en directo.",
+   "fuentes": [
+    {
+     "url": "https://themobmuseum.org/blog/geraldo-rivera-uncovered-the-mystery-of-al-capones-vaults-on-live-television-40-years-ago/",
+     "dice": "Las audiencias de la noche dieron treinta millones de espectadores."
+    },
+    {
+     "url": "https://www.britannica.com/today-in-history/April-21-Solved-Mysteries-Al-Capones-Vault-Is-Opened",
+     "dice": "Más de treinta millones de espectadores."
+    },
+    {
+     "url": "https://www.chicagotribune.com/2023/04/20/the-mystery-of-al-capones-vaults-watch-the-highly-rated-live-tv-special-hosted-by-geraldo-rivera-in-1986",
+     "dice": "Unas estimaciones hablan de treinta millones y otras de sesenta."
+    }
+   ]
+  },
+  {
+   "beat": "b02",
+   "t": 17.5,
+   "texto": "Junto a las cámaras espera un agente del Fisco, por si aparece dinero.",
+   "fuentes": [
+    {
+     "url": "https://themobmuseum.org/blog/geraldo-rivera-uncovered-the-mystery-of-al-capones-vaults-on-live-television-40-years-ago/",
+     "dice": "Entre los entrevistados estaba Dennis Sansone, agente especial del IRS, presente para cobrar impuestos si aparecía dinero."
+    },
+    {
+     "url": "https://www.britannica.com/today-in-history/April-21-Solved-Mysteries-Al-Capones-Vault-Is-Opened",
+     "dice": "Entre el público había agentes del IRS, porque Capone aún debía impuestos."
+    }
+   ]
+  },
+  {
+   "beat": "b03",
+   "t": 29.6,
+   "texto": "Aquel hotel había sido el cuartel general de Al Capone.",
+   "fuentes": [
+    {
+     "url": "https://www.britannica.com/today-in-history/April-21-Solved-Mysteries-Al-Capones-Vault-Is-Opened",
+     "dice": "Capone instaló su base en el Lexington, donde alquiló varias plantas; fue su cuartel general cuatro años."
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/Summary_report_of_Al_Capone_for_the_Bureau_of_Internal_Revenue",
+     "dice": "El informe del fisco de 1933 identifica a Capone con domicilio en el Lexington Hotel, 2300 Michigan Boulevard."
+    }
+   ]
+  },
+  {
+   "beat": "b05",
+   "t": 58.9,
+   "texto": "Alphonse Capone nació en Brooklyn en mil ochocientos noventa y nueve, hijo de un barbero y una costurera italianos.",
+   "fuentes": [
+    {
+     "url": "https://www.britannica.com/biography/Al-Capone",
+     "dice": "Nacido el 17 de enero de 1899 en Brooklyn; padres inmigrados de Nápoles."
+    },
+    {
+     "url": "https://www.history.com/articles/al-capone",
+     "dice": "Hijo de los inmigrantes italianos Gabriele y Teresina; el padre era barbero y la madre costurera."
+    }
+   ]
+  },
+  {
+   "beat": "b06",
+   "t": 73.1,
+   "texto": "A los catorce años lo expulsaron de la escuela por pegar a una maestra.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Al_Capone",
+     "dice": "Su escolarización terminó a los catorce años, cuando lo expulsaron por golpear en la cara a una maestra."
+    },
+    {
+     "url": "https://www.pbs.org/newshour/health/infectious-disease-sprung-al-capone-alcatraz",
+     "dice": "Lo echaron de la escuela pública a los catorce por pegar a su maestra en la cara."
+    },
+    {
+     "url": "https://www.britannica.com/biography/Al-Capone",
+     "dice": "Dejó la escuela a los catorce años tras golpear a una maestra."
+    }
+   ]
+  },
+  {
+   "beat": "b06",
+   "t": 73.1,
+   "texto": "En la calle encontró a su mentor: Johnny Torrio.",
+   "fuentes": [
+    {
+     "url": "https://www.britannica.com/biography/Al-Capone",
+     "dice": "Entró en la banda de James Street, que dirigía Johnny Torrio, quien sería su mentor toda la vida."
+    },
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/al-capone",
+     "dice": "Johnny Torrio era el jefe de la banda callejera de la que Capone era miembro."
+    }
+   ]
+  },
+  {
+   "beat": "b07",
+   "t": 86,
+   "texto": "En un bar de Coney Island insultó a una joven, y el hermano de ella le rajó la cara.",
+   "fuentes": [
+    {
+     "url": "https://www.britannica.com/biography/Al-Capone",
+     "dice": "En el Harvard Inn, Frank Galluccio le hizo un tajo en la mejilla izquierda después de que Capone hiciera un comentario grosero a su hermana."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Al_Capone",
+     "dice": "Capone insultó a una mujer en el Harvard Inn de Coney Island y su hermano, Frank Galluccio, le acuchilló tres veces la cara."
+    },
+    {
+     "url": "https://www.nydailynews.com/1996/08/12/he-made-mark-on-capone",
+     "dice": "Frank Galluccio fue quien lo marcó, en el Harvard Inn."
+    }
+   ]
+  },
+  {
+   "beat": "b07",
+   "t": 86,
+   "texto": "un apodo que odiaría siempre: Scarface",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Al_Capone",
+     "dice": "Las heridas le dieron el apodo «Scarface», que Capone detestaba; atribuía las cicatrices a la guerra."
+    },
+    {
+     "url": "http://freshairarchive.org/segments/rise-and-fall-gangster-al-capone",
+     "dice": "El biógrafo Jonathan Eig: los periódicos lo llamaban Scarface, pero el apodo que él prefería era Snorky."
+    }
+   ]
+  },
+  {
+   "beat": "b08",
+   "t": 101.1,
+   "texto": "Hacia mil novecientos diecinueve, Torrio lo llamó a Chicago para trabajar en un burdel.",
+   "fuentes": [
+    {
+     "url": "http://www.encyclopedia.chicagohistory.org/pages/2214.html",
+     "dice": "Llegó a Chicago probablemente en 1919 para trabajar con Torrio; primero llevó el local de vicio Four Deuces."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Al_Capone",
+     "dice": "En 1919 dejó Nueva York por Chicago, invitado por Torrio, y empezó como portero de un burdel."
+    },
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/al-capone",
+     "dice": "Hacia 1920, invitado por Torrio, se unió a él en Chicago."
+    }
+   ]
+  },
+  {
+   "beat": "b08",
+   "t": 101.1,
+   "texto": "Allí, probablemente, contrajo la enfermedad que acabaría con él.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Al_Capone",
+     "dice": "Empezó como portero en un burdel, donde probablemente contrajo la sífilis."
+    },
+    {
+     "url": "https://www.pbs.org/newshour/health/infectious-disease-sprung-al-capone-alcatraz",
+     "dice": "Su primer trabajo en Chicago, de portero en un burdel de Colosimo, es donde empieza su historia médica."
+    }
+   ]
+  },
+  {
+   "beat": "b09",
+   "t": 116.1,
+   "texto": "El diecisiete de enero de mil novecientos veinte, el mismo día en que cumplía veintiún años, entró en vigor la Ley Seca.",
+   "fuentes": [
+    {
+     "url": "https://www.fjc.gov/history/exhibits/prohibition-in-federal-courts-timeline",
+     "dice": "La prohibición nacional empezó el 17 de enero de 1920, cuando entraron en vigor la Decimoctava Enmienda y la Ley Volstead."
+    },
+    {
+     "url": "https://www.chicagotribune.com/1997/05/13/january-17-1920",
+     "dice": "Capone soplaba las velas de su vigésimo primer cumpleaños el mismo día en que entró en vigor la Ley Seca."
+    }
+   ]
+  },
+  {
+   "beat": "b11",
+   "t": 140.8,
+   "texto": "Meses después, el jefe del hampa de Chicago, Big Jim Colosimo, cayó muerto a tiros en su restaurante.",
+   "fuentes": [
+    {
+     "url": "https://www.chicagotribune.com/2020/05/29/big-jim-colosimo-chicagos-first-crime-boss",
+     "dice": "El primer gran jefe criminal de Chicago fue abatido a tiros en su restaurante el 11 de mayo de 1920."
+    },
+    {
+     "url": "https://themobmuseum.org/blog/one-hundred-years-ago-murder-of-big-jim-colosimo-spawned-one-of-the-most-powerful-crime-syndicates-in-american-history-the-chicago-outfit/",
+     "dice": "El 11 de mayo de 1920 Colosimo murió a tiros en su propio restaurante."
+    }
+   ]
+  },
+  {
+   "beat": "b11",
+   "t": 140.8,
+   "texto": "Torrio heredó el negocio, y Capone fue su mano derecha.",
+   "fuentes": [
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/al-capone",
+     "dice": "Torrio sucedió a Colosimo tras su muerte violenta y Capone fue su «brazo derecho»."
+    },
+    {
+     "url": "http://www.encyclopedia.chicagohistory.org/pages/2214.html",
+     "dice": "Tras el asesinato de Colosimo, Torrio tomó el mando y Capone pronto fue su principal ayudante."
+    }
+   ]
+  },
+  {
+   "beat": "b12",
+   "t": 156.9,
+   "texto": "En el norte mandaba Dean O'Banion, hasta que en mil novecientos veinticuatro lo acribillaron en su floristería. El golpe se atribuyó a los hombres de Torrio.",
+   "fuentes": [
+    {
+     "url": "https://www.britannica.com/biography/Dion-OBannion",
+     "dice": "Dominaba el North Side; fue asesinado el 10 de noviembre de 1924 en su floristería por agentes de Capone."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Johnny_Torrio",
+     "dice": "Los asesinos fueron, según se cree, Yale, Scalise y Anselmi, actuando por cuenta de Torrio."
+    },
+    {
+     "url": "https://www.chicagotribune.com/2024/12/12/vintage-chicago-tribune-paul-duricas-november-1924-picks",
+     "dice": "O'Banion recibió al menos siete balazos en su floristería el 10 de noviembre de 1924."
+    }
+   ]
+  },
+  {
+   "beat": "b13",
+   "t": 173.8,
+   "texto": "Su banda respondió tiroteando a Torrio. Sobrevivió, pero se retiró y se lo dejó todo a Capone. Tenía veintiséis años.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Johnny_Torrio",
+     "dice": "El 24 de enero de 1925 Weiss, Drucci y Moran tirotearon a Torrio; sobrevivió, renunció y cedió el mando a Capone."
+    },
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/al-capone",
+     "dice": "En 1925 Capone se convirtió en jefe cuando Torrio, gravemente herido, cedió el control y se retiró."
+    }
+   ]
+  },
+  {
+   "beat": "b14",
+   "t": 187,
+   "texto": "En mil novecientos veintiséis, una caravana de coches acribilló su cuartel general en Cicero. Se habló de más de mil disparos. Capone salió ileso.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Al_Capone",
+     "dice": "El 20 de septiembre de 1926 varios coches dispararon con metralletas y escopetas contra el Hawthorne Inn; Capone salió ileso. No da cifra de disparos."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_organized_crime_in_Chicago",
+     "dice": "Caravana de diez coches; Capone no sufrió ni un rasguño. Sin recuento de disparos."
+    },
+    {
+     "url": "https://nationalcrimesyndicate.com/on-this-day-in-1926-hymie-weiss-attempted-a-hit-on-al-capone",
+     "dice": "Según se cuenta, más de mil disparos."
+    }
+   ]
+  },
+  {
+   "beat": "b15",
+   "t": 201.2,
+   "texto": "compraba policías y políticos",
+   "fuentes": [
+    {
+     "url": "https://en.wikisource.org/wiki/Summary_report_of_Al_Capone_for_the_Bureau_of_Internal_Revenue",
+     "dice": "Miembros de su organización explicaban su impunidad por los grandes sobornos que pagaban para trabajar sin molestias."
+    },
+    {
+     "url": "https://themobmuseum.org/blog/shiny-mark-incorruptibility",
+     "dice": "Capone destinaba unos veinte centavos de cada dólar a sobornos y hacía generosas aportaciones en efectivo a políticos."
+    }
+   ]
+  },
+  {
+   "beat": "b15",
+   "t": 201.2,
+   "texto": "se calculaba que su organización ingresaba cerca de cien millones de dólares al año",
+   "fuentes": [
+    {
+     "url": "https://www.infoplease.com/encyclopedia/people/history/us/capone-al",
+     "dice": "Columbia Encyclopedia: la Oficina de Rentas Internas estimó que su sindicato ingresó ciento cinco millones de dólares solo en 1927."
+    },
+    {
+     "url": "https://www.history.com/articles/al-capone",
+     "dice": "Los periódicos de la época calculaban que sus operaciones generaban cien millones de dólares anuales."
+    }
+   ]
+  },
+  {
+   "beat": "b17",
+   "t": 215.2,
+   "texto": "Pero le quedaba un rival: Bugs Moran, que ahora mandaba en la banda de O'Banion.",
+   "fuentes": [
+    {
+     "url": "https://nationalcrimesyndicate.com/hymie-weiss-death-photo/",
+     "dice": "Tras la muerte de O'Banion en 1924 fue Hymie Weiss quien tomó el mando de la banda del North Side; Weiss murió en 1926."
+    },
+    {
+     "url": "https://themobmuseum.org/notable_names/dean-obanion",
+     "dice": "Weiss, amigo de O'Banion, fue señalado por el atentado contra Torrio; en 1929 la banda la dirigía Moran."
+    }
+   ]
+  },
+  {
+   "beat": "b17",
+   "t": 215.2,
+   "texto": "El día de San Valentín de mil novecientos veintinueve, siete hombres del entorno de Moran esperaban en un garaje de Chicago.",
+   "fuentes": [
+    {
+     "url": "https://www.britannica.com/event/Saint-Valentines-Day-Massacre",
+     "dice": "Las víctimas fueron seis miembros de la banda y un asociado, el doctor Reinhardt Schwimmer."
+    },
+    {
+     "url": "https://www.ebsco.com/research-starters/history/saint-valentines-day-massacre",
+     "dice": "Cinco eran de la banda de Moran; los otros dos eran un mecánico, John May, y un óptico asociado, Schwimmer."
+    }
+   ]
+  },
+  {
+   "beat": "b18",
+   "t": 232.5,
+   "texto": "Entraron varios hombres, algunos vestidos de policía. Los pusieron contra la pared. Y dispararon.",
+   "fuentes": [
+    {
+     "url": "https://www.britannica.com/print/article/2288014",
+     "dice": "Cuatro hombres, dos con uniforme de policía, entraron y ordenaron a los siete ponerse contra la pared antes de ejecutarlos."
+    },
+    {
+     "url": "http://www.encyclopedia.com/law/educational-magazines/st-valentines-day-massacre",
+     "dice": "Dos hombres uniformados y dos de paisano; las víctimas se pusieron de cara a la pared y les dispararon."
+    }
+   ]
+  },
+  {
+   "beat": "b19",
+   "t": 245.3,
+   "texto": "Moran llegaba tarde, vio el falso coche de policía y pasó de largo.",
+   "fuentes": [
+    {
+     "url": "https://www.britannica.com/print/article/2288014",
+     "dice": "Moran llegaba tarde; al ver el Cadillac siguió caminando con dos acompañantes."
+    },
+    {
+     "url": "http://www.encyclopedia.com/law/educational-magazines/st-valentines-day-massacre",
+     "dice": "Moran dobló la esquina cuando bajaban los falsos policías y huyó."
+    }
+   ]
+  },
+  {
+   "beat": "b19",
+   "t": 245.3,
+   "texto": "Capone estaba en su casa de Florida. Nadie fue condenado jamás.",
+   "fuentes": [
+    {
+     "url": "https://www.britannica.com/print/article/2288014",
+     "dice": "Nadie fue condenado jamás. Capone estaba en Florida."
+    },
+    {
+     "url": "https://www.saturdayeveningpost.com/2019/02/5-things-you-didnt-know-about-the-st-valentines-day-massacre",
+     "dice": "Aunque muchos fueron implicados, nadie fue condenado."
+    }
+   ]
+  },
+  {
+   "beat": "b20",
+   "t": 260.7,
+   "texto": "Y para el país, el culpable tenía nombre, aunque nunca se pudo probar.",
+   "fuentes": [
+    {
+     "url": "http://www.encyclopedia.com/law/educational-magazines/st-valentines-day-massacre",
+     "dice": "Nadie dudaba de que Capone había ordenado las ejecuciones; solo se juzgó a McGurn."
+    },
+    {
+     "url": "https://www.ebsco.com/research-starters/history/saint-valentines-day-massacre",
+     "dice": "Las sospechas recayeron en Capone y su banda, aunque él estaba en Florida."
+    }
+   ]
+  },
+  {
+   "beat": "b21",
+   "t": 272.1,
+   "texto": "El presidente Herbert Hoover ordenó ir a por él.",
+   "fuentes": [
+    {
+     "url": "https://www.famous-trials.com/alcapone/1474-home",
+     "dice": "Hoover ordenó a Mellon: «Quiero a ese Capone en la cárcel»."
+    },
+    {
+     "url": "https://boundarystones.weta.org/2014/07/21/how-hoover-no-not-hoover-got-al-capone",
+     "dice": "En sus memorias, Hoover dice que ordenó a todas las agencias federales concentrarse en Capone."
+    }
+   ]
+  },
+  {
+   "beat": "b21",
+   "t": 272.1,
+   "texto": "Según recordaría su secretario del Tesoro, cada mañana le preguntaba: ¿ya tienen a ese tal Capone?",
+   "fuentes": [
+    {
+     "url": "https://boundarystones.weta.org/2014/07/21/how-hoover-no-not-hoover-got-al-capone",
+     "dice": "Mellon contó después que, en las sesiones matinales de balón medicinal, Hoover le preguntaba: «¿Ya tienen a ese tal Al Capone?»."
+    },
+    {
+     "url": "http://hoover.archives.gov/hoovers/history-hoover-ball",
+     "dice": "El «gabinete del balón medicinal» jugaba cada mañana salvo los domingos (respalda el contexto, no la cita)."
+    },
+    {
+     "url": "https://www.crimeandinvestigation.co.uk/crime-files/al-capone/timeline",
+     "dice": "En marzo de 1929 Hoover preguntó a Mellon: «¿Ya tienen a ese tal Capone? Quiero a ese hombre en la cárcel»."
+    }
+   ]
+  },
+  {
+   "beat": "b22",
+   "t": 286.5,
+   "texto": "El ruidoso: Eliot Ness, reventando cervecerías.",
+   "fuentes": [
+    {
+     "url": "https://www.britannica.com/biography/Eliot-Ness",
+     "dice": "Ness dirigía el equipo de los Intocables contra la red de Capone en Chicago."
+    },
+    {
+     "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/capone-al-0",
+     "dice": "Los agentes de la Prohibición se centraron en cerrar las operaciones de cerveza de Capone."
+    }
+   ]
+  },
+  {
+   "beat": "b22",
+   "t": 286.5,
+   "texto": "Y el silencioso: Frank Wilson, de Hacienda, que no buscaba alcohol. Buscaba dinero.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Frank_J._Wilson",
+     "dice": "Agente de la Oficina de Rentas Internas enviado en mayo de 1930 a dirigir la investigación fiscal contra Capone."
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/Summary_report_of_Al_Capone_for_the_Bureau_of_Internal_Revenue",
+     "dice": "Informe firmado por Frank J. Wilson, agente especial de la Unidad de Inteligencia del fisco."
+    }
+   ]
+  },
+  {
+   "beat": "b23",
+   "t": 302.7,
+   "texto": "En mil novecientos veintisiete, el Tribunal Supremo había dejado claro que las ganancias ilegales también pagaban impuestos.",
+   "fuentes": [
+    {
+     "url": "https://supreme.justia.com/cases/federal/us/274/259",
+     "dice": "Sentencia Sullivan, 16 de mayo de 1927: las ganancias del tráfico ilícito están sujetas al impuesto; la ley ya había suprimido la palabra «lícito»."
+    },
+    {
+     "url": "https://red.library.usd.edu/cgi/viewcontent.cgi?article=3412&context=sdlrev",
+     "dice": "La ley de 1916 suprimió «lícito», de modo que las ganancias ilegales ya eran gravables; Sullivan es la base jurisprudencial."
+    }
+   ]
+  },
+  {
+   "beat": "b23",
+   "t": 302.7,
+   "texto": "Y Capone nunca había presentado una declaración de la renta.",
+   "fuentes": [
+    {
+     "url": "https://en.wikisource.org/wiki/Summary_report_of_Al_Capone_for_the_Bureau_of_Internal_Revenue",
+     "dice": "Capone nunca había presentado declaración por los años imputados ni pagado impuesto alguno."
+    },
+    {
+     "url": "https://www.famous-trials.com/alcapone/1474-home",
+     "dice": "Nunca se había presentado una declaración a su nombre."
+    }
+   ]
+  },
+  {
+   "beat": "b24",
+   "t": 319.2,
+   "texto": "Pero no tenía cuentas a su nombre, casi nunca usaba cheques y lo pagaba todo en efectivo.",
+   "fuentes": [
+    {
+     "url": "https://en.wikisource.org/wiki/Summary_report_of_Al_Capone_for_the_Bureau_of_Internal_Revenue",
+     "dice": "No tenía cuentas bancarias ni bienes a su nombre y, salvo giros de Western Union y algún cheque ocasional, todo lo hacía en efectivo."
+    },
+    {
+     "url": "https://www.history.com/articles/al-capone",
+     "dice": "Gastaba a lo grande, siempre en efectivo, para no dejar rastro."
+    }
+   ]
+  },
+  {
+   "beat": "b25",
+   "t": 327.2,
+   "texto": "Así que primero cayeron los suyos: su hermano Ralph, Jake Guzik, Frank Nitti. Todos por delitos fiscales.",
+   "fuentes": [
+    {
+     "url": "https://prohibition.themobmuseum.org/the-history/enforcing-the-prohibition-laws/prohibition-mob-bosses-tripped-tax-laws",
+     "dice": "Un jurado condenó a Ralph Capone en 1930 a dieciocho meses; la unidad también atrapó a Nitti y Guzik."
+    },
+    {
+     "url": "https://www.nytimes.com/1930/12/21/archives/third-capone-aide-guilty-in-tax-case-nitti-secretary-of-finance-in.html",
+     "dice": "Diciembre de 1930: Nitti se declara culpable de evasión fiscal; dieciocho meses de cárcel."
+    },
+    {
+     "url": "https://www.irs.gov/pub/foia/file-2-report-dated-12211933-in-re-alphonse-capone-by-sa-frank-wilson.pdf",
+     "dice": "Guzik, acusado el 3 de octubre de 1930 y condenado tras juicio en noviembre de 1930."
+    }
+   ]
+  },
+  {
+   "beat": "b26",
+   "t": 340.2,
+   "texto": "portada de Time, comedor gratuito para los parados de la Depresión",
+   "fuentes": [
+    {
+     "url": "https://content.time.com/time/covers/0,16641,19300324,00.html",
+     "dice": "Portada de Time del 24 de marzo de 1930 con Al Capone."
+    },
+    {
+     "url": "https://www.loc.gov/item/2006690089",
+     "dice": "Foto de noviembre de 1930: comedor para parados en el 935 de South State Street, financiado por Capone."
+    },
+    {
+     "url": "https://www.history.com/articles/al-capone-great-depression-soup-kitchen",
+     "dice": "En noviembre de 1930 abrió un comedor de beneficencia que daba tres comidas al día."
+    }
+   ]
+  },
+  {
+   "beat": "b27",
+   "t": 356.1,
+   "texto": "Wilson dio con un libro de cuentas sin nombre, incautado cuatro años antes en un casino de Capone.",
+   "fuentes": [
+    {
+     "url": "https://en.wikisource.org/wiki/Summary_report_of_Al_Capone_for_the_Bureau_of_Internal_Revenue",
+     "dice": "El libro, sin marcas de identificación, se halló en la redada del 26 de abril de 1926 en el Hawthorne Smoke Shop, el local de juego de Capone, y quedó archivado en la oficina de Chicago."
+    },
+    {
+     "url": "https://digitalcommons.wku.edu/cgi/viewcontent.cgi?article=1930&context=stu_hon_theses",
+     "dice": "En 1930 Wilson descubrió los libros incautados en la redada de 1926 en el Hawthorne Smoke Shop."
+    }
+   ]
+  },
+  {
+   "beat": "b27",
+   "t": 356.1,
+   "texto": "Nadie se había dado cuenta de lo que valía.",
+   "fuentes": [
+    {
+     "url": "https://en.wikisource.org/wiki/Summary_report_of_Al_Capone_for_the_Bureau_of_Internal_Revenue",
+     "dice": "No se hizo uso del libro y se archivó; no se había advertido su valor como prueba. Wilson lo encontró por casualidad entre papeles dejados por el agente Roche."
+    }
+   ]
+  },
+  {
+   "beat": "b28",
+   "t": 372.1,
+   "texto": "Frank pagó diecisiete mil quinientos dólares por Al.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Frank_J._Wilson",
+     "dice": "Wilson encontró una anotación: «Frank paid $17,500 for Al»."
+    },
+    {
+     "url": "https://abfa.us/wp-content/uploads/2022/07/Americas-First-2.5.18-site.pdf",
+     "dice": "En una página figuraba la anotación «Frank paid $17,500 for Al»."
+    }
+   ]
+  },
+  {
+   "beat": "b29",
+   "t": 390.8,
+   "texto": "Wilson comparó caligrafías hasta dar con quien llevaba el libro: el cajero, Leslie Shumway.",
+   "fuentes": [
+    {
+     "url": "https://en.wikisource.org/wiki/Summary_report_of_Al_Capone_for_the_Bureau_of_Internal_Revenue",
+     "dice": "Informe de Wilson de 1933: una comparación cuidadosa con muestras de letra de miembros y empleados de la organización estableció que casi todo lo escribió Leslie A. Shumway (y una pequeña parte Penovich y Ben Pope); Shumway era el cajero del local y su declaración jurada dice que llevaba el libro."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Frank_J._Wilson",
+     "dice": "Durante más de tres semanas Wilson cotejó la letra de los asociados de Capone (registros electorales, depósitos bancarios, fianzas); el informante O'Hare le ayudó a identificar al contable, Leslie A. Shumway."
+    },
+    {
+     "url": "https://abfa.us/wp-content/uploads/2022/07/Americas-First-2.5.18-site.pdf",
+     "dice": "Tras tres semanas cotejando letras, una ficha de depósito bancario coincidió con la del libro: Shumway."
+    }
+   ]
+  },
+  {
+   "beat": "b30",
+   "t": 400.1,
+   "texto": "Lo encontraron en Miami, donde trabajaba en un canódromo.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Frank_J._Wilson",
+     "dice": "Shumway trabajaba en un canódromo de Miami y Wilson lo encontró allí."
+    },
+    {
+     "url": "https://law2.umkc.edu/faculty/projects/ftrials/capone/caponeaccount.html",
+     "dice": "Los agentes lo localizaron en Florida e interrumpieron su desayuno en su casa."
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/Summary_report_of_Al_Capone_for_the_Bureau_of_Internal_Revenue",
+     "dice": "Localizado en Miami el 18 de febrero de 1931."
+    }
+   ]
+  },
+  {
+   "beat": "b30",
+   "t": 400.1,
+   "texto": "Y firmó el segundo papel: una declaración jurada. Los investigadores lo mantuvieron oculto hasta el juicio.",
+   "fuentes": [
+    {
+     "url": "https://en.wikisource.org/wiki/Summary_report_of_Al_Capone_for_the_Bureau_of_Internal_Revenue",
+     "dice": "Declaración jurada del 18 de febrero de 1931; se mantuvo en secreto y la defensa no supo que era testigo hasta que apareció en la sala."
+    },
+    {
+     "url": "https://fr.wikipedia.org/wiki/Frank_J._Wilson",
+     "dice": "Wilson hizo financiar un primer programa de protección de testigos; el cajero fue escondido en California."
+    },
+    {
+     "url": "https://www.irs.gov/pub/foia/file-2-report-dated-12211933-in-re-alphonse-capone-by-sa-frank-wilson.pdf",
+     "dice": "Su declaración jurada fue la primera prueba obtenida que establecía directamente ingresos imponibles de Capone."
+    }
+   ]
+  },
+  {
+   "beat": "b31",
+   "t": 414.7,
+   "texto": "En mil novecientos treinta, su abogado, Lawrence Mattingly, quiso negociar con Hacienda y entregó una carta.",
+   "fuentes": [
+    {
+     "url": "https://famous-trials.com/alcapone/1473-mattinglyletter",
+     "dice": "Carta de Lawrence P. Mattingly a la Oficina de Rentas Internas, septiembre de 1930."
+    },
+    {
+     "url": "https://themobmuseum.org/blog/capone-tax-evasion-trial-90-years-ago-the-t-men-had-the-goods-on-mob-chief",
+     "dice": "A finales de 1930 Mattingly entregó la llamada «carta confesión», buscando un acuerdo sin cárcel."
+    }
+   ]
+  },
+  {
+   "beat": "b32",
+   "t": 431.9,
+   "texto": "Primero, veintiséis mil dólares un año y cuarenta mil el siguiente. Después, hasta cien mil al año.",
+   "fuentes": [
+    {
+     "url": "https://famous-trials.com/alcapone/1473-mattinglyletter",
+     "dice": "La carta fija la renta imponible en no más de veintiséis mil y cuarenta mil dólares respectivamente para dos años, y no más de cien mil por año para 1928 y 1929."
+    },
+    {
+     "url": "https://themobmuseum.org/blog/capone-tax-evasion-trial-90-years-ago-the-t-men-had-the-goods-on-mob-chief",
+     "dice": "Admitía unos veintiséis mil y cuarenta mil dólares, respectivamente, para 1926 y 1927, y no más de cien mil para 1928 y 1929."
+    }
+   ]
+  },
+  {
+   "beat": "b33",
+   "t": 447.9,
+   "texto": "Les habían advertido de que todo podría usarse en su contra.",
+   "fuentes": [
+    {
+     "url": "https://en.wikisource.org/wiki/Summary_report_of_Al_Capone_for_the_Bureau_of_Internal_Revenue",
+     "dice": "Mattingly y el contribuyente habían sido advertidos de que todo lo que aportaran podría usarse en un proceso penal."
+    },
+    {
+     "url": "https://themobmuseum.org/blog/capone-tax-evasion-trial-90-years-ago-the-t-men-had-the-goods-on-mob-chief",
+     "dice": "El juez concluyó que los funcionarios dejaron claro que podían usar la carta en el juicio."
+    }
+   ]
+  },
+  {
+   "beat": "b33",
+   "t": 447.9,
+   "texto": "Y acababa de darle a Hacienda una prueba por escrito.",
+   "fuentes": [
+    {
+     "url": "https://law2.umkc.edu/faculty/projects/ftrials/capone/caponeaccount.html",
+     "dice": "Mattingly entregó la carta al agente Wilson, que la archivó; un año después fue la prueba más discutida del juicio."
+    }
+   ]
+  },
+  {
+   "beat": "b34",
+   "t": 459.9,
+   "texto": "En junio de mil novecientos treinta y uno, Capone hizo algo que el público no esperaba: se declaró culpable.",
+   "fuentes": [
+    {
+     "url": "https://en.wikisource.org/wiki/Summary_report_of_Al_Capone_for_the_Bureau_of_Internal_Revenue",
+     "dice": "Primera acusación secreta el 13 de marzo de 1931 (año 1924); la principal, el 5 de junio de 1931; se declaró culpable el 16 de junio."
+    },
+    {
+     "url": "https://law2.umkc.edu/faculty/projects/ftrials/capone/caponechrono.html",
+     "dice": "Acusaciones del 13 de marzo, 5 de junio y 11 de junio de 1931; el 16 de junio decide declararse culpable con un acuerdo negociado."
+    }
+   ]
+  },
+  {
+   "beat": "b35",
+   "t": 471.1,
+   "texto": "No era una rendición. Era un trato: el fiscal pediría solo dos años y medio.",
+   "fuentes": [
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/al-capone",
+     "dice": "Se declaró culpable y luego presumió ante la prensa de haber pactado dos años y medio."
+    },
+    {
+     "url": "https://www.encyclopedia.com/law/law-magazines/al-capone-trial-1931",
+     "dice": "El fiscal Johnson aceptó dos años y medio a cambio de la confesión de culpa."
+    },
+    {
+     "url": "https://www.forbes.com/sites/kellyphillipserb/2020/10/17/al-capone-convicted-on-this-day-in-1931-after-boasting-they-cant-collect-legal-taxes-from-illegal-money",
+     "dice": "Capone alardeó de haber alcanzado un acuerdo de culpabilidad."
+    }
+   ]
+  },
+  {
+   "beat": "b36",
+   "t": 480.5,
+   "texto": "Pero el juez, James Wilkerson, dijo que con un tribunal federal no se negocia. Capone retiró su confesión. Habría juicio.",
+   "fuentes": [
+    {
+     "url": "https://www.famous-trials.com/alcapone/1474-home",
+     "dice": "Wilkerson: «Es hora de que alguien haga comprender al acusado que es completamente imposible negociar con un tribunal federal»."
+    },
+    {
+     "url": "https://www.chicagotribune.com/2012/01/15/legendary-lawmen-part-7-four-who-got-capone",
+     "dice": "Wilkerson rechazó el acuerdo, permitió retirar la confesión y el caso fue a juicio."
+    }
+   ]
+  },
+  {
+   "beat": "b37",
+   "t": 495.5,
+   "texto": "Sus hombres intentaron comprar a los candidatos a jurado. Pero el primer día del juicio, Wilkerson los cambió por los de otro juez.",
+   "fuentes": [
+    {
+     "url": "https://www.famous-trials.com/alcapone/1474-home",
+     "dice": "O'Hare avisó de que la banda tenía la lista de jurados y repartía billetes de mil dólares; al abrirse el juicio, Wilkerson intercambió su panel con el del juez Edwards."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/James_Herbert_Wilkerson",
+     "dice": "Justo antes de abrirse el juicio hizo cambiar todo el panel de jurados por el del juez Edwards."
+    },
+    {
+     "url": "https://prohibition.themobmuseum.org/the-history/enforcing-the-prohibition-laws/prohibition-mob-bosses-tripped-tax-laws",
+     "dice": "El primer día del juicio, Wilkerson cambió su jurado por el de otro juez."
+    }
+   ]
+  },
+  {
+   "beat": "b38",
+   "t": 508.9,
+   "texto": "Entonces apareció un testigo que la defensa no esperaba: el cajero, Leslie Shumway.",
+   "fuentes": [
+    {
+     "url": "https://en.wikisource.org/wiki/Summary_report_of_Al_Capone_for_the_Bureau_of_Internal_Revenue",
+     "dice": "La defensa no supo que Shumway era testigo de la acusación hasta que apareció en la sala."
+    },
+    {
+     "url": "https://www.famous-trials.com/alcapone/1474-home",
+     "dice": "Leslie Shumway, cajero del Hawthorne Smoke Shop, aportó la prueba más demoledora de la jornada."
+    }
+   ]
+  },
+  {
+   "beat": "b38",
+   "t": 508.9,
+   "texto": "Y la fiscalía leyó ante el jurado la carta del abogado.",
+   "fuentes": [
+    {
+     "url": "https://themobmuseum.org/blog/capone-tax-evasion-trial-90-years-ago-the-t-men-had-the-goods-on-mob-chief",
+     "dice": "El 9 de octubre el jurado oyó al fiscal adjunto Samuel Clawson leer la carta de Mattingly."
+    },
+    {
+     "url": "https://www.upi.com/Archives/1931/10/08/Capone-lawyers-unable-to-suppress-damaging-letters/2819630728141",
+     "dice": "Crónica de 1931: la carta fue leída por el fiscal adjunto Sam Clawson tras ser admitida por el juez."
+    }
+   ]
+  },
+  {
+   "beat": "b39",
+   "t": 523.8,
+   "texto": "El diecisiete de octubre de mil novecientos treinta y uno, el jurado lo declaró culpable.",
+   "fuentes": [
+    {
+     "url": "https://www.irs.gov/pub/foia/file-2-report-dated-12211933-in-re-alphonse-capone-by-sa-frank-wilson.pdf",
+     "dice": "Informe del fisco de 1933: el 17 de octubre de 1931 el acusado fue declarado culpable."
+    },
+    {
+     "url": "https://www.britannica.com/biography/Al-Capone",
+     "dice": "Declarado culpable el 17 de octubre de 1931; la noticia se publicó el 18."
+    },
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/al-capone",
+     "dice": "El FBI da el 18 de octubre (divergente)."
+    }
+   ]
+  },
+  {
+   "beat": "b39",
+   "t": 523.8,
+   "texto": "Días después, el juez lo condenó a once años de prisión.",
+   "fuentes": [
+    {
+     "url": "https://law2.umkc.edu/faculty/projects/ftrials/capone/caponeaccount.html",
+     "dice": "Seis días después del veredicto, Wilkerson impuso once años, la pena más larga hasta entonces por evasión fiscal."
+    },
+    {
+     "url": "https://prohibition.themobmuseum.org/the-history/enforcing-the-prohibition-laws/prohibition-mob-bosses-tripped-tax-laws",
+     "dice": "El 24 de octubre Wilkerson lo condenó a once años."
+    }
+   ]
+  },
+  {
+   "beat": "b40",
+   "t": 538.9,
+   "texto": "El hombre al que no habían podido matar las balas había caído por no pagar sus impuestos.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Al_Capone",
+     "dice": "Atentado de Cicero sin recuento de disparos; Capone ileso."
+    },
+    {
+     "url": "https://nationalcrimesyndicate.com/on-this-day-in-1926-hymie-weiss-attempted-a-hit-on-al-capone",
+     "dice": "Según se cuenta, más de mil disparos."
+    }
+   ]
+  },
+  {
+   "beat": "b41",
+   "t": 548,
+   "texto": "En la cárcel de Atlanta, según se dijo, siguió comprando privilegios. En mil novecientos treinta y cuatro lo enviaron a una isla donde el dinero no servía de nada: Alcatraz.",
+   "fuentes": [
+    {
+     "url": "https://www.history.com/news/10-things-you-may-not-know-about-alcatraz",
+     "dice": "Capone había sobornado a guardias en Atlanta para obtener trato preferente; eso cambió en Alcatraz."
+    },
+    {
+     "url": "https://www.history.com/articles/al-capone-alcatraz",
+     "dice": "Lo trasladaron en agosto de 1934 junto a más de cien presos; el alcaide de Atlanta negó cualquier trato especial."
+    },
+    {
+     "url": "https://www.alcatrazhistory.com/cap1.htm",
+     "dice": "En Atlanta era un maestro manipulando su entorno y conseguía privilegios."
+    },
+    {
+     "url": "https://www.britannica.com/biography/Al-Capone",
+     "dice": "Entró en Atlanta en mayo de 1932 y fue trasladado a Alcatraz en agosto de 1934."
+    }
+   ]
+  },
+  {
+   "beat": "b41",
+   "t": 548,
+   "texto": "Preso número ochenta y cinco.",
+   "fuentes": [
+    {
+     "url": "https://www.history.com/articles/al-capone-alcatraz",
+     "dice": "Al llegar a Alcatraz en agosto de 1934 pasó a ser el preso 85."
+    },
+    {
+     "url": "https://www.alcatrazhistory.com/cap1.htm",
+     "dice": "Al Capone, AZ número 85."
+    }
+   ]
+  },
+  {
+   "beat": "b42",
+   "t": 565.3,
+   "texto": "Pero su peor enemigo ya estaba dentro: la sífilis de su juventud, sin tratar, le estaba dañando el cerebro.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Al_Capone",
+     "dice": "Probablemente la contrajo en el burdel donde empezó en Chicago; sabía que estaba infectado y al parecer nunca buscó tratamiento; en Alcatraz la neurosífilis erosionó sus facultades y se le diagnosticó en febrero de 1938."
+    },
+    {
+     "url": "https://www.pbs.org/newshour/health/infectious-disease-sprung-al-capone-alcatraz",
+     "dice": "Le dio vergüenza buscar atención médica y la enfermedad progresó sin control; diagnóstico formal de sífilis cerebral en febrero de 1938."
+    },
+    {
+     "url": "https://www.mentalfloss.com/history/how-al-capone-thanked-hospital-treated-his-syphilis",
+     "dice": "Avergonzado, se negó a buscar ayuda; los médicos de Alcatraz la descubrieron años después y lo trataron, incluso con malaria, pero la enfermedad ya había llegado al cerebro."
+    }
+   ]
+  },
+  {
+   "beat": "b43",
+   "t": 577.2,
+   "texto": "Salió libre en mil novecientos treinta y nueve.",
+   "fuentes": [
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/al-capone",
+     "dice": "Liberado el 16 de noviembre de 1939."
+    },
+    {
+     "url": "https://www.britannica.com/biography/Al-Capone",
+     "dice": "En noviembre de 1939 fue liberado e ingresó en un hospital de Baltimore."
+    }
+   ]
+  },
+  {
+   "beat": "b43",
+   "t": 577.2,
+   "texto": "Años después recibió un fármaco nuevo, la penicilina. Llegó demasiado tarde.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Al_Capone",
+     "dice": "En 1942 fue uno de los primeros pacientes estadounidenses tratados con penicilina (cita a The Vintage News)."
+    },
+    {
+     "url": "https://www.thevintagenews.com/2018/08/27/al-capone-penicillin/",
+     "dice": "Hacia 1942 el doctor Joseph Moore le administró penicilina; fue de los primeros sifilíticos tratados con ella."
+    },
+    {
+     "url": "https://allthatsinteresting.com/al-capone-death",
+     "dice": "Fue de los primeros pacientes de la historia tratados con penicilina, en 1942."
+    },
+    {
+     "url": "https://www.rrauction.com/auctions/lot-detail/346973106560161-al-capone-medical-archive",
+     "dice": "Cita a Schoenberg: fue uno de los primeros neurosifilíticos en recibir la penicilina, escasa por la guerra; llegó demasiado tarde para curarlo."
+    }
+   ]
+  },
+  {
+   "beat": "b44",
+   "t": 592.9,
+   "texto": "con la mente de un niño de doce años, según sus médicos",
+   "fuentes": [
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/al-capone",
+     "dice": "En 1946 su médico y un psiquiatra de Baltimore concluyeron que tenía la mentalidad de un niño de doce años."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Al_Capone",
+     "dice": "En 1946 su médico y un psiquiatra de Baltimore concluyeron que tenía la mentalidad de un niño de doce años."
+    }
+   ]
+  },
+  {
+   "beat": "b44",
+   "t": 592.9,
+   "texto": "Murió en mil novecientos cuarenta y siete. Tenía cuarenta y ocho años.",
+   "fuentes": [
+    {
+     "url": "https://www.britannica.com/biography/Al-Capone",
+     "dice": "Murió el 25 de enero de 1947 en Palm Island, a los cuarenta y ocho años."
+    },
+    {
+     "url": "https://www.fbi.gov/history/famous-cases/al-capone",
+     "dice": "Murió en Palm Island el 25 de enero de 1947."
+    }
+   ]
+  },
+  {
+   "beat": "b45",
+   "t": 608.7,
+   "texto": "Cuatro décadas después, en aquel sótano, las máquinas atravesaron por fin el muro.",
+   "fuentes": [
+    {
+     "url": "https://www.britannica.com/today-in-history/April-21-Solved-Mysteries-Al-Capones-Vault-Is-Opened",
+     "dice": "En 1986 se volaron muros de ladrillo y hormigón bajo el Lexington."
+    },
+    {
+     "url": "https://www.latimes.com/archives/la-xpm-1986-04-22-mn-1421-story.html",
+     "dice": "La gran cámara de hormigón se abrió el lunes por la noche."
+    }
+   ]
+  },
+  {
+   "beat": "b46",
+   "t": 617.1,
+   "texto": "Dentro había tierra. Escombros. Y unas botellas vacías.",
+   "fuentes": [
+    {
+     "url": "https://www.britannica.com/today-in-history/April-21-Solved-Mysteries-Al-Capones-Vault-Is-Opened",
+     "dice": "Solo aparecieron tierra y unas pocas botellas vacías."
+    },
+    {
+     "url": "https://www.latimes.com/archives/la-xpm-1986-04-22-mn-1421-story.html",
+     "dice": "Titular: el tesoro de la cámara fue tierra y escombros."
+    },
+    {
+     "url": "https://themobmuseum.org/blog/geraldo-rivera-uncovered-the-mystery-of-al-capones-vaults-on-live-television-40-years-ago/",
+     "dice": "Apenas un par de botellas antiguas y una nube de polvo."
+    }
+   ]
+  },
+  {
+   "beat": "b47",
+   "t": 626.1,
+   "texto": "Nunca se ha encontrado ningún tesoro escondido de Capone.",
+   "fuentes": [
+    {
+     "url": "https://themobmuseum.org/blog/geraldo-rivera-uncovered-the-mystery-of-al-capones-vaults-on-live-television-40-years-ago",
+     "dice": "Artículo de abril de 2026: hasta la fecha no se ha encontrado ningún tesoro asociado a Capone; según el periodista Chuck Goudie, muchos expertos creen que no hay tal tesoro."
+    },
+    {
+     "url": "https://www.cbsnews.com/chicago/news/on-this-day-36-years-ago-al-capones-vault-is-blasted-open-nothing-of-interest-is-found",
+     "dice": "En la cámara del Lexington no apareció ni botín ni cuerpos ni cajas de licor."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/The_Mystery_of_Al_Capone%27s_Vaults",
+     "dice": "La sala tapiada bajo el Lexington resultó estar vacía salvo por escombros."
+    }
+   ]
+  },
+  {
+   "beat": "b48",
+   "t": 632,
+   "texto": "Lo derribaron, sobre todo, tres papeles: un libro olvidado, la declaración de un cajero y la carta de su propio abogado.",
+   "fuentes": [
+    {
+     "url": "https://en.wikisource.org/wiki/Summary_report_of_Al_Capone_for_the_Bureau_of_Internal_Revenue",
+     "dice": "El libro identificado por Shumway y su testimonio fueron la base de la acusación de 1924 y de los cargos de 1925 y 1926; el testimonio de Ries fue de gran valor."
+    },
+    {
+     "url": "https://www.encyclopedia.com/law/law-magazines/al-capone-trial-1931",
+     "dice": "Absuelto por 1924; culpable por evasión en 1925, 1926 y 1927 y por no declarar en 1928 y 1929."
+    },
+    {
+     "url": "https://www.famous-trials.com/alcapone/1474-home",
+     "dice": "La carta fue la prueba más disputada del juicio; Shumway aportó la prueba más demoledora de la jornada; Ries fue el último testigo clave."
+    },
+    {
+     "url": "https://digitalcommons.wku.edu/cgi/viewcontent.cgi?article=1930&context=stu_hon_theses",
+     "dice": "El informe de los agentes llama a la carta «la prueba más definitiva de los ingresos del contribuyente»; el juez no permitió usar su contenido como prueba de las cifras."
+    }
+   ]
+  },
+  {
+   "beat": "b28",
+   "t": 372.1,
+   "texto": "Era la primera pista escrita que tenía Wilson para unir a Capone con el dinero del casino.",
+   "fuentes": [
+    {
+     "url": "https://abfa.us/wp-content/uploads/2022/07/Americas-First-2.5.18-site.pdf",
+     "dice": "Fue el primer indicio que tuvo Wilson que podía vincular a Capone con las ganancias de una operación de juego."
+    },
+    {
+     "url": "https://www.famous-trials.com/alcapone/1474-home",
+     "dice": "El primer gran avance de la investigación llegó cuando Wilson encontró los libros de cuentas."
+    },
+    {
+     "url": "https://www.irs.gov/pub/foia/file-2-report-dated-12211933-in-re-alphonse-capone-by-sa-frank-wilson.pdf",
+     "dice": "La primera prueba que establecía directamente ingresos de Capone fue la declaración de Shumway, no el libro."
+    }
+   ]
+  },
+  {
+   "beat": "b31",
+   "t": 414.7,
+   "texto": "El tercer papel había salido meses antes del propio bando de Capone.",
+   "fuentes": [
+    {
+     "url": "https://famous-trials.com/alcapone/1473-mattinglyletter",
+     "dice": "La carta de Mattingly es de septiembre de 1930."
+    },
+    {
+     "url": "https://en.wikisource.org/wiki/Summary_report_of_Al_Capone_for_the_Bureau_of_Internal_Revenue",
+     "dice": "La declaración jurada de Shumway es del 18 de febrero de 1931."
+    }
+   ]
+  },
+  {
+   "beat": "b10",
+   "t": 129.2,
+   "texto": "Pero millones de personas querían seguir bebiendo.",
+   "fuentes": [
+    {
+     "url": "https://www.pbs.org/kenburns/prohibition/unintended-consequences",
+     "dice": "El comercio ilegal de licor convirtió en delincuentes a millones de estadounidenses; en muchas zonas bebía más gente y se bebía más."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Prohibition_in_the_United_States",
+     "dice": "El gasto en alcohol del bebedor medio subió de diecisiete a treinta y cinco dólares al año (1919-1930); la industria ilegal ingresaba unos tres mil millones de dólares anuales."
+    }
+   ]
+  },
+  {
+   "beat": "b10",
+   "t": 129.2,
+   "texto": "Y quien se lo sirviera iba a hacerse inmensamente rico.",
+   "fuentes": [
+    {
+     "url": "https://www.history.com/articles/great-depression-economy-prohibition",
+     "dice": "Los contrabandistas se hacían ricos con la venta ilegal de alcohol; gánsteres como Capone se enriquecieron con él."
+    },
+    {
+     "url": "https://prohibition.themobmuseum.org/the-history/the-rise-of-organized-crime/the-mob-during-prohibition",
+     "dice": "La Ley Seca dio a las bandas callejeras «la mayor oportunidad de la historia»; a mediados de los años veinte Luciano ya era multimillonario con el contrabando."
+    }
+   ]
+  }
+ ],
+ "cronologia": [
+  {
+   "fecha": "1899-01-17",
+   "texto": "Alphonse Capone nace en Brooklyn, hijo de un barbero y una costurera italianos.",
+   "hechos": [
+    "h06"
+   ]
+  },
+  {
+   "fecha": "1920-01-17",
+   "texto": "Entra en vigor la Ley Seca el mismo día en que Capone cumple veintiún años.",
+   "hechos": [
+    "h11"
+   ]
+  },
+  {
+   "fecha": "1925-01-24",
+   "texto": "Tirotean a Johnny Torrio frente a su casa; sobrevive, se retira y deja la organización a Capone, que tiene 26 años.",
+   "hechos": [
+    "h17"
+   ]
+  },
+  {
+   "fecha": "1929-02-14",
+   "texto": "Matanza de San Valentín: siete hombres del entorno de Bugs Moran mueren tiroteados en un garaje de Chicago. Nadie fue condenado.",
+   "hechos": [
+    "h20",
+    "h21",
+    "h22"
+   ]
+  },
+  {
+   "fecha": "1930-09",
+   "texto": "Su abogado, Lawrence Mattingly, entrega al fisco una carta en la que admite que Capone tenía ingresos imponibles.",
+   "hechos": [
+    "h33"
+   ]
+  },
+  {
+   "fecha": "1931-02-18",
+   "texto": "Los investigadores localizan en Miami a Leslie Shumway, el cajero que llevaba el libro de cuentas del casino, y firma una declaración jurada.",
+   "hechos": [
+    "h32"
+   ]
+  },
+  {
+   "fecha": "1931-10-17",
+   "texto": "Un jurado declara a Capone culpable de evasión fiscal; días después, el juez lo condena a 11 años de prisión.",
+   "hechos": [
+    "h39"
+   ]
+  },
+  {
+   "fecha": "1934-08-22",
+   "texto": "Lo trasladan de la penitenciaría de Atlanta a Alcatraz, donde es el preso número 85.",
+   "hechos": [
+    "h40"
+   ]
+  },
+  {
+   "fecha": "1947-01-25",
+   "texto": "Muere en su villa de Florida a los 48 años, con el cerebro dañado por una sífilis sin tratar.",
+   "hechos": [
+    "h41",
+    "h44"
+   ]
+  },
+  {
+   "fecha": "1986-04-21",
+   "texto": "Unos 30 millones de espectadores ven en directo cómo se abre la bóveda del Hotel Lexington: dentro solo hay tierra, escombros y botellas vacías.",
+   "hechos": [
+    "h01",
+    "h02",
+    "h45"
+   ]
+  }
+ ],
+ "preguntas": [
+  {
+   "pregunta": "¿Por qué condenaron a Al Capone?",
+   "respuesta": "Por evasión de impuestos. El 17 de octubre de 1931 un jurado federal lo declaró culpable y, días después, el juez le impuso 11 años de prisión y 50.000 dólares de multa. La matanza de San Valentín, que la opinión pública le atribuyó, nunca se le pudo probar.",
+   "hechos": [
+    "h39",
+    "h22",
+    "h23"
+   ]
+  },
+  {
+   "pregunta": "¿Qué pruebas usaron contra Al Capone?",
+   "respuesta": "Sobre todo, pruebas fiscales: un libro de cuentas de su casino de Cicero incautado en 1926 y olvidado en una oficina, la declaración del cajero que lo llevaba, Leslie Shumway, y la carta en la que su propio abogado, Lawrence Mattingly, admitía ingresos imponibles. Declararon además otros testigos.",
+   "hechos": [
+    "h30",
+    "h32",
+    "h33",
+    "h34",
+    "h47"
+   ]
+  },
+  {
+   "pregunta": "¿Ordenó Al Capone la matanza de San Valentín?",
+   "respuesta": "Nunca se probó. El 14 de febrero de 1929 siete hombres del entorno de Bugs Moran murieron tiroteados en un garaje de Chicago mientras Capone estaba en su casa de Florida. Nadie fue condenado, pero la opinión pública lo señaló a él.",
+   "hechos": [
+    "h20",
+    "h22",
+    "h23"
+   ]
+  },
+  {
+   "pregunta": "¿Qué había en la bóveda de Al Capone?",
+   "respuesta": "Tierra, escombros y unas botellas vacías. La bóveda, en el sótano del Hotel Lexington de Chicago, se abrió en directo el 21 de abril de 1986 ante unos 30 millones de espectadores, y nunca ha aparecido ningún tesoro escondido de Capone.",
+   "hechos": [
+    "h01",
+    "h02",
+    "h45",
+    "h46"
+   ]
+  },
+  {
+   "pregunta": "¿Qué enfermedad tenía Al Capone?",
+   "respuesta": "Neurosífilis: la sífilis que contrajo de joven, sin tratar, le dañó el cerebro y se agravó en Alcatraz. Recibió penicilina demasiado tarde y, según sus médicos, acabó con la mentalidad de un niño de 12 años. Murió en 1947, con 48.",
+   "hechos": [
+    "h41",
+    "h43",
+    "h44"
+   ]
+  },
+  {
+   "pregunta": "¿Por qué llamaban Scarface a Al Capone?",
+   "respuesta": "Por las cicatrices de la cara. Según el relato habitual de sus biógrafos, en un bar de Coney Island insultó a una joven y el hermano de ella le hizo varios cortes. Capone detestaba el apodo.",
+   "hechos": [
+    "h09"
+   ]
+  }
+ ],
+ "temas": [
+  "Al Capone",
+  "Chicago",
+  "Ley Seca",
+  "Matanza de San Valentín",
+  "Alcatraz",
+  "Evasión fiscal"
+ ],
+ "imagenes": [
+  {
+   "id": "lexington",
+   "archivo": "imagenes/91PcDkJNMvI/lexington.jpg",
+   "ancho": 1200,
+   "alto": 803,
+   "pie": "Postal del Hotel Lexington de Chicago, que fue cuartel general y residencia de Al Capone entre 1928 y 1931.",
+   "titulo": "The Lexington Hotel Chicago (Front)",
+   "autor": "",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:The_Lexington_Hotel_Chicago_(Front).tif",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "capone_1930",
+   "archivo": "imagenes/91PcDkJNMvI/capone_1930.jpg",
+   "ancho": 940,
+   "alto": 1200,
+   "pie": "Al Capone en 1930.",
+   "titulo": "Al Capone in 1930 (manually dusted)",
+   "autor": "",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Al_Capone_in_1930_(manually_dusted).jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "time1930",
+   "archivo": "imagenes/91PcDkJNMvI/time1930.jpg",
+   "ancho": 400,
+   "alto": 527,
+   "pie": "Al Capone en la portada de la revista Time, en 1930.",
+   "titulo": "Al Capone on the cover of Time Magazine in 1930",
+   "autor": "",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Al_Capone_on_the_cover_of_Time_Magazine_in_1930.jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "soup",
+   "archivo": "imagenes/91PcDkJNMvI/soup.jpg",
+   "ancho": 1200,
+   "alto": 977,
+   "pie": "Parados haciendo cola ante el comedor gratuito que Al Capone abrió en Chicago, en febrero de 1931.",
+   "titulo": "Unemployed men queued outside a depression soup kitchen opened in Chicago by Al Capone, 02-1931 - NARA - 541927",
+   "autor": "",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Unemployed_men_queued_outside_a_depression_soup_kitchen_opened_in_Chicago_by_Al_Capone,_02-1931_-_NARA_-_541927.jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "hoover",
+   "archivo": "imagenes/91PcDkJNMvI/hoover.jpg",
+   "ancho": 408,
+   "alto": 500,
+   "pie": "Retrato de Herbert Hoover, presidente de Estados Unidos entre 1929 y 1933.",
+   "titulo": "Herbert Hoover 1929-1933",
+   "autor": "",
+   "licencia": "CC0",
+   "urlLicencia": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Herbert_Hoover_1929-1933.jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "wilson_1940",
+   "archivo": "imagenes/91PcDkJNMvI/wilson_1940.jpg",
+   "ancho": 961,
+   "alto": 1200,
+   "pie": "Frank J. Wilson en Washington en 1940, ya como jefe del Servicio Secreto de Estados Unidos.",
+   "titulo": "Chief of U.S. Secret Service. Washington, D.C., June 11. One of the busiest men in the capital these days is Frank J. Wilson, Chief of the U",
+   "autor": "Haris & Ewing, photographer",
+   "licencia": "No known restrictions on publication",
+   "urlLicencia": "https://commons.wikimedia.org/wiki/File:Chief_of_U.S._Secret_Service._Washington,_D.C.,_June_11._One_of_the_busiest_men_in_the_capital_these_days_is_Frank_J._Wilson,_Chief_of_the_United_States_Secret_Service._Chief_Wilson_posed_LCCN2016877732.jpg",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Chief_of_U.S._Secret_Service._Washington,_D.C.,_June_11._One_of_the_busiest_men_in_the_capital_these_days_is_Frank_J._Wilson,_Chief_of_the_United_States_Secret_Service._Chief_Wilson_posed_LCCN2016877732.jpg",
+   "institucion": "Library of Congress"
+  },
+  {
+   "id": "mugshot",
+   "archivo": "imagenes/91PcDkJNMvI/mugshot.jpg",
+   "ancho": 1200,
+   "alto": 696,
+   "pie": "Ficha policial de Al Capone, del Departamento de Policía de Chicago.",
+   "titulo": "AlCaponemugshotCPD",
+   "autor": "",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:AlCaponemugshotCPD.jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "alcatraz_ficha",
+   "archivo": "imagenes/91PcDkJNMvI/alcatraz_ficha.jpg",
+   "ancho": 503,
+   "alto": 1024,
+   "pie": "Ficha de Al Capone en la penitenciaría federal de Alcatraz, donde fue el preso número 85.",
+   "titulo": "Al-Capone-Alcatraz-mug-shot-front",
+   "autor": "Federal Bureau of Prisons",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Al-Capone-Alcatraz-mug-shot-front.jpg",
+   "institucion": "Wikimedia Commons"
+  }
  ],
  "transcripcion": [
   {
@@ -252,5 +1629,124 @@
    "texto": "A Capone no lo derribaron las balas, ni las redadas. Lo derribaron, sobre todo, tres papeles: un libro olvidado, la declaración de un cajero y la carta de su propio abogado. El hombre que lo pagaba todo en efectivo para no dejar rastro cayó por el papeleo."
   }
  ],
- "actualizado": "2026-11-20T21:43:47.126Z"
+ "en": {
+  "titulo": "Al Capone: the three papers that brought him down | Chicago and Prohibition",
+  "resumen": "In 1986, some 30 million people watched live as a wall was opened in the basement of Al Capone's old headquarters in Chicago. We follow the thread from Brooklyn and Prohibition to the gang wars, the St. Valentine's Day Massacre and the tax investigation that brought him to trial in 1931. What bullets could not do was done, above all, by three papers: a forgotten ledger, a cashier's statement and a letter from his own lawyer.",
+  "capitulos": [
+   "A wall on live TV (1986)",
+   "From Brooklyn to Chicago",
+   "Prohibition and the gang wars",
+   "Valentine's Day, 1929",
+   "The White House goes after him",
+   "A ledger no one had looked at",
+   "The lawyer's letter",
+   "The deal and the trial",
+   "Alcatraz",
+   "What was behind the wall"
+  ],
+  "transcripcion": [
+   "April 21, 1986. Chicago. In the basement of an old abandoned hotel, television cameras are pointed at a wall.",
+   "Some 30 million people are watching live. Next to the cameras, an IRS agent is waiting, in case any money turns up.",
+   "That hotel had been Al Capone's headquarters. And, so the story went, the wall hid his treasure.",
+   "Alphonse Capone was born in Brooklyn in 1899, the son of an Italian barber and an Italian seamstress.",
+   "At 14 he was expelled from school for hitting a teacher. On the street he found his mentor: Johnny Torrio.",
+   "In a Coney Island bar he insulted a young woman, and her brother slashed his face. He was left with the scars and a nickname he would always hate: Scarface.",
+   "Around 1919, Torrio called him to Chicago to work in a brothel. There, he probably caught the disease that would end up killing him.",
+   "On January 17, 1920, the very day he turned 21, Prohibition came into force.",
+   "But millions of people wanted to keep drinking. And whoever served them was going to get enormously rich.",
+   "Months later, the boss of Chicago's underworld, Big Jim Colosimo, was shot dead in his restaurant. Torrio inherited the business, and Capone became his right-hand man.",
+   "The gangs carved up the city with gunfire. The North Side was run by Dean O'Banion, until in 1924 he was gunned down in his flower shop. The killing was attributed to Torrio's men.",
+   "O'Banion's gang struck back by shooting Torrio. He survived, but he retired and left everything to Capone. Capone was 26.",
+   "In 1926, a convoy of cars riddled his headquarters in Cicero with gunfire. There was talk of more than 1,000 shots. Capone walked away unharmed.",
+   "Far from going into hiding, he grew: he bought police officers and politicians, and his organization was estimated to take in close to $100 million a year.",
+   "But he still had one rival: Bugs Moran, who now ran O'Banion's gang. On Valentine's Day 1929, seven men from Moran's circle were waiting in a Chicago garage.",
+   "Several men walked in, some of them dressed as police officers. They lined the seven up against the wall. And opened fire.",
+   "Moran was running late, saw the fake police car and drove on. Capone was at his home in Florida. No one was ever convicted.",
+   "But the photos filled the newspapers. And for the country, the culprit had a name, even though it could never be proved.",
+   "President Herbert Hoover ordered that Capone be brought down. As his Treasury secretary would later recall, every morning Hoover asked him: have you got this fellow Capone yet?",
+   "They went after him on two fronts. The noisy one: Eliot Ness, smashing up breweries. And the quiet one: Frank Wilson, a Treasury investigator, who was not looking for alcohol. He was looking for money.",
+   "In 1927, the Supreme Court had made it clear that illegal earnings were taxable too. And Capone had never filed an income tax return.",
+   "But he had no bank accounts in his name, almost never used checks and paid for everything in cash.",
+   "So his people fell first: his brother Ralph, Jake Guzik, Frank Nitti. All for tax crimes.",
+   "Capone, meanwhile, polished his image: the cover of Time, a free soup kitchen for the unemployed of the Depression. He did not know that, in an office, someone had just found the first paper.",
+   "Going through old papers in his office, Wilson came across an unmarked ledger, seized 4 years earlier at one of Capone's casinos. No one had realized what it was worth.",
+   "It held the gambling accounts. And on one line, an entry: Frank paid $17,500 for Al. It was the first written lead Wilson had to connect Capone with the casino's money.",
+   "Wilson compared handwriting until he found the man who had kept the ledger: the cashier, Leslie Shumway.",
+   "They found him in Miami, where he was working at a dog track. And he signed the second paper: a sworn statement. The investigators kept him hidden until the trial.",
+   "The third paper had come out months earlier, from Capone's own side. In 1930, his lawyer, Lawrence Mattingly, tried to negotiate with the tax authorities and handed over a letter.",
+   "In it he acknowledged that Capone had taxable income. First, $26,000 one year and $40,000 the next. Then, up to $100,000 a year.",
+   "They had been warned that anything they said could be used against them. And he had just handed the tax authorities proof in writing.",
+   "In June 1931, Capone did something the public did not expect: he pleaded guilty.",
+   "It was not a surrender. It was a deal: the prosecutor would ask for just 2 and a half years.",
+   "But the judge, James Wilkerson, said there was no bargaining with a federal court. Capone withdrew his guilty plea. There would be a trial.",
+   "His men tried to buy off the prospective jurors. But on the first day of the trial, Wilkerson swapped them for another judge's jury pool.",
+   "Then a witness the defense had not expected appeared: the cashier, Leslie Shumway. And the prosecution read the lawyer's letter to the jury.",
+   "On October 17, 1931, the jury found him guilty. Days later, the judge sentenced him to 11 years in prison.",
+   "The man bullets had failed to kill had fallen for not paying his taxes.",
+   "In the Atlanta penitentiary, it was said, he went on buying privileges. In 1934 he was sent to an island where money was worth nothing: Alcatraz. Inmate number 85.",
+   "But his worst enemy was already inside him: the syphilis of his youth, left untreated, was damaging his brain.",
+   "He was released in 1939. Years later he was given a new drug, penicillin. It came too late.",
+   "He spent his last years at his villa in Florida, with the mind of a 12-year-old, according to his doctors. He died in 1947. He was 48.",
+   "Four decades later, in that basement, the machines finally broke through the wall.",
+   "Inside there was dirt. Rubble. And a few empty bottles.",
+   "No hidden Capone treasure has ever been found.",
+   "It was not bullets that brought Capone down, nor the raids. What brought him down, above all, were three papers: a forgotten ledger, a cashier's statement and a letter from his own lawyer. The man who paid for everything in cash to leave no trace was undone by paperwork."
+  ],
+  "cronologia": [
+   "Alphonse Capone is born in Brooklyn, the son of an Italian barber and an Italian seamstress.",
+   "Prohibition comes into force on the very day Capone turns 21.",
+   "Johnny Torrio is shot outside his home; he survives, retires and leaves the organization to Capone, who is 26.",
+   "St. Valentine's Day Massacre: seven men from Bugs Moran's circle are shot dead in a Chicago garage. No one was ever convicted.",
+   "His lawyer, Lawrence Mattingly, hands the tax authorities a letter admitting that Capone had taxable income.",
+   "Investigators track down Leslie Shumway, the cashier who kept the casino's ledger, in Miami, and he signs a sworn statement.",
+   "A jury finds Capone guilty of tax evasion; days later, the judge sentences him to 11 years in prison.",
+   "He is transferred from the Atlanta penitentiary to Alcatraz, where he is inmate number 85.",
+   "He dies at his villa in Florida at the age of 48, his brain damaged by untreated syphilis.",
+   "Some 30 million viewers watch live as the vault in the Lexington Hotel is opened: inside there is only dirt, rubble and empty bottles."
+  ],
+  "preguntas": [
+   {
+    "pregunta": "Why was Al Capone convicted?",
+    "respuesta": "For tax evasion. On October 17, 1931, a federal jury found him guilty and, days later, the judge sentenced him to 11 years in prison and a $50,000 fine. The St. Valentine's Day Massacre, which public opinion blamed on him, could never be proved against him."
+   },
+   {
+    "pregunta": "What evidence was used against Al Capone?",
+    "respuesta": "Above all, tax evidence: a ledger from his casino in Cicero, seized in 1926 and forgotten in an office; the statement of the cashier who kept it, Leslie Shumway; and the letter in which his own lawyer, Lawrence Mattingly, admitted taxable income. Other witnesses testified as well."
+   },
+   {
+    "pregunta": "Did Al Capone order the St. Valentine's Day Massacre?",
+    "respuesta": "It was never proved. On February 14, 1929, seven men from Bugs Moran's circle were shot dead in a Chicago garage while Capone was at his home in Florida. No one was convicted, but public opinion pointed at him."
+   },
+   {
+    "pregunta": "What was in Al Capone's vault?",
+    "respuesta": "Dirt, rubble and a few empty bottles. The vault, in the basement of Chicago's Lexington Hotel, was opened live on April 21, 1986, in front of some 30 million viewers, and no hidden Capone treasure has ever been found."
+   },
+   {
+    "pregunta": "What illness did Al Capone have?",
+    "respuesta": "Neurosyphilis: the syphilis he caught as a young man, left untreated, damaged his brain and grew worse in Alcatraz. He received penicillin too late and, according to his doctors, ended up with the mind of a 12-year-old. He died in 1947, aged 48."
+   },
+   {
+    "pregunta": "Why was Al Capone called Scarface?",
+    "respuesta": "Because of the scars on his face. According to the usual account of his biographers, he insulted a young woman in a Coney Island bar and her brother slashed his face. Capone hated the nickname."
+   }
+  ],
+  "temas": [
+   "Al Capone",
+   "Chicago",
+   "Prohibition",
+   "St. Valentine's Day Massacre",
+   "Alcatraz",
+   "Tax evasion"
+  ],
+  "pies": [
+   "Postcard of the Lexington Hotel in Chicago, Al Capone's headquarters and residence from 1928 to 1931.",
+   "Al Capone in 1930.",
+   "Al Capone on the cover of Time magazine, 1930.",
+   "Unemployed men queuing outside the free soup kitchen Al Capone opened in Chicago, February 1931.",
+   "Portrait of Herbert Hoover, President of the United States from 1929 to 1933.",
+   "Frank J. Wilson in Washington in 1940, by then Chief of the United States Secret Service.",
+   "Al Capone's mug shot from the Chicago Police Department.",
+   "Al Capone's mug shot at the federal penitentiary on Alcatraz, where he was inmate number 85."
+  ]
+ }
 }

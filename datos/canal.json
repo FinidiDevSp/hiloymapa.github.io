@@ -1,13 +1,20 @@
 {
  "nombre": "Hilo y Mapa",
  "lema": "Historias reales, sobre el mapa",
+ "lemaEn": "True stories, on the map",
  "descripcion": "En Hilo y Mapa seguimos el hilo de grandes casos —mafias, crímenes, golpes, fraudes y espionaje— recorriendo el mapa donde ocurrieron: ciudades, rutas y lugares reales, con fotografías y documentos de archivo. Cada vídeo es un único recorrido continuo por el mapa, contado de principio a fin, con los datos verificados y las fuentes en la descripción.",
+ "descripcionEn": "Hilo y Mapa (Thread and Map) follows the thread of major real cases —mafias, crimes, heists, frauds and espionage— across the map where they happened: real cities, routes and places, with archival photographs and documents. Each video is a single continuous journey across the map, told from start to finish, with verified facts and sources.",
  "descripcionCorta": "Documentales sobre casos reales —mafias, crímenes, golpes, fraudes y espionaje— contados como un único recorrido por el mapa donde ocurrieron, con fotos de archivo y fuentes verificadas.",
+ "descripcionCortaEn": "Spanish-language documentaries about real cases —mafias, crimes, heists, frauds and espionage— told as a single journey across the map where they happened, with archival photos and verified sources.",
  "idioma": "es-ES",
  "pais": "ES",
  "canalId": "UCB64a2AD_zkwcv-xQBwnb_A",
  "handle": "@hiloymapa",
  "youtube": "https://www.youtube.com/@hiloymapa",
  "suscribirse": "https://www.youtube.com/@hiloymapa?sub_confirmation=1",
- "fundado": "2026-11-14"
+ "fundado": "2026-11-14",
+ "redes": ["https://www.youtube.com/@hiloymapa", "https://www.youtube.com/channel/UCB64a2AD_zkwcv-xQBwnb_A", "https://github.com/hiloymapa"],
+ "verificacion": { "nota": "Códigos de verificación de propiedad: solo el contenido de la etiqueta meta.", "google": "", "bing": "" },
+ "analitica": { "nota": "Analítica sin cookies. proveedor: «cloudflare» (con token) o «goatcounter» (con codigo). Vacío: sin analítica.", "proveedor": "", "token": "", "codigo": "" },
+ "indexnow": "f57716ef97f6b48ded92e7c4675b2b73"
 }

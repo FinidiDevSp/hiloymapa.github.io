@@ -53,7 +53,6 @@
   "9HvijVagl4w",
   "3yey6duduHM"
  ],
- "datosVerificados": 60,
  "fuentes": [
   "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia-3",
   "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia-1",
@@ -68,6 +67,1060 @@
   "https://www.vanityfair.com/culture/2009/05/mona-lisa-excerpt200905",
   "https://www.theguardian.com/artanddesign/2011/aug/05/mona-lisa-theft-louvre-leonardo",
   "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/"
+ ],
+ "datosVerificados": 60,
+ "comprobaciones": [
+  {
+   "beat": "b01",
+   "t": 0.6,
+   "texto": "Florencia, noviembre de mil novecientos trece. Un anticuario recibe una carta firmada «Leonard uve».",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia",
+     "dice": "Carta de Peruggia al anticuario florentino Alfredo Geri firmada «Leonard V.», fechada el 24 de noviembre de 1913 (sumario, n. 64/1914)."
+    },
+    {
+     "url": "https://www.thecollector.com/man-who-stole-mona-lisa-vincenzo-peruggia/",
+     "dice": "En noviembre de 1913 Peruggia escribe a Geri con el seudónimo «Leonard V.»."
+    }
+   ]
+  },
+  {
+   "beat": "b01",
+   "t": 0.6,
+   "texto": "desaparecida del Louvre hace más de dos años",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/i-tentativi-di-vendita-del-dipinto",
+     "dice": "Peruggia guardó el cuadro en París unos dos años y tres meses, de 1911 a 1913."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+     "dice": "Robo el 21 de agosto de 1911; detención en diciembre de 1913."
+    }
+   ]
+  },
+  {
+   "beat": "b02",
+   "t": 19.6,
+   "texto": "Quiere que acabe en los Uffizi, pero no renuncia a una compensación.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia",
+     "dice": "La carta sondeaba si Geri quería comprarla y devolverla a Italia, «preferiblemente» a los Uffizi, con un descuento del 25 % sobre otros supuestos compradores."
+    },
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/i-tentativi-di-vendita-del-dipinto",
+     "dice": "En todas sus cartas repite que quiere que vuelva a Florencia, a los Uffizi, y siempre menciona la compensación económica."
+    }
+   ]
+  },
+  {
+   "beat": "b02",
+   "t": 19.6,
+   "texto": "Según el anticuario, pide quinientas mil liras.",
+   "fuentes": [
+    {
+     "url": "https://www.historytoday.com/archive/months-past/mona-lisa-stolen-louvre",
+     "dice": "Peruggia ofreció a Geri llevar el cuadro a Italia a cambio de quinientas mil liras."
+    },
+    {
+     "url": "https://www.robertedsel.com/post/2013/12/10/100th-anniversary-of-the-recovery-of-the-mona-lisa",
+     "dice": "En la carta a Geri pedía quinientas mil liras por devolverlo."
+    },
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "Podía devolverla por quinientas mil liras."
+    }
+   ]
+  },
+  {
+   "beat": "b04",
+   "t": 51.9,
+   "texto": "un pintor de brocha gorda nacido en Dumenza, cerca de Varese",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia-3",
+     "dice": "Nacido en Dumenza (Varese) el 8-10-1881; empezó a trabajar a los doce años como «imbianchino» y después como decorador."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+     "dice": "Decorador italiano, nacido el 8 de octubre de 1881 en Dumenza, Varese."
+    }
+   ]
+  },
+  {
+   "beat": "b05",
+   "t": 66,
+   "texto": "en mil novecientos nueve lo había fichado y fotografiado",
+   "fuentes": [
+    {
+     "url": "https://criminocorpus.org/fr/ref/113/2554/",
+     "dice": "Peruggia ya tenía fichas antropométricas por dos asuntos de 1908 y 1909."
+    },
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "Foto de identidad judicial de Peruggia del 25 de enero de 1909."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+     "dice": "Fotografía policial de 1909, tomada por el servicio de Bertillon."
+    }
+   ]
+  },
+  {
+   "beat": "b06",
+   "t": 75.3,
+   "texto": "Y había trabajado en el Louvre, para una empresa que, según muchas fuentes, puso bajo cristal varios cuadros. Quizá también la Mona Lisa.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia-1",
+     "dice": "Trabajó unos años en el Louvre para la empresa Gobier «efectuando la limpieza de algunos cuadros»; no habla de cristales."
+    },
+    {
+     "url": "https://hv10.org/canalnw.php?lng=fr&pg=1748&tconfig=0",
+     "dice": "Gobier era un contratista de pintura y vidriería que trabajaba para el Louvre; Peruggia participó en la fabricación de los bastidores protectores que el museo decidió poner a sus obras maestras tras el ataque a un Ingres en 1907 (sociedad histórica del distrito diez, basándose en Coignard)."
+    },
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "Él mismo había participado en la construcción de los cristales protectores; la vitrina de la Mona Lisa se instaló en 1907."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+     "dice": "Construía cajas protectoras para obras del museo; «probablemente» participó en la de la Mona Lisa."
+    }
+   ]
+  },
+  {
+   "beat": "b07",
+   "t": 87.9,
+   "texto": "Colgaba en el Salón Carré",
+   "fuentes": [
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "Hueco entre la Alegoría de Tiziano y el Matrimonio místico de Correggio, en el Salón Carré."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+     "dice": "El Salón Carré, donde colgaba la Mona Lisa."
+    }
+   ]
+  },
+  {
+   "beat": "b07",
+   "t": 87.9,
+   "texto": "una tabla de menos de ochenta centímetros de alto, sujeta solo por cuatro ganchos de hierro",
+   "fuentes": [
+    {
+     "url": "https://www.theguardian.com/artanddesign/2011/aug/05/mona-lisa-theft-louvre-leonardo",
+     "dice": "Tabla de álamo de solo 77 cm de alto; en la pared quedaron cuatro ganchos de hierro."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+     "dice": "La descolgó de los cuatro ganchos de hierro que la sujetaban; mide unos 53 × 77 cm."
+    }
+   ]
+  },
+  {
+   "beat": "b08",
+   "t": 100.2,
+   "texto": "Lunes, veintiuno de agosto de mil novecientos once, día de cierre del Louvre.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia-1",
+     "dice": "El robo se hizo el único día de cierre semanal, un lunes por la mañana."
+    },
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "Actuó solo entre las siete y las nueve de la mañana del lunes 21 de agosto de 1911; el día anterior al descubrimiento era de cierre semanal."
+    }
+   ]
+  },
+  {
+   "beat": "b09",
+   "t": 117.6,
+   "texto": "descuelga el cuadro y, en una escalera de servicio, le quita el marco y la caja de cristal. Los deja allí.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+     "dice": "En una escalera de servicio cercana le quitó la caja protectora y el marco, y los dejó en el rellano."
+    },
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia-1",
+     "dice": "En la escalera de servicio más cercana desatornilló el marco y lo abandonó allí."
+    },
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "El marco se encontró abandonado ante la puerta de una escalera de servicio."
+    }
+   ]
+  },
+  {
+   "beat": "b10",
+   "t": 129.3,
+   "texto": "La puerta de abajo está cerrada. Desatornilla el pomo. Un fontanero del museo lo toma por un compañero y le abre.",
+   "fuentes": [
+    {
+     "url": "https://www.historyhit.com/culture/theft-mona-lisa/",
+     "dice": "Desmontó el pomo con un destornillador; el fontanero Sauvet le abrió la puerta sin sospechar."
+    },
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/il-processo",
+     "dice": "Un obrero del Louvre declaró que, poco después de las siete, encontró el pomo desatornillado y a un obrero sentado en un escalón."
+    }
+   ]
+  },
+  {
+   "beat": "b11",
+   "t": 141.5,
+   "texto": "Sale con el cuadro envuelto en su blusa. Junto al Sena tira el pomo a una zanja.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia-1",
+     "dice": "Con el cuadro envuelto en la blusa de trabajo, salió al Quai du Louvre y tiró el pomo a una zanja."
+    },
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/il-processo",
+     "dice": "Un testigo vio a alguien en el Quai du Louvre con un bulto del tamaño del cuadro tirar algo a una zanja."
+    }
+   ]
+  },
+  {
+   "beat": "b12",
+   "t": 149.4,
+   "texto": "Nadie da la alarma en más de un día.",
+   "fuentes": [
+    {
+     "url": "https://www.historyhit.com/culture/theft-mona-lisa/",
+     "dice": "Se dieron cuenta unas veintiséis horas después del robo."
+    },
+    {
+     "url": "https://www.spokesman.com/stories/2019/oct/20/how-the-1911-theft-of-the-mona-lisa-made-it-the-wo/",
+     "dice": "Pasaron veintiséis horas antes de que alguien notara que faltaba."
+    },
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "Pasaron al menos veinticuatro horas; los conservadores fueron avisados el martes a las once."
+    }
+   ]
+  },
+  {
+   "beat": "b12",
+   "t": 149.4,
+   "texto": "El martes, el pintor Louis Béroud llega a copiar el cuadro y solo encuentra cuatro ganchos.",
+   "fuentes": [
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "El martes 22 de agosto de 1911, el copista Louis Béroud descubre el hueco."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Mona_Lisa",
+     "dice": "El pintor Louis Béroud la dio por desaparecida al día siguiente."
+    },
+    {
+     "url": "https://www.theguardian.com/artanddesign/2011/aug/05/mona-lisa-theft-louvre-leonardo",
+     "dice": "En la pared quedaban cuatro ganchos de hierro y la silueta de polvo."
+    }
+   ]
+  },
+  {
+   "beat": "b13",
+   "t": 164.7,
+   "texto": "El museo cierra una semana.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Mona_Lisa",
+     "dice": "El Louvre cerró una semana para la investigación."
+    },
+    {
+     "url": "https://www.history.com/articles/the-heist-that-made-the-mona-lisa-famous",
+     "dice": "Cuando el Louvre reabrió una semana después, miles de personas fueron a ver la pared vacía (según el fragmento del buscador; la página no se pudo abrir)."
+    }
+   ]
+  },
+  {
+   "beat": "b13",
+   "t": 164.7,
+   "texto": "Al reabrir, miles de personas hacen cola para ver un hueco en la pared. Entre ellas, Franz Kafka.",
+   "fuentes": [
+    {
+     "url": "https://www.theguardian.com/books/2011/sep/09/fact-check-rick-gekoski",
+     "dice": "Kafka y Brod llegaron a París el 8 de septiembre; en su diario de viaje Kafka anota la multitud en el Salón Carré, «como si acabaran de robar la Mona Lisa»."
+    },
+    {
+     "url": "https://www.spokesman.com/stories/2019/oct/20/how-the-1911-theft-of-the-mona-lisa-made-it-the-wo/",
+     "dice": "Entre los curiosos que fueron a mirar la pared vacía estaban Franz Kafka y Max Brod."
+    },
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "La multitud se agolpa ante el hueco; Kafka lo visita."
+    }
+   ]
+  },
+  {
+   "beat": "b14",
+   "t": 179.4,
+   "texto": "En el cristal, Alphonse Bertillon encuentra la huella de un pulgar. La compara con las de los empleados del museo: ninguna coincide.",
+   "fuentes": [
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "Bertillon hace analizar las huellas de doscientos cincuenta y siete empleados; ninguna coincide con el pulgar izquierdo hallado en el cristal."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+     "dice": "Peruggia dejó la huella de un pulgar en el cristal que protegía el cuadro."
+    }
+   ]
+  },
+  {
+   "beat": "b14",
+   "t": 179.4,
+   "texto": "Peruggia, que había trabajado allí para una contrata, no estaba en esa lista.",
+   "fuentes": [
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "Peruggia no figuraba en la lista de empleados del Louvre de Bertillon y no le tomaron las huellas."
+    },
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia-1",
+     "dice": "Trabajaba en el Louvre como empleado de la empresa Gobier, no del museo."
+    }
+   ]
+  },
+  {
+   "beat": "b15",
+   "t": 195.7,
+   "texto": "Tampoco sirvió su ficha de mil novecientos nueve. Se suele contar que guardaba solo la mano derecha, y la huella era de la izquierda.",
+   "fuentes": [
+    {
+     "url": "https://criminocorpus.org/fr/ref/113/2554/",
+     "dice": "Peruggia tenía fichas antropométricas de 1908 y 1909, pero según L'Illustration del 20-12-1913 el servicio de Bertillon no pudo identificarlo porque no tenía una clasificación por huellas."
+    },
+    {
+     "url": "https://slate.com/human-interest/2011/08/who-stole-the-mona-lisa-the-world-s-most-famous-art-heist-100-years-on.html",
+     "dice": "Bertillon solo catalogaba las huellas de la mano derecha de los sospechosos, y Peruggia dejó la de la izquierda."
+    },
+    {
+     "url": "https://www.crime-scene-investigator.net/PDF/a-history-of-fingerprints.pdf",
+     "dice": "Bertillon no tenía un sistema de clasificación para sus miles de fichas; al detener a Peruggia supo que tenía sus huellas, pero de la mano derecha, y la del cristal era del pulgar izquierdo."
+    },
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "La huella hallada en el cristal era de un pulgar izquierdo."
+    }
+   ]
+  },
+  {
+   "beat": "b16",
+   "t": 208.8,
+   "texto": "En noviembre, la policía pasa por su cuarto, en el distrito diez, como por el de otros obreros del Louvre. Se va sin el cuadro.",
+   "fuentes": [
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "El 29 de noviembre de 1911 el inspector Brunet se presenta en su piso, pero no se molesta en registrarlo."
+    },
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/le-indagini",
+     "dice": "El sumario incluye el informe de la policía francesa del 29-11-1911 sobre las pesquisas entre los obreros que habían trabajado en el Louvre."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+     "dice": "Tras interrogar al personal fijo, la policía interrogó a los obreros externos; fue a su piso, donde estaba escondido el cuadro, y el detective no lo vio y creyó sus explicaciones."
+    },
+    {
+     "url": "https://mairie10.paris.fr/pages/le-sejour-insolite-de-la-joconde-dans-le-10e-20254",
+     "dice": "El ayuntamiento del distrito diez sitúa en la rue de l'Hôpital-Saint-Louis el cuarto donde Peruggia guardaba el cuadro."
+    }
+   ]
+  },
+  {
+   "beat": "b17",
+   "t": 220.2,
+   "texto": "Y el cuadro lo tenía él. Según declaró, primero en un cuartucho junto a su habitación. Al final, en una caja de madera que hizo él mismo.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia-1",
+     "dice": "Según sus interrogatorios, lo escondió en un trastero contiguo a su habitación usado como leñera; temiendo la humedad, se lo dejó un tiempo a su amigo Vincenzo Lancellotti hasta que construyó a propósito una caja de madera."
+    },
+    {
+     "url": "https://hv10.org/canalnw.php?lng=fr&pg=1748&tconfig=0",
+     "dice": "Construyó una caja protectora que puso bajo la cama; mientras tanto, Vincenzo Lancellotti guardó el cuadro en su casa."
+    },
+    {
+     "url": "https://www.theguardian.com/artanddesign/2011/aug/05/mona-lisa-theft-louvre-leonardo",
+     "dice": "Otra versión: primero en un armario, luego bajo una estufa y al final en el baúl de doble fondo."
+    }
+   ]
+  },
+  {
+   "beat": "b18",
+   "t": 235.3,
+   "texto": "Pasan casi dos años.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/i-tentativi-di-vendita-del-dipinto",
+     "dice": "Viaje a Londres en julio de mil novecientos trece."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+     "dice": "Robo el 21 de agosto de 1911."
+    }
+   ]
+  },
+  {
+   "beat": "b18",
+   "t": 235.3,
+   "texto": "en julio de mil novecientos trece cuenta su historia a los anticuarios Duveen, en Londres. Él diría que fue a pedir consejo; el tribunal, que intentó venderlo.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/i-tentativi-di-vendita-del-dipinto",
+     "dice": "En julio de 1913 viaja a Londres, a la tienda de los hermanos Duveen en Old Bond Street; según sus interrogatorios, fue a pedir consejo y les contó toda su historia; le aconsejaron devolverlo al Louvre."
+    },
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/il-processo",
+     "dice": "La sentencia toma el intento de venta en Londres como prueba añadida del ánimo de lucro."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+     "dice": "Viajó a Londres para intentar vender la Mona Lisa; en el juicio se supo que Joseph Duveen se rio de él."
+    }
+   ]
+  },
+  {
+   "beat": "b18",
+   "t": 235.3,
+   "texto": "En otoño escribe a un político para que le consiga un pago.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/i-tentativi-di-vendita-del-dipinto",
+     "dice": "El 5-10-1913 escribe al diputado Lucchini, candidato de su distrito, para que interceda ante la Società Leonardo da Vinci y le den una suma que compense los gastos de recuperar la Gioconda; firma «Monsieur P. P.». El archivo reproduce la carta."
+    }
+   ]
+  },
+  {
+   "beat": "b19",
+   "t": 258.7,
+   "texto": "Entonces ve un anuncio del anticuario florentino Alfredo Geri en el Corriere della Sera.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia",
+     "dice": "Encontró el contacto de Geri en un anuncio del Corriere della Sera del 22 de noviembre de 1913 (el archivo reproduce el anuncio)."
+    },
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/alfredo-geri",
+     "dice": "Peruggia contactó con Geri tras leer en el Corriere della Sera su anuncio de venta de una colección de cuadros antiguos."
+    }
+   ]
+  },
+  {
+   "beat": "b20",
+   "t": 274.2,
+   "texto": "El diez de diciembre, Peruggia llega a Florencia, se aloja en el Hotel Trípoli y esa tarde va a ver al anticuario.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia",
+     "dice": "Llegó a Florencia el 10-12-1913, se alojó en el Hotel Tripoli (via Panzani) y esa misma tarde fue a la tienda de Geri."
+    },
+    {
+     "url": "https://www.theguardian.com/artanddesign/2011/aug/05/mona-lisa-theft-louvre-leonardo",
+     "dice": "El encuentro fue en el Albergo Tripoli-Italia, rebautizado después Hotel La Gioconda."
+    }
+   ]
+  },
+  {
+   "beat": "b21",
+   "t": 287.2,
+   "texto": "Al día siguiente, Geri y Giovanni Poggi, director de los Uffizi, van a su hotel.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia",
+     "dice": "La tarde del 11 de diciembre Peruggia volvió a la tienda de Geri, donde ya estaba Giovanni Poggi, «Direttore delle Gallerie degli Uffizi», y los tres fueron al Hotel Tripoli."
+    },
+    {
+     "url": "https://www.theguardian.com/artanddesign/2011/aug/05/mona-lisa-theft-louvre-leonardo",
+     "dice": "Geri llevó al director de los Uffizi a la cita en el Albergo Tripoli-Italia."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+     "dice": "Geri llamó a Giovanni Poggi, director de los Uffizi, que autentificó el cuadro."
+    }
+   ]
+  },
+  {
+   "beat": "b21",
+   "t": 287.2,
+   "texto": "Peruggia saca el cuadro de una caja de madera de doble fondo.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/le-indagini",
+     "dice": "En el registro de su habitación del hotel se incautó una caja de madera blanca sin tratar, con doble fondo."
+    },
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia",
+     "dice": "En el Hotel Tripoli, «Leonard» sacó el cuadro de la caja que lo contenía."
+    },
+    {
+     "url": "https://www.theguardian.com/artanddesign/2011/aug/05/mona-lisa-theft-louvre-leonardo",
+     "dice": "El cuadro salió de su baúl de doble fondo."
+    }
+   ]
+  },
+  {
+   "beat": "b22",
+   "t": 302.2,
+   "texto": "Con la excusa de la poca luz, se lo llevan a los Uffizi. Poggi lo autentifica por el sello y el número del Louvre en el reverso, y por las grietas de la pintura.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia",
+     "dice": "Con el pretexto de la poca luz, Poggi propuso llevarlo a los Uffizi para comprobarlo mejor."
+    },
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "Las inscripciones del reverso y, sobre todo, las craqueladuras confirmaron que era auténtica."
+    },
+    {
+     "url": "https://www.auxtroiscrayons.com/home/2019/7/7/the-theft-of-the-mona-lisa",
+     "dice": "El sello del Louvre, el número de catálogo del reverso y el craquelado."
+    }
+   ]
+  },
+  {
+   "beat": "b23",
+   "t": 317.2,
+   "texto": "El doce de diciembre lo detienen en su hotel. Confiesa desde el primer interrogatorio.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia",
+     "dice": "Detenido la tarde del viernes 12 de diciembre, mientras esperaba noticias de Geri."
+    },
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/le-indagini",
+     "dice": "Desde el primer interrogatorio, tras la detención del 12-12-1913, confesó."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+     "dice": "La policía lo detuvo en su hotel."
+    }
+   ]
+  },
+  {
+   "beat": "b24",
+   "t": 327.9,
+   "texto": "Antes de volver a París, Italia la pasea por Florencia, Roma y Milán. El último día del año cruza la frontera.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/monna-lisa-in-italia",
+     "dice": "Expuesta en los Uffizi (del 14 al 18 de diciembre), en Roma y en Brera (29 y 30 de diciembre); el día siguiente, en Modane, se entrega a Francia."
+    },
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "Los italianos la exponen en los Uffizi y en el Palacio Farnese de Roma antes de devolverla."
+    }
+   ]
+  },
+  {
+   "beat": "b25",
+   "t": 341.8,
+   "texto": "El cuatro de enero de mil novecientos catorce vuelve al Salón Carré.",
+   "fuentes": [
+    {
+     "url": "https://en.wikipedia.org/wiki/Mona_Lisa",
+     "dice": "Volvió al Louvre el 4 de enero de 1914."
+    },
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "Recupera su sitio el 4 de enero de 1914."
+    }
+   ]
+  },
+  {
+   "beat": "b25",
+   "t": 341.8,
+   "texto": "En dos días pasan a verla más de cien mil personas.",
+   "fuentes": [
+    {
+     "url": "https://www.history.com/articles/the-heist-that-made-the-mona-lisa-famous",
+     "dice": "Al menos ciento veinte mil personas fueron a verla en los dos primeros días (fragmento del buscador; la página no se pudo abrir)."
+    },
+    {
+     "url": "https://historicalsnapshots.substack.com/p/the-day-the-mona-lisa-disappeared",
+     "dice": "Más de cien mil personas en los dos primeros días tras volver a colgarla (boletín)."
+    }
+   ]
+  },
+  {
+   "beat": "b26",
+   "t": 353.7,
+   "texto": "la policía imprimió miles de copias de su foto",
+   "fuentes": [
+    {
+     "url": "https://www.theguardian.com/artanddesign/2011/aug/05/mona-lisa-theft-louvre-leonardo",
+     "dice": "Justo después de la desaparición, la policía francesa imprimió seis mil quinientas copias de la foto del cuadro para repartirlas por las calles de París."
+    },
+    {
+     "url": "https://www.auxtroiscrayons.com/home/2019/7/7/the-theft-of-the-mona-lisa",
+     "dice": "Imprimieron seis mil quinientas copias de una fotografía del cuadro (blog)."
+    }
+   ]
+  },
+  {
+   "beat": "b26",
+   "t": 353.7,
+   "texto": "los Amigos del Louvre ofrecieron una recompensa de veinticinco mil",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/monna-lisa-in-italia",
+     "dice": "El Comité de los Amigos del Louvre había ofrecido veinticinco mil «liras» a quien encontrara el cuadro."
+    },
+    {
+     "url": "https://hv10.org/canalnw.php?lng=fr&pg=1748&tconfig=0",
+     "dice": "Entre las recompensas ofrecidas, los Amigos del Louvre ofrecen veinticinco mil (francos); Paris-Journal, cincuenta mil; L'Illustration, hasta cuarenta mil."
+    },
+    {
+     "url": "https://www.barnebys.com/blog/the-incredible-1911-theft-of-the-mona-lisa",
+     "dice": "La Sociedad de Amigos del Louvre ofreció veinticinco mil francos a quien encontrara el cuadro."
+    }
+   ]
+  },
+  {
+   "beat": "b26",
+   "t": 353.7,
+   "texto": "Ya era célebre, sobre todo entre entendidos; la cobertura del robo la hizo famosa en todo el mundo.",
+   "fuentes": [
+    {
+     "url": "https://www.theguardian.com/artanddesign/2011/aug/05/mona-lisa-theft-louvre-leonardo",
+     "dice": "Su fama estaba limitada a Occidente; lo que de verdad le puso cara al nombre fue la cobertura de prensa del robo, y el robo «contribuyó de forma exponencial» a su fama en todo el mundo."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+     "dice": "Era famosa antes del robo, pero la notoriedad de los titulares y de la investigación la ayudó a convertirse en una de las obras más conocidas del mundo."
+    },
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "Ya célebre, con el robo entra definitivamente en la leyenda; nunca fue tan vista como cuando se volvió invisible."
+    }
+   ]
+  },
+  {
+   "beat": "b27",
+   "t": 375.4,
+   "texto": "Peruggia dijo que la robó para devolver a Italia lo que Napoleón se había llevado.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia-3",
+     "dice": "Había visto en un libro la llegada al museo de las obras que Napoleón se llevó de Italia y quiso devolver al menos un cuadro."
+    },
+    {
+     "url": "https://www.theguardian.com/artanddesign/2011/aug/05/mona-lisa-theft-louvre-leonardo",
+     "dice": "Su defensa: no lo hizo por dinero, sino para devolverla a la patria y vengar el saqueo de Napoleón."
+    }
+   ]
+  },
+  {
+   "beat": "b28",
+   "t": 382.7,
+   "texto": "Pero la Mona Lisa no salió de Italia con Napoleón. La llevó a Francia el propio Leonardo, y probablemente la compró el rey Francisco primero.",
+   "fuentes": [
+    {
+     "url": "https://www.louvre.fr/en/explore/the-palace/from-the-mona-lisa-to-the-wedding-feast-at-cana",
+     "dice": "Francisco I invitó a Leonardo a Francia y le compró el cuadro en 1518."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Mona_Lisa",
+     "dice": "En 1516 Leonardo se fue a Francia y se cree que se la llevó; Francisco I la adquirió; hay debate sobre cómo y cuándo."
+    },
+    {
+     "url": "https://www.theguardian.com/artanddesign/2011/aug/05/mona-lisa-theft-louvre-leonardo",
+     "dice": "Leonardo se la llevó a Francia y Francisco la compró; nunca se la robaron a Italia."
+    }
+   ]
+  },
+  {
+   "beat": "b29",
+   "t": 397.7,
+   "texto": "Y el propio Peruggia declaró que la eligió porque era el cuadro más pequeño y el más fácil de llevar.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia-3",
+     "dice": "Confesó que eligió la Gioconda esa misma mañana por practicidad: era más pequeña que los demás, más fácil de llevar y esconder."
+    },
+    {
+     "url": "https://www.bbc.com/news/magazine-25241576",
+     "dice": "La eligió en parte porque era muy pequeña, 53 × 77 cm (Coignard añade que le dijeron que era la más espectacular)."
+    }
+   ]
+  },
+  {
+   "beat": "b30",
+   "t": 408,
+   "texto": "En junio de mil novecientos catorce, el tribunal de Florencia lee las cartas que escribió a su padre. En ellas le prometía una fortuna. Las toma como prueba de que buscaba dinero.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/il-processo",
+     "dice": "Vista del 4 de junio de 1914; la sentencia afirma que el ánimo de lucro queda probado por las cartas al padre en las que anunciaba una fortuna inminente."
+    },
+    {
+     "url": "https://www.beauxarts.com/grand-format/ep-1-le-jour-ou-la-joconde-sest-fait-la-belle/",
+     "dice": "Su juicio se abre en Florencia el 4 de junio de 1914."
+    }
+   ]
+  },
+  {
+   "beat": "b31",
+   "t": 423.6,
+   "texto": "Lo condenan a un año y quince días. En apelación, se queda en unos siete meses, ya cumplidos. Sale libre.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/il-processo",
+     "dice": "Condenado a un año y quince días; en apelación (julio de 1914), siete meses y ocho días, ya cumplidos en prisión preventiva."
+    },
+    {
+     "url": "https://www.labrujulaverde.com/en/2025/11/vincenzo-peruggia-the-italian-who-stole-the-mona-lisa-after-helping-to-make-and-install-its-security-frame/",
+     "dice": "Un año y quince días, rebajado en apelación a siete meses y ocho días."
+    }
+   ]
+  },
+  {
+   "beat": "b32",
+   "t": 434.9,
+   "texto": "Sus cartas dicen las dos cosas: un patriota que quería cobrar.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/i-tentativi-di-vendita-del-dipinto",
+     "dice": "En todas las cartas repite el deseo de que la Gioconda vuelva a Italia y, a la vez, siempre menciona la compensación económica."
+    },
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/vincenzo-peruggia-3",
+     "dice": "Al médico le dijo que estaba seguro de que Italia le daría «una buena compensación» por devolverla."
+    }
+   ]
+  },
+  {
+   "beat": "b33",
+   "t": 457.1,
+   "texto": "Y quien cobró fue el hombre que abrió aquella carta: Alfredo Geri recibió las veinticinco mil de la recompensa.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/monna-lisa-in-italia",
+     "dice": "Geri recibió la roseta de oficial de Instrucción Pública y las veinticinco mil «liras» que el Comité de los Amigos del Louvre ofrecía a quien encontrara el cuadro."
+    },
+    {
+     "url": "https://cultureetprejuges.com/le-casse-du-siecle-le-vol-de-la-joconde-en-1911",
+     "dice": "Geri recibe los veinticinco mil francos prometidos por los Amigos del Louvre y después demanda al Estado francés para pedir más (blog)."
+    },
+    {
+     "url": "https://tuvoisquoi.substack.com/p/on-a-vole-la-joconde",
+     "dice": "Geri se embolsó la recompensa de veinticinco mil francos de la Sociedad de Amigos del Louvre y luego reclamó el diez por ciento del valor del cuadro (boletín)."
+    }
+   ]
+  },
+  {
+   "beat": "b33",
+   "t": 457.1,
+   "texto": "Peruggia se llevó unos meses de cárcel.",
+   "fuentes": [
+    {
+     "url": "https://archiviodistatofirenze.cultura.gov.it/asfi/mostre/io-sono-e-mi-chiamo-peruggia-vincenzo/il-processo",
+     "dice": "En apelación la pena se redujo a siete meses y ocho días, que ya había cumplido en prisión preventiva."
+    },
+    {
+     "url": "https://hv10.org/canalnw.php?lng=fr&pg=1748&tconfig=0",
+     "dice": "Condenado en apelación a siete meses y ocho días, después de una primera condena de un año y quince días."
+    }
+   ]
+  },
+  {
+   "beat": "b33",
+   "t": 457.1,
+   "texto": "Y la Mona Lisa, la fama.",
+   "fuentes": [
+    {
+     "url": "https://www.theguardian.com/artanddesign/2011/aug/05/mona-lisa-theft-louvre-leonardo",
+     "dice": "El robo contribuyó de forma exponencial a la fama del cuadro en todo el mundo."
+    },
+    {
+     "url": "https://en.wikipedia.org/wiki/Vincenzo_Peruggia",
+     "dice": "La notoriedad del robo ayudó a que se convirtiera en una de las obras más conocidas del mundo."
+    }
+   ]
+  }
+ ],
+ "cronologia": [
+  {
+   "fecha": "1911-08-21",
+   "texto": "Lunes, día de cierre del Louvre. Vincenzo Peruggia, que había trabajado en el museo para una contrata, se lleva la Mona Lisa del Salón Carré.",
+   "hechos": [
+    "h03",
+    "h05",
+    "h06",
+    "h08"
+   ]
+  },
+  {
+   "fecha": "1911-08-22",
+   "texto": "El pintor Louis Béroud llega a copiar el cuadro y solo encuentra los cuatro ganchos. Es la primera alarma.",
+   "hechos": [
+    "h12"
+   ]
+  },
+  {
+   "fecha": "1911-11",
+   "texto": "La policía pasa por el cuarto de Peruggia, en el distrito 10 de París, como por el de otros obreros del Louvre, y se va sin el cuadro.",
+   "hechos": [
+    "h19",
+    "h20"
+   ]
+  },
+  {
+   "fecha": "1913-07",
+   "texto": "Peruggia viaja a Londres y cuenta su historia a los anticuarios Duveen. No saca nada.",
+   "hechos": [
+    "h24"
+   ]
+  },
+  {
+   "fecha": "1913-11-24",
+   "texto": "Firma como «Leonard V.» una carta al anticuario florentino Alfredo Geri: ofrece devolver la Mona Lisa a Italia, sin renunciar a una compensación.",
+   "hechos": [
+    "h26",
+    "h27"
+   ]
+  },
+  {
+   "fecha": "1913-12-11",
+   "texto": "Geri y Giovanni Poggi, director de los Uffizi, ven el cuadro en el hotel de Peruggia y se lo llevan a los Uffizi, donde Poggi lo autentifica.",
+   "hechos": [
+    "h30",
+    "h31"
+   ]
+  },
+  {
+   "fecha": "1913-12-12",
+   "texto": "Peruggia es detenido en su hotel de Florencia y confiesa desde el primer interrogatorio.",
+   "hechos": [
+    "h32"
+   ]
+  },
+  {
+   "fecha": "1914-01-04",
+   "texto": "La Mona Lisa vuelve al Salón Carré. En dos días pasan a verla más de 100.000 personas.",
+   "hechos": [
+    "h37",
+    "h38"
+   ]
+  },
+  {
+   "fecha": "1914-06",
+   "texto": "El tribunal de Florencia condena a Peruggia a un año y quince días de cárcel por robo con agravantes.",
+   "hechos": [
+    "h44",
+    "h46"
+   ]
+  },
+  {
+   "fecha": "1914-07",
+   "texto": "En apelación, la pena se queda en unos siete meses, ya cumplidos en prisión preventiva, y Peruggia sale libre.",
+   "hechos": [
+    "h47"
+   ]
+  }
+ ],
+ "preguntas": [
+  {
+   "pregunta": "¿Quién robó la Mona Lisa?",
+   "respuesta": "Vincenzo Peruggia, un pintor de brocha gorda nacido en Dumenza (Varese) que había trabajado en el Louvre para una contrata. Se la llevó el 21 de agosto de 1911 y él siempre declaró que actuó solo.",
+   "hechos": [
+    "h01",
+    "h03",
+    "h05",
+    "h22"
+   ]
+  },
+  {
+   "pregunta": "¿Cómo sacó Peruggia la Mona Lisa del Louvre?",
+   "respuesta": "Según su propio relato, entró un lunes de cierre con la blusa blanca de los empleados, descolgó el cuadro y dejó el marco y la caja de cristal en una escalera de servicio. Un fontanero del museo, que lo tomó por un compañero, le abrió la puerta, y salió con el cuadro envuelto en la blusa. Otras versiones dicen que pasó la noche escondido dentro del museo.",
+   "hechos": [
+    "h07",
+    "h08",
+    "h09",
+    "h13"
+   ]
+  },
+  {
+   "pregunta": "¿Por qué robó Peruggia la Mona Lisa?",
+   "respuesta": "Él dijo que quería devolver a Italia lo que Napoleón se había llevado, aunque la Mona Lisa llegó a Francia con el propio Leonardo. También declaró que la eligió por ser el cuadro más pequeño y fácil de llevar, y el tribunal tomó las cartas a su padre, en las que le prometía una fortuna, como prueba de que buscaba dinero.",
+   "hechos": [
+    "h40",
+    "h41",
+    "h42",
+    "h44"
+   ]
+  },
+  {
+   "pregunta": "¿Cómo se recuperó la Mona Lisa?",
+   "respuesta": "Peruggia escribió en noviembre de 1913 al anticuario florentino Alfredo Geri ofreciéndole el cuadro. El 11 de diciembre, Geri y el director de los Uffizi, Giovanni Poggi, lo vieron en su hotel, se lo llevaron a los Uffizi y Poggi lo autentificó por el sello y el número del Louvre del reverso y por las grietas de la pintura.",
+   "hechos": [
+    "h27",
+    "h30",
+    "h31"
+   ]
+  },
+  {
+   "pregunta": "¿Por qué la policía no encontró antes a Peruggia?",
+   "respuesta": "La huella de pulgar que Alphonse Bertillon halló en el cristal no coincidió con las de los empleados fichados, y Peruggia, que había trabajado allí para una contrata, no estaba en esa lista. Se suele contar que su ficha policial de 1909 solo guardaba la mano derecha y la huella era de la izquierda. En noviembre de 1911 la policía pasó por su cuarto y se fue sin el cuadro.",
+   "hechos": [
+    "h16",
+    "h17",
+    "h19"
+   ]
+  },
+  {
+   "pregunta": "¿Qué condena recibió Peruggia?",
+   "respuesta": "En junio de 1914 el tribunal de Florencia lo condenó a un año y quince días de cárcel. En apelación, en julio, la pena se rebajó a unos siete meses, que ya había cumplido, y quedó libre.",
+   "hechos": [
+    "h46",
+    "h47"
+   ]
+  }
+ ],
+ "temas": [
+  "Mona Lisa",
+  "Vincenzo Peruggia",
+  "Museo del Louvre",
+  "Florencia",
+  "Robos de arte"
+ ],
+ "imagenes": [
+  {
+   "id": "mona_lisa",
+   "archivo": "imagenes/-nRCs5mqEd0/mona_lisa.jpg",
+   "ancho": 805,
+   "alto": 1200,
+   "pie": "La Mona Lisa de Leonardo da Vinci, óleo sobre tabla del Museo del Louvre.",
+   "titulo": "Mona Lisa, by Leonardo da Vinci, from C2RMF retouched",
+   "autor": "Leonardo da Vinci",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "peruggia_ficha",
+   "archivo": "imagenes/-nRCs5mqEd0/peruggia_ficha.jpg",
+   "ancho": 1166,
+   "alto": 1200,
+   "pie": "Ficha policial de Vincenzo Peruggia, de perfil y de frente, con sus huellas de la mano derecha. París, 25 de enero de 1909.",
+   "titulo": "Vincenzo Perugia",
+   "autor": "Unknown author",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Vincenzo_Perugia.jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "hueco_1911",
+   "archivo": "imagenes/-nRCs5mqEd0/hueco_1911.jpg",
+   "ancho": 640,
+   "alto": 887,
+   "pie": "El hueco de la Mona Lisa en el Salón Carré del Louvre, con los cuatro ganchos en la pared. París, 1911.",
+   "titulo": "Mona Lisa stolen-1911",
+   "autor": "Unknown author",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Mona_Lisa_stolen-1911.jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "domenica_1911",
+   "archivo": "imagenes/-nRCs5mqEd0/domenica_1911.jpg",
+   "ancho": 798,
+   "alto": 1114,
+   "pie": "Portada de La Domenica del Corriere imaginando el robo del Louvre, con dibujo de A. Beltrame. Milán, septiembre de 1911.",
+   "titulo": "Stealing Mona Lisa",
+   "autor": "La Domenica del Coriere",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Stealing_Mona_Lisa.jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "bertillon",
+   "archivo": "imagenes/-nRCs5mqEd0/bertillon.jpg",
+   "ancho": 1200,
+   "alto": 1196,
+   "pie": "Ficha antropométrica del propio Alphonse Bertillon, que encontró la huella en el cristal de la Mona Lisa. París, 1912.",
+   "titulo": "Bertillon, Alphonse, fiche anthropométrique recto-verso - crop",
+   "autor": "Alphonse Bertilon",
+   "licencia": "CC0",
+   "urlLicencia": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Bertillon,_Alphonse,_fiche_anthropom%C3%A9trique_recto-verso_-_crop.jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "petit_parisien_retrouvee",
+   "archivo": "imagenes/-nRCs5mqEd0/petit_parisien_retrouvee.jpg",
+   "ancho": 867,
+   "alto": 1200,
+   "pie": "Portada de Le Petit Parisien: «La Joconde est retrouvée». París, 13 de diciembre de 1913.",
+   "titulo": "Mona Lisa Found, La Joconde est Retrouvée, Le Petit Parisien, Numéro 13559, 13 December 1913",
+   "autor": "Le Petit Parisien",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Mona_Lisa_Found,_La_Joconde_est_Retrouv%C3%A9e,_Le_Petit_Parisien,_Num%C3%A9ro_13559,_13_December_1913.jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "excelsior_peruggia",
+   "archivo": "imagenes/-nRCs5mqEd0/excelsior_peruggia.jpg",
+   "ancho": 823,
+   "alto": 1200,
+   "pie": "Portada de Excelsior con el retrato de Vincenzo Peruggia y la reconstrucción fotográfica del robo. París, 14 de diciembre de 1913.",
+   "titulo": "Excelsior - Vincenzo Peruggia - Vol de La Joconde - Mona Lisa",
+   "autor": "Lafite, Pierre (1872-1938). Directeur de publication",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Excelsior_-_Vincenzo_Peruggia_-_Vol_de_La_Joconde_-_Mona_Lisa.jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "uffizi_poggi",
+   "archivo": "imagenes/-nRCs5mqEd0/uffizi_poggi.jpg",
+   "ancho": 939,
+   "alto": 1200,
+   "pie": "La Mona Lisa recuperada, en la Galería de los Uffizi. Florencia, 1913.",
+   "titulo": "Monalisa uffizi 1913",
+   "autor": "Unknown author",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Monalisa_uffizi_1913.jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "excelsior_revenue",
+   "archivo": "imagenes/-nRCs5mqEd0/excelsior_revenue.jpg",
+   "ancho": 840,
+   "alto": 1200,
+   "pie": "Portada de Excelsior: «La Joconde est revenue», con la llegada del cuadro a París y su exposición en la Escuela de Bellas Artes. 1 de enero de 1914.",
+   "titulo": "Excelsior, journal illustré quotidien, La Joconde est Revenue, 1 January 1914",
+   "autor": "Unknown author",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:Excelsior,_journal_illustr%C3%A9_quotidien,_La_Joconde_est_Revenue,_1_January_1914.jpg",
+   "institucion": "Wikimedia Commons"
+  },
+  {
+   "id": "vuelta_louvre",
+   "archivo": "imagenes/-nRCs5mqEd0/vuelta_louvre.jpg",
+   "ancho": 1200,
+   "alto": 855,
+   "pie": "La Mona Lisa, de vuelta en el Museo del Louvre, sostenida ante un grupo de hombres junto a la puerta de la administración. París, 1914.",
+   "titulo": "After photo for the return of Gioconda at the Louvre Museum 1914",
+   "autor": "Roger-Violet",
+   "licencia": "Public domain",
+   "urlLicencia": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "ficha": "https://commons.wikimedia.org/wiki/File:After_photo_for_the_return_of_Gioconda_at_the_Louvre_Museum_1914.jpg",
+   "institucion": "Wikimedia Commons"
+  }
  ],
  "transcripcion": [
   {
@@ -199,5 +1252,110 @@
    "texto": "Y quien cobró fue el hombre que abrió aquella carta: Alfredo Geri recibió las veinticinco mil de la recompensa. Peruggia se llevó unos meses de cárcel. Y la Mona Lisa, la fama."
   }
  ],
- "actualizado": "2026-11-20T21:43:47.213Z"
+ "en": {
+  "titulo": "Mona Lisa: the letters of the man who stole her",
+  "resumen": "Florence, 1913: a letter offers to return the Mona Lisa to Italy, stolen from the Louvre more than two years earlier, but without giving up a reward. We follow Vincenzo Peruggia from Paris to the Uffizi, and the letters the court read to weigh his motives.",
+  "capitulos": [
+   "The letter from Leonard V.",
+   "A Louvre workman",
+   "The Monday of the theft",
+   "Four hooks and a fingerprint",
+   "The London door",
+   "A meeting in Florence",
+   "The face of the search",
+   "Peruggia's explanation",
+   "The letters before the court"
+  ],
+  "transcripcion": [
+   "Florence, November 1913. An antiques dealer receives a letter signed \"Leonard V.\" It offers to return the Mona Lisa to Italy, missing from the Louvre for more than two years.",
+   "The writer wants it to end up in the Uffizi, but he won't give up a reward. According to the dealer, he asks for 500,000 lire.",
+   "Two years earlier, in Paris. The sender's name was Vincenzo Peruggia: a house painter born in Dumenza, near Varese.",
+   "The police already knew him: in 1909 they had booked and photographed him.",
+   "And he had worked at the Louvre, for a firm that, according to many sources, put several paintings under glass. Perhaps the Mona Lisa too.",
+   "It hung in the Salon Carré: a panel less than 80 centimetres tall, held up by just four iron hooks.",
+   "Monday, 21 August 1911, the Louvre's closing day. What follows, he told himself. Peruggia walks in like any other workman, in the white smock worn by the staff.",
+   "He takes the painting down and, on a service staircase, strips off the frame and the glass case. He leaves them there.",
+   "The door at the bottom is locked. He unscrews the knob. A museum plumber takes him for a colleague and opens it for him.",
+   "He walks out with the painting wrapped in his smock. By the Seine, he throws the doorknob into a ditch.",
+   "Nobody raises the alarm for more than a day. On Tuesday, the painter Louis Béroud arrives to copy the picture and finds only four hooks.",
+   "The museum closes for a week. When it reopens, thousands of people queue to see a gap on the wall. Among them, Franz Kafka.",
+   "On the glass, Alphonse Bertillon finds a thumbprint. He compares it with those of the museum's employees: none matches. Peruggia, who had worked there for a contractor, was not on that list.",
+   "His 1909 police record didn't help either. The story usually goes that it held only his right hand, and the print was from the left.",
+   "In November, the police call at his room in the 10th arrondissement, as they do with other Louvre workmen. They leave without the painting.",
+   "And he had the painting. By his own account, first in a cubbyhole next to his room. In the end, in a wooden box he built himself.",
+   "Almost two years go by. Before Italy, he knocks on another door: in July 1913 he tells his story to the Duveen art dealers in London. He would say he went for advice; the court, that he tried to sell it. In the autumn he writes to a politician asking him to arrange a payment.",
+   "Then he sees an advertisement from the Florentine dealer Alfredo Geri in the Corriere della Sera. He writes to him: it is the letter signed \"Leonard V.\"",
+   "Geri replies. On 10 December, Peruggia arrives in Florence, checks into the Hotel Tripoli and that afternoon goes to see the dealer.",
+   "The next day, Geri and Giovanni Poggi, director of the Uffizi, go to his hotel. Peruggia takes the painting out of a wooden box with a false bottom.",
+   "Saying the light is too poor, they take it to the Uffizi. Poggi authenticates it by the Louvre stamp and number on the back, and by the cracks in the paint.",
+   "On 12 December he is arrested at his hotel. He confesses at his first questioning.",
+   "Before it goes back to Paris, Italy shows it in Florence, Rome and Milan. On the last day of the year it crosses the border.",
+   "On 4 January 1914 it returns to the Salon Carré. In two days, more than 100,000 people come to see it.",
+   "While it was missing, it was searched for with its own face: the police printed thousands of copies of its photograph, and the Friends of the Louvre offered a reward of 25,000. It was already celebrated, above all among connoisseurs; the coverage of the theft made it famous around the world.",
+   "Peruggia said he stole it to return to Italy what Napoleon had taken.",
+   "But the Mona Lisa did not leave Italy with Napoleon. Leonardo himself took it to France, and King Francis I probably bought it.",
+   "And Peruggia himself stated that he chose it because it was the smallest painting and the easiest to carry.",
+   "In June 1914, the court in Florence reads the letters he wrote to his father. In them he promised him a fortune. The court takes them as proof that he was after money.",
+   "He is sentenced to a year and fifteen days. On appeal, it comes down to about seven months, already served. He walks free.",
+   "Patriot or seller? He wanted it to end up in Italy, yes. But first he went to art dealers in London, asked a politician to get him money and promised his father a fortune. His letters say both things: a patriot who wanted to be paid.",
+   "And the one who got paid was the man who opened that letter: Alfredo Geri received the 25,000 reward. Peruggia got a few months in prison. And the Mona Lisa, fame."
+  ],
+  "cronologia": [
+   "Monday, the Louvre's closing day. Vincenzo Peruggia, who had worked at the museum for a contractor, takes the Mona Lisa from the Salon Carré.",
+   "The painter Louis Béroud arrives to copy the picture and finds only the four hooks. It is the first alarm.",
+   "The police call at Peruggia's room in the 10th arrondissement of Paris, as they do with other Louvre workmen, and leave without the painting.",
+   "Peruggia travels to London and tells his story to the Duveen art dealers. He gets nothing.",
+   "Signing as \"Leonard V.\", he writes to the Florentine dealer Alfredo Geri, offering to return the Mona Lisa to Italy without giving up a reward.",
+   "Geri and Giovanni Poggi, director of the Uffizi, see the painting at Peruggia's hotel and take it to the Uffizi, where Poggi authenticates it.",
+   "Peruggia is arrested at his hotel in Florence and confesses at his first questioning.",
+   "The Mona Lisa returns to the Salon Carré. In two days, more than 100,000 people come to see it.",
+   "The court in Florence sentences Peruggia to a year and fifteen days in prison for aggravated theft.",
+   "On appeal, the sentence comes down to about seven months, already served in custody, and Peruggia walks free."
+  ],
+  "preguntas": [
+   {
+    "pregunta": "Who stole the Mona Lisa?",
+    "respuesta": "Vincenzo Peruggia, a house painter born in Dumenza (Varese) who had worked at the Louvre for a contractor. He took it on 21 August 1911 and always stated that he acted alone."
+   },
+   {
+    "pregunta": "How did Peruggia get the Mona Lisa out of the Louvre?",
+    "respuesta": "By his own account, he walked in on a closing day wearing the staff's white smock, took the painting down and left the frame and glass case on a service staircase. A museum plumber, taking him for a colleague, opened the door for him, and he left with the painting wrapped in the smock. Other versions say he spent the night hidden inside the museum."
+   },
+   {
+    "pregunta": "Why did Peruggia steal the Mona Lisa?",
+    "respuesta": "He said he wanted to return to Italy what Napoleon had taken, although the Mona Lisa reached France with Leonardo himself. He also stated that he chose it because it was the smallest and easiest painting to carry, and the court took his letters to his father, promising him a fortune, as proof that he was after money."
+   },
+   {
+    "pregunta": "How was the Mona Lisa recovered?",
+    "respuesta": "In November 1913 Peruggia wrote to the Florentine dealer Alfredo Geri offering him the painting. On 11 December, Geri and the Uffizi director Giovanni Poggi saw it at his hotel, took it to the Uffizi, and Poggi authenticated it by the Louvre stamp and number on the back and by the cracks in the paint."
+   },
+   {
+    "pregunta": "Why didn't the police find Peruggia sooner?",
+    "respuesta": "The thumbprint Alphonse Bertillon found on the glass did not match those of the employees on file, and Peruggia, who had worked there for a contractor, was not on that list. The story usually goes that his 1909 police record held only his right hand, while the print was from the left. In November 1911 the police called at his room and left without the painting."
+   },
+   {
+    "pregunta": "What sentence did Peruggia receive?",
+    "respuesta": "In June 1914 the court in Florence sentenced him to a year and fifteen days in prison. On appeal, in July, the sentence was reduced to about seven months, which he had already served, and he was released."
+   }
+  ],
+  "temas": [
+   "Mona Lisa",
+   "Vincenzo Peruggia",
+   "Louvre Museum",
+   "Florence",
+   "Art theft"
+  ],
+  "pies": [
+   "Leonardo da Vinci's Mona Lisa, oil on panel, Louvre Museum.",
+   "Vincenzo Peruggia's police record, in profile and full face, with his right-hand fingerprints. Paris, 25 January 1909.",
+   "The empty space of the Mona Lisa in the Louvre's Salon Carré, with the four hooks on the wall. Paris, 1911.",
+   "Cover of La Domenica del Corriere imagining the Louvre theft, drawing by A. Beltrame. Milan, September 1911.",
+   "Anthropometric record of Alphonse Bertillon himself, who found the fingerprint on the Mona Lisa's glass. Paris, 1912.",
+   "Front page of Le Petit Parisien: \"La Joconde est retrouvée\" (The Mona Lisa has been found). Paris, 13 December 1913.",
+   "Front page of Excelsior with a portrait of Vincenzo Peruggia and a photographic reconstruction of the theft. Paris, 14 December 1913.",
+   "The recovered Mona Lisa in the Uffizi Gallery. Florence, 1913.",
+   "Front page of Excelsior: \"La Joconde est revenue\" (The Mona Lisa is back), with the painting's arrival in Paris and its display at the École des Beaux-Arts. 1 January 1914.",
+   "The Mona Lisa back at the Louvre Museum, held up before a group of men by the administration door. Paris, 1914."
+  ]
+ }
 }

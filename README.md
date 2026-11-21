@@ -34,15 +34,20 @@ Los slugs se fijan la primera vez que se ve un vídeo y no cambian aunque cambie
 
 | Archivo | Para qué |
 |---|---|
-| `index.html` | Portada con el mapa animado, el último caso, todos los casos, Shorts, el mapa interactivo y el método |
-| `casos/<slug>/` | Cada caso: reproductor sin cookies, mapa del recorrido, capítulos que saltan al minuto, transcripción, fuentes y créditos |
-| `sobre/` | El método, las normas editoriales, cifras, preguntas frecuentes y privacidad |
+| `index.html` | Portada con el mapa animado, el último caso, todos los casos, Shorts, el mapa interactivo, los temas y el método |
+| `casos/<slug>/` | Cada caso: reproductor sin cookies, mapa del recorrido, capítulos que saltan al minuto, cronología, documentos y fotografías con su licencia, preguntas, transcripción, comprobaciones (las frases confirmadas por la verificación independiente, con lo que dice cada fuente), fuentes y créditos |
+| `en/` · `en/cases/<slug>/` · `en/about/` | Versión en inglés (los casos que el estudio ha traducido), con `hreflang` |
+| `temas/` · `temas/<tema>/` · `lugares/<lugar>/` | Páginas que reúnen los casos por persona, tema o lugar |
+| `sobre/` | Quién lo hace, el método, las normas editoriales, cifras, preguntas frecuentes y privacidad |
+| `<clave>.txt` · `urls.txt` | IndexNow: la Action avisa a Bing y compañía tras cada publicación |
 | `sitemap.xml` | Con extensión de vídeo de Google |
 | `robots.txt` | Abierto a buscadores y asistentes de IA |
 | `llms.txt` · `llms-full.txt` | Resumen y texto completo para asistentes ([llmstxt.org](https://llmstxt.org)) |
 | `feed.xml` | Atom con los casos |
 
-En cada página: datos estructurados de schema.org (`VideoObject` con capítulos como `Clip`, lugares, citas y transcripción; `Organization`, `BreadcrumbList`, `FAQPage`), Open Graph, Twitter Cards y canonical.
+En cada página: datos estructurados de schema.org (`VideoObject` con capítulos como `Clip`, `SeekToAction`, lugares, temas, citas y transcripción; `ImageObject` con licencia, autor y ficha; `Organization`, `BreadcrumbList`, `FAQPage`, `CollectionPage`), Open Graph, Twitter Cards, canonical y `hreflang`.
+
+`datos/canal.json` activa sin tocar código la verificación de Google Search Console y Bing (`verificacion`) y la analítica sin cookies (`analitica`: Cloudflare Web Analytics o GoatCounter).
 
 ## En local
 
