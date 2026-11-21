@@ -96,6 +96,8 @@ fs.rmSync(SITE, { recursive: true, force: true });
 fs.cpSync(path.join(RAIZ, "recursos"), path.join(SITE, "recursos"), { recursive: true });
 if (fs.existsSync(path.join(RAIZ, "contenido/imagenes"))) fs.cpSync(path.join(RAIZ, "contenido/imagenes"), path.join(SITE, "imagenes"), { recursive: true });
 fs.writeFileSync(path.join(SITE, ".nojekyll"), "");
+// raiz/: archivos que van tal cual en la raíz de la web (verificaciones de Google Search Console, Bing…).
+if (fs.existsSync(path.join(RAIZ, "raiz"))) fs.cpSync(path.join(RAIZ, "raiz"), SITE, { recursive: true });
 if (canal.indexnow) fs.writeFileSync(path.join(SITE, `${canal.indexnow}.txt`), canal.indexnow);
 
 const CACHE = path.join(RAIZ, ".cache/miniaturas");
