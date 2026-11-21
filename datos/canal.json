@@ -13,8 +13,21 @@
  "youtube": "https://www.youtube.com/@hiloymapa",
  "suscribirse": "https://www.youtube.com/@hiloymapa?sub_confirmation=1",
  "fundado": "2026-11-14",
- "redes": ["https://www.youtube.com/@hiloymapa", "https://www.youtube.com/channel/UCB64a2AD_zkwcv-xQBwnb_A", "https://github.com/hiloymapa"],
- "verificacion": { "nota": "Códigos de verificación de propiedad: solo el contenido de la etiqueta meta.", "google": "", "bing": "" },
- "analitica": { "nota": "Analítica sin cookies. proveedor: «cloudflare» (con token) o «goatcounter» (con codigo). Vacío: sin analítica.", "proveedor": "", "token": "", "codigo": "" },
+ "redes": [
+  "https://www.youtube.com/@hiloymapa",
+  "https://www.youtube.com/channel/UCB64a2AD_zkwcv-xQBwnb_A",
+  "https://github.com/hiloymapa"
+ ],
+ "verificacion": {
+  "nota": "Códigos de verificación de propiedad: solo el contenido de la etiqueta meta.",
+  "google": "",
+  "bing": ""
+ },
+ "analitica": {
+  "nota": "Analítica sin cookies. proveedor: «cloudflare» (con token) o «goatcounter» (con codigo). Vacío: sin analítica.",
+  "proveedor": "cloudflare",
+  "token": "dacd378b425b494f83301da043c97aa4",
+  "codigo": ""
+ },
  "indexnow": "f57716ef97f6b48ded92e7c4675b2b73"
 }
